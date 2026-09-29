@@ -1,0 +1,18 @@
+{
+  "version": "3.0.0",
+  "status": "passed",
+  "files": [
+    "aspirin.json",
+    "aspirin.sdf",
+    "batch.json",
+    "batch.csv"
+  ],
+  "checks": [
+    "219 descriptors and three actual model outputs",
+    "two SDF conformers parsed by RDKit",
+    "equivalent SMILES identical predictions",
+    "batch error isolation",
+    "OOD values and intervals remain null or blank, members withheld",
+    "CSV numeric values match JSON without rounding loss"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "version": "3.0.0",
+  "checked_utc": "2026-09-29T03:41:33.138Z",
+  "status": "passed",
+  "method": "Computer Use through cua_repl; real DOM, keyboard, mouse drag, file chooser and screenshots.",
+  "checks": [
+    {
+      "name": "阿司匹林深入分析：真实进度、三性质、收敛构象与实测记录分离",
+      "status": "passed"
+    },
+    {
+      "name": "示例填入与分析深度键盘操作",
+      "status": "passed"
+    },
+    {
+      "name": "二维与三维切换；构象选择；鼠标拖动及键盘旋转缩放",
+      "status": "passed"
+    },
+    {
+      "name": "结果加入分子对比",
+      "status": "passed"
+    },
+    {
+      "name": "标准分析仅请求 logD；未生成三维时禁用 SDF 和三维图",
+      "status": "passed"
+    },
+    {
+      "name": "双分子对比保留单位、区间；未请求性质显示未提供",
+      "status": "passed"
+    },
+    {
+      "name": "非法 SMILES 显示错误并清除旧成功结果",
+      "status": "passed"
+    },
+    {
+      "name": "批量有效/错误行隔离；等价 SMILES 结果一致；范围外三性质拒报数值",
+      "status": "passed"
+    },
+    {
+      "name": "中文名称乙醇检索：规范 CCO、来源分离、页码回到第一页",
+      "status": "passed"
+    },
+    {
+      "name": "等价 OCC 精确结构检索命中 CCO",
+      "status": "passed"
+    },
+    {
+      "name": "相似检索自身相似度 1.000 且结果按分数排列",
+      "status": "passed"
+    },
+    {
+      "name": "实际翻页到第 21–40 条",
+      "status": "passed"
+    },
+    {
+      "name": "来源 FreeSolv 与 logS 同时筛选：正确返回空集",
+      "status": "passed"
+    },
+    {
+      "name": "QM9 独立页签、130831 条记录、甲烷零偶极矩与 eV 单位",
+      "status": "passed"
+    },
+    {
+      "name": "QM9 对未收录阿司匹林显示空结果，不填零",
+      "status": "passed"
+    },
+    {
+      "name": "实际 JSON、CSV、SDF 下载并独立解析核对通过",
+      "status": "passed"
+    },
+    {
+      "name": "模型证据展示真实七候选评分、各目标测试误差及 logD 覆盖率不足提示",
+      "status": "passed"
+    },
+    {
+      "name": "深浅主题切换",
+      "status": "passed"
+    },
+    {
+      "name": "真实 CSV 文件选择器导入：逗号/换行引号字段解析为三行结构；入口支持键盘",
+      "status": "passed"
+    },
+    {
+      "name": "网页提交后取消成功，历史记录标为已取消且不展示旧结果",
+      "status": "passed"
+    },
+    {
+      "name": "刷新后历史重开：恢复深入模式、三维与对应结果",
+      "status": "passed"
+    },
+    {
+      "name": "390px 宽度：输入、历史三维、数据库、证据页可用且页面无横向溢出",
+      "status": "passed"
+    },
+    {
+      "name": "刷新后的浏览器控制台无 error 记录",
+      "status": "passed"
+    }
+  ],
+  "viewports": {
+    "desktop": "Existing default in-app browser viewport",
+    "mobile": {
+      "width": 390,
+      "height": 844
+    },
+    "temporary_override_restored": true
+  },
+  "scope": "One Windows in-app browser; 390px viewport emulation is not physical-phone or cross-browser testing. File downloads independently parsed in browser_exports/verification.json.",
+  "resolved_issues": [
+    "CSV import label changed to a native button; keyboard file chooser and actual CSV import then verified."
+  ],
+  "automation_notes": [
+    "For some pointer locator actions, keyboard or screenshot-based coordinates were used. The JSON download event timed out, but the actual downloaded file was found and parsed."
+  ],
+  "screenshots": [
+    "02-deep-analysis.png",
+    "03-comparison.png",
+    "04-batch.png",
+    "05-quantum-reference.png",
+    "06-model-evidence.png",
+    "07-dark-mode.png",
+    "08-mobile-analysis.png"
+  ]
+}

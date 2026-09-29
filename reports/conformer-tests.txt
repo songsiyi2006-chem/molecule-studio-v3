@@ -1,0 +1,9 @@
+test_absent_force_field_parameters_do_not_become_fake_geometry (test_conformers.ConformerTests.test_absent_force_field_parameters_do_not_become_fake_geometry) ... ok
+test_large_or_highly_flexible_molecule_is_skipped_before_embedding (test_conformers.ConformerTests.test_large_or_highly_flexible_molecule_is_skipped_before_embedding) ... ok
+test_no_converged_conformer_has_no_lowest_energy_or_download (test_conformers.ConformerTests.test_no_converged_conformer_has_no_lowest_energy_or_download) ... ok
+test_real_ethanol_geometry_energy_order_and_sdf_are_consistent (test_conformers.ConformerTests.test_real_ethanol_geometry_energy_order_and_sdf_are_consistent) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.109s
+
+OK

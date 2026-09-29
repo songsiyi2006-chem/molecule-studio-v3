@@ -1,0 +1,762 @@
+﻿canonical_smiles,identity_smiles,scaffold,name,value,source_datasets,source_observation_count,reason
+Brc1cc2oc3cc(Br)c(Br)cc3c2cc1Br,Brc1cc2oc3cc(Br)c(Br)cc3c2cc1Br,c1ccc2c(c1)oc1ccccc12,"dibenzofuran, 2,3,7,8-tetrabromo-",-6.8395,AqSolDB,1,frozen_test_identity_or_scaffold
+C#CC1(O)CCC2C3CCC4=Cc5oncc5CC4(C)C3CCC21C,C#CC1(O)CCC2C3CCC4=Cc5oncc5CC4(C)C3CCC21C,C1=C2CCC3C4CCCC4CCC3C2Cc2cnoc21,danazol,-5.51,AqSolDB,1,frozen_test_identity_or_scaffold
+C#CCOc1cc(-n2nc(C(C)(C)C)oc2=O)c(Cl)cc1Cl,C#CCOc1cc(-n2nc(C(C)(C)C)oc2=O)c(Cl)cc1Cl,O=c1ocnn1-c1ccccc1,oxadiargyl,-5.9648,AqSolDB,1,frozen_test_identity_or_scaffold
+C1=CCC=CC1,C1=CCC=CC1,C1=CCC=CC1,"1,4-cyclohexadiene",-2.0587,AqSolDB,1,frozen_test_identity_or_scaffold
+C1=CCCC1,C1=CCCC1,C1=CCCC1,cyclopentene,-2.1049144818000003,AqSolDB,1,frozen_test_identity_or_scaffold
+C1=CCCCCC1,C1=CCCCCC1,C1=CCCCCC1,Cycloheptene,-3.18,AqSolDB,1,frozen_test_identity_or_scaffold
+C1=Cc2cccc3cccc1c23,C1=Cc2cccc3cccc1c23,C1=Cc2cccc3cccc1c23,acenaphthylene,-3.9756,AqSolDB,1,frozen_test_identity_or_scaffold
+C1CCC2CCCCC2C1,C1CCC2CCCCC2C1,C1CCC2CCCCC2C1,decahydronaphthalene,-4.1406777053,AqSolDB,1,frozen_test_identity_or_scaffold
+C1CCNCC1,C1CCNCC1,C1CCNCC1,piperidine,1.0698153476999999,AqSolDB,1,frozen_test_identity_or_scaffold
+C1CO1,C1CO1,C1CO1,ethylene oxide,1.3559999999999999,AqSolDB,1,frozen_test_identity_or_scaffold
+C=C(C)C(=O)OC1CC2CCC1(C)C2(C)C,C=C(C)C(=O)OC1CC2CCC1(C)C2(C)C,C1CC2CCC1C2,"(1S,2S,4S)-1,7,7-trimethylbicyclo[2.2.1]heptan-2-yl 2-methylprop-2-enoate",-4.5442204359,AqSolDB,1,frozen_test_identity_or_scaffold
+C=C(C)C(=O)OCC1CO1,C=C(C)C(=O)OCC1CO1,C1CO1,oxiran-2-ylmethyl 2-methylprop-2-enoate,-0.45378908030000004,AqSolDB,1,frozen_test_identity_or_scaffold
+C=C(C)C(=O)OCCN1CCNC1=O,C=C(C)C(=O)OCCN1CCNC1=O,O=C1NCCN1,2-(2-oxoimidazolidin-1-yl)ethyl methacrylate,0.7028481462999999,AqSolDB,1,frozen_test_identity_or_scaffold
+C=C(C)C1Cc2c(ccc3c2OC2COc4cc(OC)c(OC)cc4C2C3=O)O1,C=C(C)C1Cc2c(ccc3c2OC2COc4cc(OC)c(OC)cc4C2C3=O)O1,O=C1c2ccc3c(c2OC2COc4ccccc4C12)CCO3,rotenone,-5.38245,AqSolDB,2,frozen_test_identity_or_scaffold
+C=C(c1ccccc1)c1ccccc1,C=C(c1ccccc1)c1ccccc1,C=C(c1ccccc1)c1ccccc1,"1,1-diphenylethylene",-4.4363,AqSolDB,1,frozen_test_identity_or_scaffold
+C=CC(=O)OC1C[C@@H]2CC[C@@]1(C)C2(C)C,C=CC(=O)OC1CC2CCC1(C)C2(C)C,C1CC2CCC1C2,"(1S,2S,4S)-1,7,7-trimethylbicyclo[2.2.1]heptan-2-yl prop-2-enoate",-4.5830924552,AqSolDB,1,frozen_test_identity_or_scaffold
+C=CC(=O)OCC1CC2CC1C1CCC(COC(=O)C=C)C21,C=CC(=O)OCC1CC2CC1C1CCC(COC(=O)C=C)C21,C1CC2C3CCC(C3)C2C1,"(octahydro-4,7-methano-1H-indenediyl)bis(methylene) diacrylate",-4.4930858187,AqSolDB,1,frozen_test_identity_or_scaffold
+C=CC1(C)OC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O,C=CC1(C)OC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O,O=C1COC(=O)N1c1ccccc1,Vinclozolin,-4.925,AqSolDB,1,frozen_test_identity_or_scaffold
+C=CCN(CC=C)c1cc(NC(C)=O)c(N=Nc2c(Br)cc([N+](=O)[O-])cc2[N+](=O)[O-])cc1OC,C=CCN(CC=C)c1cc(NC(C)=O)c(N=Nc2c(Br)cc([N+](=O)[O-])cc2[N+](=O)[O-])cc1OC,c1ccc(N=Nc2ccccc2)cc1,"N-{5-[bis(prop-2-en-1-yl)amino]-2-[(E)-2-(2-bromo-4,6-dinitrophenyl)diazen-1-yl]-4-methoxyphenyl}acetamide",-7.0093328393,AqSolDB,1,frozen_test_identity_or_scaffold
+C=CCN(CC=C)c1cc(NC(C)=O)c(N=Nc2c(Cl)cc([N+](=O)[O-])cc2[N+](=O)[O-])cc1OC,C=CCN(CC=C)c1cc(NC(C)=O)c(N=Nc2c(Cl)cc([N+](=O)[O-])cc2[N+](=O)[O-])cc1OC,c1ccc(N=Nc2ccccc2)cc1,"N-{5-[bis(prop-2-en-1-yl)amino]-2-[(E)-2-(2-chloro-4,6-dinitrophenyl)diazen-1-yl]-4-methoxyphenyl}acetamide",-4.3881793818,AqSolDB,1,frozen_test_identity_or_scaffold
+C=CCN(CCC#N)c1cc(NC(C)=O)c(N=Nc2c(Br)cc([N+](=O)[O-])cc2[N+](=O)[O-])cc1OC,C=CCN(CCC#N)c1cc(NC(C)=O)c(N=Nc2c(Br)cc([N+](=O)[O-])cc2[N+](=O)[O-])cc1OC,c1ccc(N=Nc2ccccc2)cc1,"N-[2-[(2-Bromo-4,6-dinitrophenyl)azo]-5-[(2-cyanoethyl)-2-propenylamino]-4-methoxyphenyl]acetamide",-8.9,AqSolDB,1,frozen_test_identity_or_scaffold
+C=CCOCC1CO1,C=CCOCC1CO1,C1CO1,2-[(prop-2-en-1-yloxy)methyl]oxirane,0.049756882,AqSolDB,1,frozen_test_identity_or_scaffold
+C=CN1CCN(C=C)C1=O,C=CN1CCN(C=C)C1=O,O=C1NCCN1,"1,3-divinylimidazolidin-2-one",-1.1558864442,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=NNC(=O)c1nccs1)C(=O)O,CC(=NNC(=O)c1nccs1)C(=O)O,c1cscn1,"(2~{Z})-2-(1,3-thiazole-2-carbonylhydrazinylidene)propanoic acid",-1.93,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)C1(C)CO1,CC(=O)C1(C)CO1,C1CO1,"ethanone, 1-(2-methyloxiranyl)-",0.3797,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C,CC(=O)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C,C1=C2CCCCC2C2CCC3CCCC3C2C1,Pregnenolone,-4.651,AqSolDB,2,frozen_test_identity_or_scaffold
+CC(=O)CC(c1ccc(Cl)cc1)c1c(O)c2ccccc2oc1=O,CC(=O)CC(c1ccc(Cl)cc1)c1c(O)c2ccccc2oc1=O,O=c1oc2ccccc2cc1Cc1ccccc1,Coumachlor,-5.8389999999999995,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O,CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O,O=c1oc2ccccc2cc1Cc1ccccc1,warfarin,-4.78,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)CC1CCCCN1,CC(=O)CC1CCCCN1,C1CCNCC1,"2-propanone, 1-(2-piperidinyl)-",-0.4509,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)N(c1onc(C)c1C)S(=O)c1ccc(N)cc1,CC(=O)N(c1onc(C)c1C)S(=O)c1ccc(N)cc1,O=S(Nc1ccno1)c1ccccc1,acetyl sulfisoxazole,-3.59,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)NC(Cc1c[nH]c2ccccc12)C(=O)O,CC(=O)NC(Cc1c[nH]c2ccccc12)C(=O)O,c1ccc2[nH]ccc2c1,2-acetamido-3-(1H-indol-3-yl)propanoic acid,-2.31,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)[O-],CC(=O)NC(Cc1c[nH]c2ccccc12)C(=O)[O-],c1ccc2[nH]ccc2c1,n-acetyl-dl-tryptophan,-2.3122,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)Nc1cc(N(CCOC(C)=O)CCOC(C)=O)ccc1N=Nc1ccc([N+](=O)[O-])cc1Cl,CC(=O)Nc1cc(N(CCOC(C)=O)CCOC(C)=O)ccc1N=Nc1ccc([N+](=O)[O-])cc1Cl,c1ccc(N=Nc2ccccc2)cc1,2-{[2-(acetyloxy)ethyl]({4-[(E)-2-(2-chloro-4-nitrophenyl)diazen-1-yl]-3-acetamidophenyl})amino}ethyl acetate,-6.963714866599999,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)Nc1ccc2c(c1)Cc1ccccc1-2,CC(=O)Nc1ccc2c(c1)Cc1ccccc1-2,c1ccc2c(c1)Cc1ccccc1-2,N-(9H-Fluoren-2-yl)acetamide,-4.24,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)Nc1nc2c(ncn2COCCO)c(=O)[nH]1,CC(=O)Nc1nc2c(ncn2COCCO)c(=O)[nH]1,O=c1[nH]cnc2[nH]cnc12,n-acetylacyclovir,-1.92,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)Nc1nc2c(ncn2COCCOC(C)=O)c(=O)[nH]1,CC(=O)Nc1nc2c(ncn2COCCOC(C)=O)c(=O)[nH]1,O=c1[nH]cnc2[nH]cnc12,"n,o-diacetylacyclovir",-2.14,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)Nc1nnc(S(N)(=O)=O)s1,CC(=O)Nc1nnc(S(N)(=O)=O)s1,c1nncs1,acetazolamide,-2.44,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)OC1C2(C)CCC(C2)C1(C)C,CC(=O)OC1C2(C)CCC(C2)C1(C)C,C1CC2CCC1C2,"(1,5,5-trimethyl-6-bicyclo[2.2.1]heptanyl) acetate",-3.8745968837,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)OC1CC2CC1C1CCCC21,CC(=O)OC1CC2CC1C1CCCC21,C1CC2C3CCC(C3)C2C1,Tricyclodecanyl acetate,-3.3380498278,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)OC1CC2CCC1(C)C2(C)C,CC(=O)OC1CC2CCC1(C)C2(C)C,C1CC2CCC1C2,endo-bornyl  acetate;  endo-borneol acetate,-3.4963238418,AqSolDB,3,frozen_test_identity_or_scaffold
+CC(=O)OC1CCC2(C)C(=CCC3C4CCC(=O)C4(C)CCC32)C1,CC(=O)OC1CCC2(C)C(=CCC3C4CCC(=O)C4(C)CCC32)C1,O=C1CCC2C1CCC1C3CCCCC3=CCC21,"prasterone  acetate;  dehydroepiandrosterone  acetate; prasterone acetate; 5,6-dehydroisoandrosterone acetate",-4.4942,AqSolDB,2,frozen_test_identity_or_scaffold
+CC(=O)O[C@H]1CC[C@H]2[C@@H]3CC[C@H]4CC(=O)C[C@H](C)[C@]4(C)[C@H]3CC[C@]12C,CC(=O)OC1CCC2C3CCC4CC(=O)CC(C)C4(C)C3CCC12C,O=C1CCC2C(CCC3C4CCCC4CCC23)C1,1-methyl-3-oxoandrostan-17-yl acetate,-5.0925589945,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)OC1CCC2C3CCC4CC(=O)CCC4(C)C3CCC12C,CC(=O)OC1CCC2C3CCC4CC(=O)CCC4(C)C3CCC12C,O=C1CCC2C(CCC3C4CCCC4CCC23)C1,stanolone  acetate,-5.35,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)OC1CCC2CCCCC2C1,CC(=O)OC1CCC2CCCCC2C1,C1CCC2CCCCC2C1,decahydronaphthalen-2-yl acetate,-3.5605044151999996,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)OC[C@H]1O[C@H](O[C@]2(COC(C)=O)O[C@H](COC(=O)C(C)C)[C@@H](OC(=O)C(C)C)[C@@H]2OC(=O)C(C)C)[C@H](OC(=O)C(C)C)[C@@H](OC(=O)C(C)C)[C@@H]1OC(=O)C(C)C,CC(=O)OCC1OC(OC2(COC(C)=O)OC(COC(=O)C(C)C)C(OC(=O)C(C)C)C2OC(=O)C(C)C)C(OC(=O)C(C)C)C(OC(=O)C(C)C)C1OC(=O)C(C)C,C1CCC(OC2CCCO2)OC1,"6-O-acetyl-1,3,4-tri-O-isobutyryl-beta-D-fructofuranosyl 6-O-acetyl-2,3,4-tri-O-isobutyryl-alpha-D-glucopyranoside",-6.0735348087,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)OC[C@H]1O[C@@](COC(C)=O)(O[C@H]2O[C@H](COC(C)=O)[C@@H](OC(C)=O)[C@H](OC(C)=O)[C@H]2OC(C)=O)[C@@H](OC(C)=O)[C@@H]1OC(C)=O,CC(=O)OCC1OC(OC2(COC(C)=O)OC(COC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O,C1CCC(OC2CCCO2)OC1,sucrose octaacetate,-2.8726,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)OCCN(CCC#N)c1ccc(N=Nc2c(Cl)cc([N+](=O)[O-])cc2Cl)cc1,CC(=O)OCCN(CCC#N)c1ccc(N=Nc2c(Cl)cc([N+](=O)[O-])cc2Cl)cc1,c1ccc(N=Nc2ccccc2)cc1,"2-[N-(2-cyanoethyl)-4-[(2,6-dichloro-4-nitrophenyl)azo]anilino]ethyl acetate",-7.0514245951,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)OCCN(CCC#N)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2)cc1,CC(=O)OCCN(CCC#N)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2)cc1,c1ccc(N=Nc2ccccc2)cc1,3-[[2-(acetyloxy)ethyl][4-[(4-nitrophenyl)azo]phenyl]amino]propiononitrile,-4.2803415835,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)OCCN(CCOC(C)=O)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2C#N)cc1,CC(=O)OCCN(CCOC(C)=O)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2C#N)cc1,c1ccc(N=Nc2ccccc2)cc1,2-[[4-[(2-cyano-3-nitrophenyl)azo]-m-tolyl](2-acetoxyethyl)amino]ethyl acetate,-7.300465045499999,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)OCCOCn1cnc2c(=O)[nH]c(N)nc21,CC(=O)OCCOCn1cnc2c(=O)[nH]c(N)nc21,O=c1[nH]cnc2[nH]cnc12,o-acetylacyclovir,-2.7,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)OCn1ncc2c(=O)[nH]cnc21,CC(=O)OCn1ncc2c(=O)[nH]cnc21,O=c1[nH]cnc2[nH]ncc12,1-(acetoxymethyl)allopurinol,-2.56,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)Oc1ccc(NC(=O)Nc2ccccc2)cc1,CC(=O)Oc1ccc(NC(=O)Nc2ccccc2)cc1,O=C(Nc1ccccc1)Nc1ccccc1,4-(3-phenylureido)phenyl  acetate;  acetic acid 4-(3-phenylureido)phenyl ester,-4.44,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)SC1CC2=CC(=O)CCC2(C)C2CCC3(C)C(CCC34CCC(=O)O4)C12,CC(=O)SC1CC2=CC(=O)CCC2(C)C2CCC3(C)C(CCC34CCC(=O)O4)C12,O=C1C=C2CCC3C(CCC4C3CCC43CCC(=O)O3)C2CC1,spironolactone,-4.278650000000001,AqSolDB,2,frozen_test_identity_or_scaffold
+CC(=O)c1cc(C(C)(C)C)cc2c1CCC2(C)C,CC(=O)c1cc(C(C)(C)C)cc2c1CCC2(C)C,c1ccc2c(c1)CCC2,"1-(6-tert-butyl-1,1-dimethyl-2,3-dihydro-1H-inden-4-yl)ethan-1-one",-4.8708662082,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)c1cc2c(cc1C)C(C)(C)C(C)CC2(C)C,CC(=O)c1cc2c(cc1C)C(C)(C)C(C)CC2(C)C,c1ccc2c(c1)CCCC2,tonalid,-5.3154,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)c1ccc(OC2OC(CO)C(O)C(O)C2O)cc1,CC(=O)c1ccc(OC2OC(CO)C(O)C(O)C2O)cc1,c1ccc(OC2CCCCO2)cc1,picein,-1.1720000000000002,AqSolDB,2,frozen_test_identity_or_scaffold
+CC(=O)c1cccc(Nc2ccccc2C(=O)O)c1,CC(=O)c1cccc(Nc2ccccc2C(=O)O)c1,c1ccc(Nc2ccccc2)cc1,2-(3-acetylphenylamino)benzoic acid,-4.86,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)c1cccs1,CC(=O)c1cccs1,c1ccsc1,2-acetylthiophene,-0.9549,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(=O)n1ncc2c(=O)[nH]cnc21,CC(=O)n1ncc2c(=O)[nH]cnc21,O=c1[nH]cnc2[nH]ncc12,1-acetylallopurinol,-2.38,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C(=O)O)c1ccc2c(c1)[nH]c1ccc(Cl)cc12,CC(C(=O)O)c1ccc2c(c1)[nH]c1ccc(Cl)cc12,c1ccc2c(c1)[nH]c1ccccc12,carprofen;  6-chloro-alpha-methyl-9h-carbazole-2-acetic acid,-4.7,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,O=C(c1ccccc1)c1ccccc1,2-[3-(benzoyl)phenyl]propanoic acid,-3.47,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C(=O)OCC(=O)N(C)CC(N)=O)c1cccc(C(=O)c2ccccc2)c1,CC(C(=O)OCC(=O)N(C)CC(N)=O)c1cccc(C(=O)c2ccccc2)c1,O=C(c1ccccc1)c1ccccc1,"ketoprofen,  ester 4c; n-methyl-n-[2-(2'-(3''-benzoyl-phenyl)propanoyloxy)acetyl]glycineamide",-2.42,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n1cncn1,CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n1cncn1,c1ccc(OCn2cncn2)cc1,triadimefon,-3.6137,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)(C)C(=O)OCn1cnc2c(cnn2COC(=O)C(C)(C)C)c1=O,CC(C)(C)C(=O)OCn1cnc2c(cnn2COC(=O)C(C)(C)C)c1=O,O=c1[nH]cnc2[nH]ncc12,"1,5-bis(pivaloyloxymethyl)allopurinol",-4.26,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)(C)C(=O)OCn1ncc2c(=O)[nH]cnc21,CC(C)(C)C(=O)OCn1ncc2c(=O)[nH]cnc21,O=c1[nH]cnc2[nH]ncc12,1-(pivaloyloxymethyl)allopurinol,-2.68,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)(C)C(O)C(Oc1ccc(Cl)cc1)n1cncn1,CC(C)(C)C(O)C(Oc1ccc(Cl)cc1)n1cncn1,c1ccc(OCn2cncn2)cc1,triadimenol,-3.6786,AqSolDB,3,frozen_test_identity_or_scaffold
+CC(C)(C)CC(=O)OCC(=O)C12OC(C)(C)OC1CC1C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC12C,CC(C)(C)CC(=O)OCC(=O)C12OC(C)(C)OC1CC1C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC12C,O=C1C=CC2C(=C1)CCC1C2CCC2C1CC1OCOC12,triamcinolone hexacetonide,-5.122199999999999,AqSolDB,2,frozen_test_identity_or_scaffold
+CC(C)(C)CC(C)(C)c1ccc(Nc2ccc(C(C)(C)CC(C)(C)C)cc2)cc1,CC(C)(C)CC(C)(C)c1ccc(Nc2ccc(C(C)(C)CC(C)(C)C)cc2)cc1,c1ccc(Nc2ccccc2)cc1,"4-(2,4,4-trimethylpentan-2-yl)-N-[4-(2,4,4-trimethylpentan-2-yl)phenyl]aniline",-6.5951201849,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)(C)NCC(O)COc1cccc2c1CC(O)C(O)C2,CC(C)(C)NCC(O)COc1cccc2c1CC(O)C(O)C2,c1ccc2c(c1)CCCC2,nadolol,-1.2899500000000002,AqSolDB,2,frozen_test_identity_or_scaffold
+CC(C)(C)c1ccc(OP(=O)(Oc2ccccc2)Oc2ccccc2)cc1,CC(C)(C)c1ccc(OP(=O)(Oc2ccccc2)Oc2ccccc2)cc1,O=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,t-butylphenyl diphenyl phosphate,-5.0774,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)(COCc1cccc(Oc2ccccc2)c1)c1ccc(OC(F)(F)Br)cc1,CC(C)(COCc1cccc(Oc2ccccc2)c1)c1ccc(OC(F)(F)Br)cc1,c1ccc(CCOCc2cccc(Oc3ccccc3)c2)cc1,halfenprox,-9.9799,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)=CCCc1ccc2c(c1)C(=O)c1ccccc1C2=O,CC(C)=CCCc1ccc2c(c1)C(=O)c1ccccc1C2=O,O=C1c2ccccc2C(=O)c2ccccc21,"2-(4-methylpent-3-enyl)anthracene-9,10-dione",-7.985818524400001,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccc(Br)cc2)c1)c1ccc(OC(F)F)cc1,CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccc(Br)cc2)c1)c1ccc(OC(F)F)cc1,O=C(Cc1ccccc1)OCc1cccc(Oc2ccccc2)c1,Brofluthrinate,-8.1731,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c1ccc(Cl)cc1,CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c1ccc(Cl)cc1,O=C(Cc1ccccc1)OCc1cccc(Oc2ccccc2)c1,fenvalerate,-7.782500000000001,AqSolDB,2,frozen_test_identity_or_scaffold
+CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c1ccc(OC(F)F)cc1,CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c1ccc(OC(F)F)cc1,O=C(Cc1ccccc1)OCc1cccc(Oc2ccccc2)c1,flucythrinate,-6.8765,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)C(Nc1ccc(C(F)(F)F)cc1Cl)C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,CC(C)C(Nc1ccc(C(F)(F)F)cc1Cl)C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,O=C(CNc1ccccc1)OCc1cccc(Oc2ccccc2)c1,fluvalinate,-8.0025,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)CC(N)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)O,CC(C)CC(N)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)O,c1ccc2[nH]ccc2c1,2-[(2-amino-4-methylpentanoyl)amino]-3-(1H-indol-3-yl)propanoic acid,-1.12,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)CC(NC(=O)C(N)Cc1c[nH]c2ccccc12)C(=O)O,CC(C)CC(NC(=O)C(N)Cc1c[nH]c2ccccc12)C(=O)O,c1ccc2[nH]ccc2c1,2-[[2-amino-3-(1H-indol-3-yl)propanoyl]amino]-4-methylpentanoic acid,-1.76,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)CC(NC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)O,CC(C)CC(NC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)O,c1ccc2c(c1)Cc1ccccc1-2,2-(9H-fluoren-9-ylmethoxycarbonylamino)-4-methylpentanoic acid,-3.74,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)CCC(C)Nc1ccc(Nc2ccccc2)cc1,CC(C)CCC(C)Nc1ccc(Nc2ccccc2)cc1,c1ccc(Nc2ccccc2)cc1,"N-(1,4-dimethylpentyl)-N'-phenylbenzene-1,4-diamine",-5.6248375610000005,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)CCCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C,CC(C)CCCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C,C1=C2CCCCC2C2CCC3CCCC3C2C1,Cholesterol,-7.05009768195,AqSolDB,2,frozen_test_identity_or_scaffold
+CC(C)CNC(=O)N1CCNC1=O,CC(C)CNC(=O)N1CCNC1=O,O=C1NCCN1,isocarbamid,-2.1538,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)Cc1ncc[nH]1,CC(C)Cc1ncc[nH]1,c1c[nH]cn1,"1h-imidazole, 2-(2-methylpropyl)-",-1.0488,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)NC(=O)N1CC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O,CC(C)NC(=O)N1CC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O,O=C1CNC(=O)N1c1ccccc1,rovral (iprodione),-4.3757,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)NCC(O)COc1cccc2[nH]ccc12,CC(C)NCC(O)COc1cccc2[nH]ccc12,c1ccc2[nH]ccc2c1,pindolol,-3.79,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)Oc1cc(-n2nc(C(C)(C)C)oc2=O)c(Cl)cc1Cl,CC(C)Oc1cc(-n2nc(C(C)(C)C)oc2=O)c(Cl)cc1Cl,O=c1ocnn1-c1ccccc1,oxadiazon,-5.54,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)c1ccc(OP(=O)(Oc2ccc(C(C)C)cc2)Oc2ccc(C(C)C)cc2)cc1,CC(C)c1ccc(OP(=O)(Oc2ccc(C(C)C)cc2)Oc2ccc(C(C)C)cc2)cc1,O=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,diphenyl 4-(propan-2-yl)phenyl phosphate phenyl bis[4-(propan-2-yl)phenyl] phosphate triphenyl phosphate tris[4-(propan-2-yl)phenyl] phosphate,-6.1371343953999995,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)c1ccccc1OP(=O)(Oc1ccccc1)Oc1ccccc1,CC(C)c1ccccc1OP(=O)(Oc1ccccc1)Oc1ccccc1,O=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,isopropyl phenyl diphenyl phosphate,-5.2239,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)c1nc([N+](=O)[O-])c[nH]1,CC(C)c1nc([N+](=O)[O-])c[nH]1,c1c[nH]cn1,2-isopropyl-4(5)-nitroimidazole,-1.15,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C)c1ncc([N+](=O)[O-])n1C,CC(C)c1ncc([N+](=O)[O-])n1C,c1c[nH]cn1,ipronidazole,-1.26,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(C=O)Cc1ccc2c(c1)OCO2,CC(C=O)Cc1ccc2c(c1)OCO2,c1ccc2c(c1)OCO2,"3-(2H-1,3-benzodioxol-5-yl)-2-methylpropanal",-2.3134381403,AqSolDB,1,frozen_test_identity_or_scaffold
+CC(CCC(=O)O)=NNC(=O)c1nccs1,CC(CCC(=O)O)=NNC(=O)c1nccs1,c1cscn1,"(4E)-4-[(1,3-Thiazol-2-ylcarbonyl)hydrazono]pentanoic acid",-1.73,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc1c(F)c(F)cc(F)c1F,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc1c(F)c(F)cc(F)c1F,O=C(OCc1ccccc1)C1CC1,transfluthrin,-6.81185,AqSolDB,2,frozen_test_identity_or_scaffold
+CC1(C)C2CCC1(C)C(N)(C(=O)O)C2,CC1(C)C2CCC1(C)C(N)(C(=O)O)C2,C1CC2CCC1C2,"2-bornanecarboxylic acid, 2-amino-",-1.5961,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1(C)C2CCC1(C)C(O)C2,CC1(C)C2CCC1(C)C(O)C2,C1CC2CCC1C2,borneol,-2.3202,AqSolDB,3,frozen_test_identity_or_scaffold
+CC1(C)CC(O)CC(C)(C)N1,CC1(C)CC(O)CC(C)(C)N1,C1CCNCC1,"2,2,6,6-tetramethylpiperidin-4-ol",-0.19660998640000002,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1(C)CC(O)CC(C)(C)N1CCO,CC1(C)CC(O)CC(C)(C)N1CCO,C1CCNCC1,"1-(2-hydroxyethyl)-2,2,6,6-tetramethylpiperidin-4-ol",-0.8598205529,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1(C)CO1,CC1(C)CO1,C1CO1,"2,2-dimethyloxirane",-0.0945494336,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1(C)CON(Cc2ccccc2Cl)C1=O,CC1(C)CON(Cc2ccccc2Cl)C1=O,O=C1CCON1Cc1ccccc1,clomazone,-2.3383,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1(C)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(C(=O)CO)O1,CC1(C)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(C(=O)CO)O1,O=C1C=CC2C(=C1)CCC1C2CCC2C1CC1OCOC12,triamcinolone  acetonide,-4.3129,AqSolDB,2,frozen_test_identity_or_scaffold
+CC1(CCl)CO1,CC1(CCl)CO1,C1CO1,"oxirane, 2-(chloromethyl)-2-methyl-",-0.5504,AqSolDB,1,frozen_test_identity_or_scaffold
+CC12CC(=O)C3C(CCC4=CC(=O)CCC43C)C1CCC2=O,CC12CC(=O)C3C(CCC4=CC(=O)CCC43C)C1CCC2=O,O=C1C=C2CCC3C4CCC(=O)C4CC(=O)C3C2CC1,adrenosterone,-3.48215,AqSolDB,2,frozen_test_identity_or_scaffold
+CC12CC(O)C3C(CCC4CC(O)CCC43C)C1CCC2=O,CC12CC(O)C3C(CCC4CC(O)CCC43C)C1CCC2=O,O=C1CCC2C1CCC1C3CCCCC3CCC21,"androstane-3beta,11beta-diol-17-one; androstane-3я,11я-diol-17-one;",-3.5915999999999997,AqSolDB,2,frozen_test_identity_or_scaffold
+CC12CC1(C)C(=O)N(c1cc(Cl)cc(Cl)c1)C2=O,CC12CC1(C)C(=O)N(c1cc(Cl)cc(Cl)c1)C2=O,O=C1C2CC2C(=O)N1c1ccccc1,procymidone,-4.8003,AqSolDB,1,frozen_test_identity_or_scaffold
+C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2CC[C@]2(C)C(=O)CC(O)[C@@H]12,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(=O)CC(O)C12,O=C1C=C2CCC3C4CCC(=O)C4CCC3C2CC1,calcium dimagnesium(2+) ion tetrahydroxide oxidandiide,-2.2130969417,AqSolDB,1,frozen_test_identity_or_scaffold
+C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2CC[C@@]2(C)[C@H]1CC[C@@]21CCC(=O)O1,CC12CCC(=O)C=C1CCC1C2CCC2(C)C1CCC21CCC(=O)O1,O=C1C=C2CCC3C(CCC4C3CCC43CCC(=O)O3)C2CC1,Spironolactone intermediate,-4.2250037793,AqSolDB,1,frozen_test_identity_or_scaffold
+CC12CCC(=O)CC1CCC1C2CCC2(C)C(OC=O)CCC12,CC12CCC(=O)CC1CCC1C2CCC2(C)C(OC=O)CCC12,O=C1CCC2C(CCC3C4CCCC4CCC23)C1,stanolone formate,-5.32,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1(C)[C@@H]2CC[C@@](C)(C2)[C@@H]1O,CC12CCC(C1)C(C)(C)C2O,C1CC2CCC1C2,(+)-fenchol,-2.2702,AqSolDB,1,frozen_test_identity_or_scaffold
+CC12CCC(CC1)C(C)(C)O2,CC12CCC(CC1)C(C)(C)O2,C1CC2CCC1CO2,"1,8-Cineole",-1.74,AqSolDB,1,frozen_test_identity_or_scaffold
+CC12CCC3(O)C(CCC4=CC(=O)CCC43C)C1CCC2=O,CC12CCC3(O)C(CCC4=CC(=O)CCC43C)C1CCC2=O,O=C1C=C2CCC3C4CCC(=O)C4CCC3C2CC1,"9-hydroxy-10,13-dimethyl-1,2,6,7,8,11,12,14,15,16-decahydrocyclopenta[a]phenanthrene-3,17-dione",-2.68,AqSolDB,1,frozen_test_identity_or_scaffold
+CC12CCC3C(=CCc4cc(O)ccc43)C1CCC2=O,CC12CCC3C(=CCc4cc(O)ccc43)C1CCC2=O,O=C1CCC2C3=CCc4ccccc4C3CCC12,equilin,-5.13475,AqSolDB,2,frozen_test_identity_or_scaffold
+CC12CCC3C(CC=C4CC(O)CCC43C)C1CCC2=O,CC12CCC3C(CC=C4CC(O)CCC43C)C1CCC2=O,O=C1CCC2C1CCC1C3CCCCC3=CCC21,Prasterone,-4.066,AqSolDB,2,frozen_test_identity_or_scaffold
+CC12CCC3C(CC=C4CC(OC=O)CCC43C)C1CCC2=O,CC12CCC3C(CC=C4CC(OC=O)CCC43C)C1CCC2=O,O=C1CCC2C1CCC1C3CCCCC3=CCC21,prasterone formate,-4.41,AqSolDB,1,frozen_test_identity_or_scaffold
+CC12CCC3C(CCC4=CC(=O)CCC43C)C1CCC2=O,CC12CCC3C(CCC4=CC(=O)CCC43C)C1CCC2=O,O=C1C=C2CCC3C4CCC(=O)C4CCC3C2CC1,"androstenedione;  androst-4-ene-3,17-dione",-3.69745,AqSolDB,2,frozen_test_identity_or_scaffold
+CC12CCC3C(CCC4CC(=O)CCC43C)C1CCC2O,CC12CCC3C(CCC4CC(=O)CCC43C)C1CCC2O,O=C1CCC2C(CCC3C4CCCC4CCC23)C1,stanolone;   androstanolone;  dihydrotestosterone,-4.82949942535,AqSolDB,2,frozen_test_identity_or_scaffold
+CC12CCC3C(CCC4CC(O)CCC43C)C1CCC2=O,CC12CCC3C(CCC4CC(O)CCC43C)C1CCC2=O,O=C1CCC2C1CCC1C3CCCCC3CCC21,Androsterone,-4.4,AqSolDB,3,frozen_test_identity_or_scaffold
+CC12CCC3C(CCC4CC5SC5CC43C)C1CCC2O,CC12CCC3C(CCC4CC5SC5CC43C)C1CCC2O,C1CC2CCC3C4CC5SC5CC4CCC3C2C1,epitiostanol,-5.407,AqSolDB,1,frozen_test_identity_or_scaffold
+CC12CCC3C(CCC4CCCCC43C)C1CCC2=O,CC12CCC3C(CCC4CCCCC43C)C1CCC2=O,O=C1CCC2C1CCC1C3CCCCC3CCC21,Androstane-17-one,-6.7,AqSolDB,1,frozen_test_identity_or_scaffold
+C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@H]43)[C@@H]1CCC2=O,CC12CCC3C4CCC(=O)C=C4CCC3C1CCC2=O,O=C1C=C2CCC3C4CCC(=O)C4CCC3C2CC1,"estr-4-ene-3,17-dione",-3.1565006620999996,AqSolDB,1,frozen_test_identity_or_scaffold
+CC12CCC3c4ccc(O)cc4CCC3C1CCC2=O,CC12CCC3c4ccc(O)cc4CCC3C1CCC2=O,O=C1CCC2C1CCC1c3ccccc3CCC12,"3-hydroxy-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-17-one",-5.33057406065,AqSolDB,2,frozen_test_identity_or_scaffold
+CC12CCc3c(ccc4cc(O)ccc34)C1CCC2=O,CC12CCc3c(ccc4cc(O)ccc34)C1CCC2=O,O=C1CCC2c3ccc4ccccc4c3CCC12,equilenin,-4.96,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1=C(C(=O)Nc2ccccc2)CCCO1,CC1=C(C(=O)Nc2ccccc2)CCCO1,O=C(Nc1ccccc1)C1=COCCC1,pyracarbolid;  sicarol,-2.56,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1=C(C(=O)Nc2ccccc2)S(=O)(=O)CCO1,CC1=C(C(=O)Nc2ccccc2)S(=O)(=O)CCO1,O=C(Nc1ccccc1)C1=COCCS1(=O)=O,oxycarboxin,-2.43,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1=C(C(=O)Nc2ccccc2)SCCO1,CC1=C(C(=O)Nc2ccccc2)SCCO1,O=C(Nc1ccccc1)C1=COCCS1,vitavax;  carboxin,-3.14,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1=C(C(=O)O)CCC1(C)C,CC1=C(C(=O)O)CCC1(C)C,C1=CCCC1,"1-cyclopentene-1-carboxylic acid, 2,3,3-trimethy",-2.8871,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1=C2C3OC(=O)C(C)C3CCC2(C)C=CC1=O,CC1=C2C3OC(=O)C(C)C3CCC2(C)C=CC1=O,O=C1C=CC2CCC3CC(=O)OC3C2=C1,Santonin,-3.09025,AqSolDB,2,frozen_test_identity_or_scaffold
+CC1=CCC(C(C)C)=CC1,CC1=CCC(C(C)C)=CC1,C1=CCC=CC1,gamma-terpinene,-4.1958,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1=CCC(/C=C/C(C)(C)C(C)O)C1(C)C,CC1=CCC(C=CC(C)(C)C(C)O)C1(C)C,C1=CCCC1,"(4E)-3,3-dimethyl-5-(2,2,3-trimethylcyclopent-3-en-1-yl)pent-4-en-2-ol",-4.2167463336,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1=CCC(/C=C\C(C)C(C)O)C1(C)C,CC1=CCC(C=CC(C)C(C)O)C1(C)C,C1=CCCC1,"(4E)-3-methyl-5-(2,2,3-trimethylcyclopent-3-en-1-yl)pent-4-en-2-ol",-3.7860287033999995,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1=CCC(CC#N)C1(C)C,CC1=CCC(CC#N)C1(C)C,C1=CCCC1,"(2,2,3-trimethylcyclopent-3-en-1-yl)acetonitrile",-2.6475372328,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1=CCC(CCC(C)CO)C1(C)C,CC1=CCC(CCC(C)CO)C1(C)C,C1=CCCC1,"2-methyl-4-(2,2,3-trimethylcyclopent-3-en-1-yl)butan-1-ol",-3.8427464064,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1=Nc2ccc(Cl)cc2S(=O)(=O)N1,CC1=Nc2ccc(Cl)cc2S(=O)(=O)N1,O=S1(=O)NC=Nc2ccccc21,diazoxide,-3.36,AqSolDB,1,frozen_test_identity_or_scaffold
+C[C@H]1CC(=O)C[C@@H]2CC[C@H]3[C@@H]4CC[C@H](O)[C@@]4(C)CC[C@@H]3[C@]21C,CC1CC(=O)CC2CCC3C4CCC(O)C4(C)CCC3C12C,O=C1CCC2C(CCC3C4CCCC4CCC23)C1,17-hydroxy-1-methylandrostan-3-one,-5.0064289581,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1CC(C)C(=O)C(C(O)CC2CC(=O)NC(=O)C2)C1,CC1CC(C)C(=O)C(C(O)CC2CC(=O)NC(=O)C2)C1,O=C1CC(CCC2CCCCC2=O)CC(=O)N1,cycloheximide,-1.1284999999999998,AqSolDB,2,frozen_test_identity_or_scaffold
+CC1CCC(=O)N1c1ccccc1,CC1CCC(=O)N1c1ccccc1,O=C1CCCN1c1ccccc1,"2-pyrrolidinone, 5-methyl-1-phenyl-",-0.8457,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1CCCCC1NC(=O)Nc1ccccc1,CC1CCCCC1NC(=O)Nc1ccccc1,O=C(Nc1ccccc1)NC1CCCCC1,siduron,-4.1108,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1CO1,CC1CO1,C1CO1,2-methyloxirane,0.8380333836,AqSolDB,3,frozen_test_identity_or_scaffold
+CC1COC2CC3(C)C(CC4C5C=C6CC(O)CCC6(C)CC5CCC43C)OC2C1,CC1COC2CC3(C)C(CC4C5C=C6CC(O)CCC6(C)CC5CCC43C)OC2C1,C1=C2CCCCC2CC2CCC3C4CC5OCCCC5OC4CC3C12,Diosgenin,-7.32,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1Cc2ccccc2N1NC(=O)c1ccc(Cl)c(S(N)(=O)=O)c1,CC1Cc2ccccc2N1NC(=O)c1ccc(Cl)c(S(N)(=O)=O)c1,O=C(NN1CCc2ccccc21)c1ccccc1,indapamide;  1-(3-aminosulfonyl-4-chloro)benzoylamino-2-methylindoline,-3.79,AqSolDB,1,frozen_test_identity_or_scaffold
+CC1OC1C,CC1OC1C,C1CO1,"2,3-dimethyloxirane",0.3972950779,AqSolDB,1,frozen_test_identity_or_scaffold
+C/C=C(/C(=C/C)c1ccc(O)cc1)c1ccc(O)cc1,CC=C(C(=CC)c1ccc(O)cc1)c1ccc(O)cc1,C=C(C(=C)c1ccccc1)c1ccccc1,dienestrol,-4.949,AqSolDB,2,frozen_test_identity_or_scaffold
+CCC(=O)Nc1nc(C)c(Cl)s1,CCC(=O)Nc1nc(C)c(Cl)s1,c1cscn1,n-(5-chloro-4-methylthiazol-2-yl)propionamide,-3.06,AqSolDB,1,frozen_test_identity_or_scaffold
+CCC(=O)OC1CCC2(C)C(=CCC3C4CCC(=O)C4(C)CCC32)C1,CCC(=O)OC1CCC2(C)C(=CCC3C4CCC(=O)C4(C)CCC32)C1,O=C1CCC2C1CCC1C3CCCCC3=CCC21,prasterone  propionate,-4.69,AqSolDB,1,frozen_test_identity_or_scaffold
+CCC(=O)n1ncc2c(=O)[nH]cnc21,CCC(=O)n1ncc2c(=O)[nH]cnc21,O=c1[nH]cnc2[nH]ncc12,1-propanoylallopurinol,-2.81,AqSolDB,1,frozen_test_identity_or_scaffold
+CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,O=C1CCCC(CCC2CC=CC3=CCCCC32)O1,simvastatin,-6.31235,AqSolDB,2,frozen_test_identity_or_scaffold
+CCC(C)(CCC(C)C)C(=O)OCC1CO1,CCC(C)(CCC(C)C)C(=O)OCC1CO1,C1CO1,"oxiran-2-ylmethyl 2,2-dimethyloctanoate",-3.5134687407,AqSolDB,1,frozen_test_identity_or_scaffold
+CCC(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,CCC(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,O=C1CCCC(CCC2CC=CC3=CCCCC32)O1,lovastatin,-6.01,AqSolDB,1,frozen_test_identity_or_scaffold
+CCC(C)C(=O)OC1CC(O)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,CCC(C)C(=O)OC1CC(O)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,O=C1CCCC(CCC2CC=CC3=CCCCC32)O1,pravastatin,-3.35,AqSolDB,1,frozen_test_identity_or_scaffold
+CCC(C)C(=O)OC1CCC=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,CCC(C)C(=O)OC1CCC=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,O=C1CCCC(CCC2CC=CC3=CCCCC32)O1,mevastatin,-5.42,AqSolDB,1,frozen_test_identity_or_scaffold
+CCC1(C2=CCC3CCC2C3)C(=O)NC(=O)NC1=O,CCC1(C2=CCC3CCC2C3)C(=O)NC(=O)NC1=O,O=C1NC(=O)C(C2=CCC3CCC2C3)C(=O)N1,Reposal,-2.696,AqSolDB,1,frozen_test_identity_or_scaffold
+CCC1(C2=CCCCC2)C(=O)NC(=O)NC1=O,CCC1(C2=CCCCC2)C(=O)NC(=O)NC1=O,O=C1NC(=O)C(C2=CCCCC2)C(=O)N1,cyclobarbital,-2.1693,AqSolDB,1,frozen_test_identity_or_scaffold
+CCC1(c2ccccc2)C(=O)NCNC1=O,CCC1(c2ccccc2)C(=O)NCNC1=O,O=C1NCNC(=O)C1c1ccccc1,primidone,-2.64,AqSolDB,1,frozen_test_identity_or_scaffold
+CCC1(c2ccccc2)CCC(=O)N(CO)C1=O,CCC1(c2ccccc2)CCC(=O)N(CO)C1=O,O=C1CCC(c2ccccc2)C(=O)N1,1-(hydroxymethyl)glutethimide,-1.66,AqSolDB,1,frozen_test_identity_or_scaffold
+CCC1(c2ccccc2)CCC(=O)NC1=O,CCC1(c2ccccc2)CCC(=O)NC1=O,O=C1CCC(c2ccccc2)C(=O)N1,2-ethyl-2-phenylgluterimide,-2.3374,AqSolDB,1,frozen_test_identity_or_scaffold
+CCC12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@H]43)[C@@H]1CCC2=O,CCC12CCC3C4CCC(=O)C=C4CCC3C1CCC2=O,O=C1C=C2CCC3C4CCC(=O)C4CCC3C2CC1,"(8R,9S,10R,14S)-13-ethyl-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthrene-3,17-dione",-3.7327198893,AqSolDB,1,frozen_test_identity_or_scaffold
+CCC1=C(C2(CC)C(=O)NC(=O)NC2=O)CCCC1,CCC1=C(C2(CC)C(=O)NC(=O)NC2=O)CCCC1,O=C1NC(=O)C(C2=CCCCC2)C(=O)N1,5-ethyl-5-(2-ethyl-1-cyclohexyliden-1-yl)barbituric  acid,-3.53,AqSolDB,1,frozen_test_identity_or_scaffold
+CCC1CCCCN1,CCC1CCCCN1,C1CCNCC1,coniine,-0.92315,AqSolDB,2,frozen_test_identity_or_scaffold
+CCC1CO1,CCC1CO1,C1CO1,2-ethyloxirane,0.080542298,AqSolDB,1,frozen_test_identity_or_scaffold
+CCC1COC(Cn2cncn2)(c2ccc(Cl)cc2Cl)O1,CCC1COC(Cn2cncn2)(c2ccc(Cl)cc2Cl)O1,c1ccc(C2(Cn3cncn3)OCCO2)cc1,"1-[[2-(2,4-dichlorophenyl)-4-ethyl-1,3-dioxolan-",-3.613,AqSolDB,1,frozen_test_identity_or_scaffold
+CCC1NC(=O)c2cc(S(N)(=O)=O)c(Cl)cc2N1,CCC1NC(=O)c2cc(S(N)(=O)=O)c(Cl)cc2N1,O=C1NCNc2ccccc21,quinethazone,-3.2859,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCC(=O)OCn1cnc2c(cnn2COC(=O)CCC)c1=O,CCCC(=O)OCn1cnc2c(cnn2COC(=O)CCC)c1=O,O=c1[nH]cnc2[nH]ncc12,"1,5-bis(butanoyloxymethyl)allopurinol",-3.83,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCC(=O)OCn1ncc2c(=O)[nH]cnc21,CCCC(=O)OCn1ncc2c(=O)[nH]cnc21,O=c1[nH]cnc2[nH]ncc12,allopurin-1-yl-methyl  butyrate;   1-(butanoyloxymethyl)allopurinol,-2.83,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCC(=O)n1ncc2c(=O)[nH]cnc21,CCCC(=O)n1ncc2c(=O)[nH]cnc21,O=c1[nH]cnc2[nH]ncc12,1-butanoylallopurinol,-3.27,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCC1C(=O)N2C(N(C)C)=Nc3ccc(C)cc3N2C1=O,CCCC1C(=O)N2C(N(C)C)=Nc3ccc(C)cc3N2C1=O,O=C1CC(=O)N2c3ccccc3N=CN12,Apazone,-3.5380000000000003,AqSolDB,1,frozen_test_identity_or_scaffold
+CCC[C@H]1CCCCN1,CCCC1CCCCN1,C1CCNCC1,2-propylpiperidine,-0.8493,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCC1CCCNC1,CCCC1CCCNC1,C1CCNCC1,"piperidine, 3-propyl-,",-1.011,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCC1CO1,CCCC1CO1,C1CO1,2-propyloxirane,-0.57344678,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCC1COC(Cn2cncn2)(c2ccc(Cl)cc2Cl)O1,CCCC1COC(Cn2cncn2)(c2ccc(Cl)cc2Cl)O1,c1ccc(C2(Cn3cncn3)OCCO2)cc1,propiconazole,-3.4929,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCC1OC1(CC)C(N)=O,CCCC1OC1(CC)C(N)=O,C1CO1,oxanamide,-1.1745,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCC(=O)OC1CCC2(C)C(=CCC3C4CCC(=O)C4(C)CCC32)C1,CCCCC(=O)OC1CCC2(C)C(=CCC3C4CCC(=O)C4(C)CCC32)C1,O=C1CCC2C1CCC1C3CCCCC3=CCC21,"5,6-dehydroisoandrosterone  valerate;  prasterone  valerate",-4.76,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCC(CC)COC(=O)C(C#N)=C(c1ccccc1)c1ccccc1,CCCCC(CC)COC(=O)C(C#N)=C(c1ccccc1)c1ccccc1,C=C(c1ccccc1)c1ccccc1,"2-ethylhexyl 2-cyano-3,3-diphenylprop-2-enoate",-6.5580902807,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCC(CC)COCC1CO1,CCCCC(CC)COCC1CO1,C1CO1,2-{[(2-ethylhexyl)oxy]methyl}oxirane,-3.1148651614999996,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCCC1=C(OC(C)=O)CCC1CC(=O)OC,CCCCCC1=C(OC(C)=O)CCC1CC(=O)OC,C1=CCCC1,methyl 2-[3-(acetyloxy)-2-pentylcyclopent-2-en-1-yl]acetate,-3.7219886724,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCCCCC(=O)OC1C(C(O)CO)OC2OC(C)(C)OC21,CCCCCCCC(=O)OC1C(C(O)CO)OC2OC(C)(C)OC21,C1CC2OCOC2O1,"[5-(1,2-dihydroxyethyl)-2,2-dimethyl-3~{a},5,6,6~{a}-tetrahydrofuro[2,3-d][1,3]dioxol-6-yl] octanoate",-3.17,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCCCCCCCC1CO1,CCCCCCCCCCC1CO1,C1CO1,2-decyloxirane,-5.923156849500001,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCCCCCCCCCC1CO1,CCCCCCCCCCCCC1CO1,C1CO1,2-dodecyloxirane,-5.9846848009,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCCCCCCCCCCCC1CO1,CCCCCCCCCCCCCCC1CO1,C1CO1,2-tetradecyloxirane,-6.6820204584,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCCCCCCCCCCCCCCc1ncc[nH]1,CCCCCCCCCCCCCCCCCc1ncc[nH]1,c1c[nH]cn1,2-heptadecyl-1H-imidazole,-7.214642713,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCCCCCCCCCN1CC(C(=O)O)CC1=O,CCCCCCCCCCCCN1CC(C(=O)O)CC1=O,O=C1CCCN1,1-lauryl-4-carboxy-2-pyrrolodone,-3.2230000000000003,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCCCCCCCCCN1CCCC1=O,CCCCCCCCCCCCN1CCCC1=O,O=C1CCCN1,1-lauryl-2-pyrrolodone,-4.67,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCCCCCCCN1CCCCC1,CCCCCCCCCCN1CCCCC1,C1CCNCC1,1-decylpiperidine,-1.53,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCCCCCCc1cccc(Nc2cccc(CCCCCCCCC)c2)c1,CCCCCCCCCc1cccc(Nc2cccc(CCCCCCCCC)c2)c1,c1ccc(Nc2ccccc2)cc1,bis(nonylphenyl)amine,-7.9260469847,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCCCCCN1CCCC1=O,CCCCCCCCN1CCCC1=O,O=C1CCCN1,1-octylpyrrolidin-2-one,-2.2577490108,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCCCCCOc1ccc(C(=O)c2ccccc2)c(O)c1,CCCCCCCCOc1ccc(C(=O)c2ccccc2)c(O)c1,O=C(c1ccccc1)c1ccccc1,2-benzoyl-5-(octyloxy)phenol,-5.5137980476,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCCCN1CC(C(=O)OC)CC1=O,CCCCCCN1CC(C(=O)OC)CC1=O,O=C1CCCN1,1-hexyl-4-methoxycarbonyl-,-1.246,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCCCOC(=O)c1ccccc1C(=O)c1ccc(N(CC)CC)cc1O,CCCCCCOC(=O)c1ccccc1C(=O)c1ccc(N(CC)CC)cc1O,O=C(c1ccccc1)c1ccccc1,hexyl 2-[4-(diethylamino)-2-hydroxybenzoyl]benzoate,-7.3952335385,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCCN1C(=O)CCC(N2C(=O)c3ccccc3C2=O)C1=O,CCCCCN1C(=O)CCC(N2C(=O)c3ccccc3C2=O)C1=O,O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,n-pentyl-thalidomide,-4.7,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCCc1c2ccccc2cc2c1ccc1ccccc12,CCCCCc1c2ccccc2cc2c1ccc1ccccc12,c1ccc2cc3c(ccc4ccccc43)cc2c1,7-pentyl-benz[a]anthracene,-8.57,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCN(CCOC(C)=O)c1ccc(N=Nc2c(C#N)cc([N+](=O)[O-])cc2C#N)c(C)c1,CCCCN(CCOC(C)=O)c1ccc(N=Nc2c(C#N)cc([N+](=O)[O-])cc2C#N)c(C)c1,c1ccc(N=Nc2ccccc2)cc1,azo dye n5,-8.8809,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCNC(=O)n1c(NC(=O)OC)nc2ccccc21,CCCCNC(=O)n1c(NC(=O)OC)nc2ccccc21,c1ccc2[nH]cnc2c1,benomyl,-4.86,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCNC1CC(C)(C)NC(C)(C)C1,CCCCNC1CC(C)(C)NC(C)(C)C1,C1CCNCC1,"N-butyl-2,2,6,6-tetramethylpiperidin-4-amine",0.5746150304,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCNc1ccc(NCCCC)c2c1C(=O)c1ccccc1C2=O,CCCCNc1ccc(NCCCC)c2c1C(=O)c1ccccc1C2=O,O=C1c2ccccc2C(=O)c2ccccc21,"1,4-bis(butylamino)-9,10-dihydroanthracene-9,10-dione",-7.9318570783,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCOC(=O)C1(O)c2ccccc2-c2ccccc21,CCCCOC(=O)C1(O)c2ccccc2-c2ccccc21,c1ccc2c(c1)Cc1ccccc1-2,flurenol-butyl,-3.8885,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCOC1=CC(=O)CC(C)C12Oc1c(Cl)c(OC)cc(OC)c1C2=O,CCCCOC1=CC(=O)CC(C)C12Oc1c(Cl)c(OC)cc(OC)c1C2=O,O=C1C=CC2(CC1)Oc1ccccc1C2=O,"3'-butoxy-7-chloro-4,6-dimethoxy-5'-methylspiro[1-benzofuran-2,4'-cyclohex-2-ene]-1',3-dione",-4.7,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCOCC1CO1,CCCCOCC1CO1,C1CO1,glycidyl n-butyl ether,-0.8135,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2,CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2,c1ccc2c(c1)OCO2,"5-{[2-(2-butoxyethoxy)ethoxy]methyl}-6-propyl-2H-1,3-benzodioxole",-4.1510889183,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCc1c(C)nc(NCC)[nH]c1=O,CCCCc1c(C)nc(NCC)[nH]c1=O,O=c1ccnc[nH]1,Ethirimol,-3.028,ESOL,1,frozen_test_identity_or_scaffold
+CCCCc1c2ccccc2cc2ccc3ccccc3c12,CCCCc1c2ccccc2cc2ccc3ccccc3c12,c1ccc2cc3c(ccc4ccccc43)cc2c1,12-butyl-benz[a]anthracene,-7.5245,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCc1ccc2cc3ccc4ccccc4c3cc2c1,CCCCc1ccc2cc3ccc4ccccc4c3cc2c1,c1ccc2cc3c(ccc4ccccc43)cc2c1,"10-butyl-1,2-benzanthracene",-7.52,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCCc1nc(C=O)c(Cl)[nH]1,CCCCc1nc(C=O)c(Cl)[nH]1,c1c[nH]cn1,2-butyl-4-chloro-1H-imidazole-5-carbaldehyde,-2.1991273723,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCN1C(=O)CCC(N2C(=O)c3ccccc3C2=O)C1=O,CCCN1C(=O)CCC(N2C(=O)c3ccccc3C2=O)C1=O,O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,n-propylthalidomide,-3.72,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCOC1=CC(=O)CC(C)C12Oc1c(Cl)c(OC)cc(OC)c1C2=O,CCCOC1=CC(=O)CC(C)C12Oc1c(Cl)c(OC)cc(OC)c1C2=O,O=C1C=CC2(CC1)Oc1ccccc1C2=O,"7-chloro-4,6-dimethoxy-5'-methyl-3'-propoxyspiro[1-benzofuran-2,4'-cyclohex-2-ene]-1',3-dione",-4.52,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCOP(=S)(OCCC)SCC(=O)N1CCCCC1C,CCCOP(=S)(OCCC)SCC(=O)N1CCCCC1C,C1CCNCC1,piperophos,-4.1504,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCSP(=O)(OCC)Oc1cnn(-c2ccc(Cl)cc2)c1,CCCSP(=O)(OCC)Oc1cnn(-c2ccc(Cl)cc2)c1,c1ccc(-n2cccn2)cc1,pyraclofos,-4.0388,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCSc1ccc2[nH]c(NC(=O)OC)nc2c1,CCCSc1ccc2[nH]c(NC(=O)OC)nc2c1,c1ccc2[nH]cnc2c1,albendazole,-4.22,AqSolDB,1,frozen_test_identity_or_scaffold
+CCCc1cc(=O)[nH]c(=S)[nH]1,CCCc1cc(=O)[nH]c(=S)[nH]1,O=c1cc[nH]c(=S)[nH]1,propylthiouracil,-2.1504,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(C(=O)N(CC)c1ccccc1)c1ccccc1,CCN(C(=O)N(CC)c1ccccc1)c1ccccc1,O=C(Nc1ccccc1)Nc1ccccc1,"1,3-diethyl-1,3-diphenylurea",-3.5256277962,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CC)C(=O)CCC(=O)OCn1ncc2c(=O)[nH]cnc21,CCN(CC)C(=O)CCC(=O)OCn1ncc2c(=O)[nH]cnc21,O=c1[nH]cnc2[nH]ncc12,"1-(n,n-diethylsuccinamoyloxymethyl)allopurinol",-0.99,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CC)C(=O)CSc1ccc(Cl)nn1,CCN(CC)C(=O)CSc1ccc(Cl)nn1,c1ccnnc1,"2-[(6-chloro-3-pyridazinyl)thio]-n,n-diethylacet",-1.7156,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CC)CC(=O)OCn1ncc2c(=O)[nH]cnc21,CCN(CC)CC(=O)OCn1ncc2c(=O)[nH]cnc21,O=c1[nH]cnc2[nH]ncc12,"n9-(n,n-diethylglycyloxymethyl)allopurinol",-1.79,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CC)CCCC(C)Nc1c2ccc(Cl)cc2nc2ccc(OC)cc12,CCN(CC)CCCC(C)Nc1c2ccc(Cl)cc2nc2ccc(OC)cc12,c1ccc2nc3ccccc3cc2c1,"N'-(6-chloro-2-methoxyacridin-9-yl)-N,N-diethylpentane-1,4-diamine",-2.64,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CC)Cc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O,CCN(CC)Cc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O,c1ccc(Nc2ccnc3ccccc23)cc1,amodiaquine,-5.79,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CC)c1cc(NC(C)=O)c(N=Nc2c(Cl)cc([N+](=O)[O-])cc2[N+](=O)[O-])cc1OC,CCN(CC)c1cc(NC(C)=O)c(N=Nc2c(Cl)cc([N+](=O)[O-])cc2[N+](=O)[O-])cc1OC,c1ccc(N=Nc2ccccc2)cc1,"N-{2-[(E)-2-(2-chloro-4,6-dinitrophenyl)diazen-1-yl]-5-(diethylamino)-4-methoxyphenyl}acetamide",-4.6673277833,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CC)c1ccc(N=Nc2c(Br)cc([N+](=O)[O-])cc2[N+](=O)[O-])c(NC(C)=O)c1,CCN(CC)c1ccc(N=Nc2c(Br)cc([N+](=O)[O-])cc2[N+](=O)[O-])c(NC(C)=O)c1,c1ccc(N=Nc2ccccc2)cc1,"N-{2-[(E)-2-(2-bromo-4,6-dinitrophenyl)diazen-1-yl]-5-(diethylamino)phenyl}acetamide",-7.379569278300001,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CC)c1ccc(N=Nc2c(C#N)cc(C)cc2C#N)c(NS(C)(=O)=O)c1,CCN(CC)c1ccc(N=Nc2c(C#N)cc(C)cc2C#N)c(NS(C)(=O)=O)c1,c1ccc(N=Nc2ccccc2)cc1,"N-{2-[(E)-2-(2,6-dicyano-4-methylphenyl)diazen-1-yl]-5-(diethylamino)phenyl}methanesulfonamide",-7.2331050936,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CC)c1ccc(N=Nc2c(C#N)cc([N+](=O)[O-])cc2C#N)c(C)c1,CCN(CC)c1ccc(N=Nc2c(C#N)cc([N+](=O)[O-])cc2C#N)c(C)c1,c1ccc(N=Nc2ccccc2)cc1,"2-[[4-(diethylamino)-2-methylphenyl]azo]-5-nitrobenzene-1,3-dicarbonitrile",-7.472819969600001,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CC)c1ccc(N=Nc2c(C#N)cc([N+](=O)[O-])cc2C#N)c(NC(C)=O)c1,CCN(CC)c1ccc(N=Nc2c(C#N)cc([N+](=O)[O-])cc2C#N)c(NC(C)=O)c1,c1ccc(N=Nc2ccccc2)cc1,"N-{2-[(E)-2-(2,6-dicyano-4-nitrophenyl)diazen-1-yl]-5-(diethylamino)phenyl}acetamide",-8.1027530485,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CC)c1ccc(N=Nc2c(C#N)cc([N+](=O)[O-])cc2[N+](=O)[O-])c(NC(C)=O)c1,CCN(CC)c1ccc(N=Nc2c(C#N)cc([N+](=O)[O-])cc2[N+](=O)[O-])c(NC(C)=O)c1,c1ccc(N=Nc2ccccc2)cc1,"N-{2-[(2-cyano-4,6-dinitrophenyl)diazenyl]-5-(diethylamino)phenyl}acetamide",-6.327772594400001,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CC)c1ccc(N=Nc2c(Cl)cc([N+](=O)[O-])cc2[N+](=O)[O-])c(NC(C)=O)c1,CCN(CC)c1ccc(N=Nc2c(Cl)cc([N+](=O)[O-])cc2[N+](=O)[O-])c(NC(C)=O)c1,c1ccc(N=Nc2ccccc2)cc1,"N-{2-[(E)-2-(2-chloro-4,6-dinitrophenyl)diazen-1-yl]-5-(diethylamino)phenyl}acetamide",-7.1158852536,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CC)c1ccc(N=Nc2ccccc2)cc1,CCN(CC)c1ccc(N=Nc2ccccc2)cc1,c1ccc(N=Nc2ccccc2)cc1,"N,N-diethyl-4-[(E)-2-phenyldiazen-1-yl]aniline",-5.9821152675,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O=c1ccc2ccccc2o1,7-diethylamino-4-methylchromen-2-one,-4.0,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CCC#N)c1ccc(N=Nc2c(Br)cc([N+](=O)[O-])cc2Br)cc1,CCN(CCC#N)c1ccc(N=Nc2c(Br)cc([N+](=O)[O-])cc2Br)cc1,c1ccc(N=Nc2ccccc2)cc1,"3-[[4-[(2,6-dibromo-4-nitrophenyl)azo]phenyl]ethylamino]propiononitrile",-4.3812486892,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CCC#N)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2)cc1,CCN(CCC#N)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2)cc1,c1ccc(N=Nc2ccccc2)cc1,3-[ethyl[4-[(4-nitrophenyl)azo]phenyl]amino]propiononitrile,-7.208650928200001,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CCC#N)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2Cl)cc1,CCN(CCC#N)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2Cl)cc1,c1ccc(N=Nc2ccccc2)cc1,3-[[4-[(2-chloro-4-nitrophenyl)azo]phenyl]ethylamino]propiononitrile,-4.2526115544,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CCO)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2)cc1,CCN(CCO)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2)cc1,c1ccc(N=Nc2ccccc2)cc1,disperse red 1,-6.292999999999999,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(CCOC(C)OCC(C)C)c1ccc(N=Nc2ccccc2)cc1,CCN(CCOC(C)OCC(C)C)c1ccc(N=Nc2ccccc2)cc1,c1ccc(N=Nc2ccccc2)cc1,N-ethyl-N-{2-[1-(2-methylpropoxy)ethoxy]ethyl}-4-[(E)-2-phenyldiazen-1-yl]aniline,-7.0905037661,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN(Cc1c(F)cccc1Cl)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],CCN(Cc1c(F)cccc1Cl)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],c1ccc(CNc2ccccc2)cc1,flumetralin,-6.625,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN1CCCC1=O,CCN1CCCC1=O,O=C1CCCN1,1-ethylpyrrolidin-2-one,0.9463070612000001,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN1CCCCC1,CCN1CCCCC1,C1CCNCC1,1-ethylpiperidine,-1.2757105223,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN1c2ccccc2C(=O)N(C)c2ccccc21,CCN1c2ccccc2C(=O)N(C)c2ccccc21,O=C1Nc2ccccc2Nc2ccccc21,RTI 19,-4.749,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN1c2ccccc2N(C)C(=S)c2cccnc21,CCN1c2ccccc2N(C)C(=S)c2cccnc21,S=C1Nc2ccccc2Nc2ncccc21,RTI 17,-4.706,AqSolDB,1,frozen_test_identity_or_scaffold
+CCN1c2ncccc2C(=S)N(C)c2cccnc21,CCN1c2ncccc2C(=S)N(C)c2cccnc21,S=C1Nc2cccnc2Nc2ncccc21,RTI 16,-4.6339999999999995,AqSolDB,1,frozen_test_identity_or_scaffold
+CCNC(=O)Nc1ncc([N+](=O)[O-])s1,CCNC(=O)Nc1ncc([N+](=O)[O-])s1,c1cscn1,nithiazide,-2.8578,AqSolDB,1,frozen_test_identity_or_scaffold
+CCNc1cc(C#N)c(N)c2c1C(=O)c1ccccc1C2=O,CCNc1cc(C#N)c(N)c2c1C(=O)c1ccccc1C2=O,O=C1c2ccccc2C(=O)c2ccccc21,"1-amino-4-(ethylamino)-9,10-dioxo-9,10-dihydroanthracene-2-carbonitrile",-7.6382805905,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOC(=O)C(C#N)=C(c1ccccc1)c1ccccc1,CCOC(=O)C(C#N)=C(c1ccccc1)c1ccccc1,C=C(c1ccccc1)c1ccccc1,"ethyl 2-cyano-3,3-diphenylprop-2-enoate",-7.7440158853,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOC(=O)C(CC(=O)O)=C(c1ccccc1)c1ccccc1,CCOC(=O)C(CC(=O)O)=C(c1ccccc1)c1ccccc1,C=C(c1ccccc1)c1ccccc1,"butanedioic acid, (diphenylmethylene)-, 1-ethyl",-2.1908,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOC(=O)[C@H](Cc1c[nH]c2ccccc12)N(C)C=O,CCOC(=O)C(Cc1c[nH]c2ccccc12)N(C)C=O,c1ccc2[nH]ccc2c1,"l-tryptophan, n-acetyl, ethyl ester",-2.2709,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOC(=O)C1(C)OC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O,CCOC(=O)C1(C)OC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O,O=C1COC(=O)N1c1ccccc1,chlozolinate,-5.2203,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc(Cl)c1Cl,CCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc(Cl)c1Cl,C1=CC(c2ccccc2)C=CN1,"O3-ethyl O5-methyl 4-(2,3-dichlorophenyl)-2,6-dimethyl-1,4-dihydropyridine-3,5-dicarboxylate",-5.68,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOC(=O)C1OC1(C)c1ccccc1,CCOC(=O)C1OC1(C)c1ccccc1,c1ccc(C2CO2)cc1,ethyl 3-methyl-3-phenyloxirane-2-carboxylate,-2.3143750058,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOC(=O)C1OC1c1ccccc1,CCOC(=O)C1OC1c1ccccc1,c1ccc(C2CO2)cc1,ethyl 3-phenyloxirane-2-carboxylate,-2.4096512377,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOC(=O)CSc1nc(C(C)(C)C)nn1C(=O)N(C)C,CCOC(=O)CSc1nc(C(C)(C)C)nn1C(=O)N(C)C,c1nc[nH]n1,triazamate,-2.861,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOC(=O)N(c1ccccc1)c1ccccc1,CCOC(=O)N(c1ccccc1)c1ccccc1,c1ccc(Nc2ccccc2)cc1,"ethyl N,N-diphenylcarbamate",-3.9692395593,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOC(=O)OCCOc1cc(O)c2c(c1N)C(=O)c1ccccc1C2=O,CCOC(=O)OCCOc1cc(O)c2c(c1N)C(=O)c1ccccc1C2=O,O=C1c2ccccc2C(=O)c2ccccc21,"2-[(1-amino-4-hydroxy-9,10-dioxo-9,10-dihydroanthracen-2-yl)oxy]ethyl ethyl carbonate",-9.2195295624,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOC(=O)c1c[nH]c(=S)[nH]c1=O,CCOC(=O)c1c[nH]c(=S)[nH]c1=O,O=c1cc[nH]c(=S)[nH]1,"5-pyrimidinecarboxylic aicd, 1,2,3,4-tetrahydro-",-2.0985,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOC(=O)c1ccccc1C(=O)c1ccccc1,CCOC(=O)c1ccccc1C(=O)c1ccccc1,O=C(c1ccccc1)c1ccccc1,"benzoic acid, 2-benzoyl-, ethyl ester",-3.4053,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOC(=O)c1ccccc1S(=O)(=O)NN(C=O)c1nc(Cl)cc(OC)n1,CCOC(=O)c1ccccc1S(=O)(=O)NN(C=O)c1nc(Cl)cc(OC)n1,O=S(=O)(NNc1ncccn1)c1ccccc1,Chlorimuron-ethyl (ph 7),-4.5760000000000005,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOC(=O)c1cncn1C(C)c1ccccc1,CCOC(=O)c1cncn1C(C)c1ccccc1,c1ccc(Cn2ccnc2)cc1,etomidate;  (r)-(+)-1-(alpha-methylbenzyl)imidazole-5-carboxylic acid ethyl ester,-4.73,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOC1=CC(=O)CC(C)C12Oc1c(Cl)c(OC)cc(OC)c1C2=O,CCOC1=CC(=O)CC(C)C12Oc1c(Cl)c(OC)cc(OC)c1C2=O,O=C1C=CC2(CC1)Oc1ccccc1C2=O,"7-chloro-3'-ethoxy-4,6-dimethoxy-5'-methylspiro[1-benzofuran-2,4'-cyclohex-2-ene]-1',3-dione",-5.0,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOC1=CC(=O)CC(C)C12Oc1c(Cl)c(OCC)cc(OC)c1C2=O,CCOC1=CC(=O)CC(C)C12Oc1c(Cl)c(OCC)cc(OC)c1C2=O,O=C1C=CC2(CC1)Oc1ccccc1C2=O,"7-chloro-3',6-diethoxy-4-methoxy-5'-methylspiro[1-benzofuran-2,4'-cyclohex-2-ene]-1',3-dione",-4.7,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOP(=O)(OCC)Oc1ccc2c(C)c(Cl)c(=O)oc2c1,CCOP(=O)(OCC)Oc1ccc2c(C)c(Cl)c(=O)oc2c1,O=c1ccc2ccccc2o1,coroxon,-3.18,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOP(=S)(OCC)Oc1ccc2c(C)c(Cl)c(=O)oc2c1,CCOP(=S)(OCC)Oc1ccc2c(C)c(Cl)c(=O)oc2c1,O=c1ccc2ccccc2o1,coumaphos,-5.3835,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOP(=S)(OCC)Oc1ccc2oc(=O)c(Cl)c(C)c2c1,CCOP(=S)(OCC)Oc1ccc2oc(=O)c(Cl)c(C)c2c1,O=c1ccc2ccccc2o1,Coumaphos,-5.382000000000001,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOP(=S)(OCC)Oc1cnc2ccccc2n1,CCOP(=S)(OCC)Oc1cnc2ccccc2n1,c1ccc2nccnc2c1,quinalphos,-4.1322,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOP(=S)(OCC)Oc1cnccn1,CCOP(=S)(OCC)Oc1cnccn1,c1cnccn1,thionazin,-2.338,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOP(=S)(OCC)Oc1nc(Cl)n(C(C)C)n1,CCOP(=S)(OCC)Oc1nc(Cl)n(C(C)C)n1,c1nc[nH]n1,isazofos,-3.6577,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOP(=S)(OCC)SCn1c(=O)oc2cc(Cl)ccc21,CCOP(=S)(OCC)SCn1c(=O)oc2cc(Cl)ccc21,O=c1[nH]c2ccccc2o1,phosalone,-5.0813,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOP(=S)(OCC)SCn1c(=O)oc2ccccc21,CCOP(=S)(OCC)SCn1c(=O)oc2ccccc21,O=c1[nH]c2ccccc2o1,zolone,-5.1905,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOc1cc(N=Nc2cc([N+](=O)[O-])cc([N+](=O)[O-])c2Br)c(NC(C)=O)cc1N(CCOC(C)=O)CCOC(C)=O,CCOc1cc(N=Nc2cc([N+](=O)[O-])cc([N+](=O)[O-])c2Br)c(NC(C)=O)cc1N(CCOC(C)=O)CCOC(C)=O,c1ccc(N=Nc2ccccc2)cc1,disperse blue 79,-8.8336,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOc1ccc(C(C)(C)COCc2cccc(Oc3ccccc3)c2)cc1,CCOc1ccc(C(C)(C)COCc2cccc(Oc3ccccc3)c2)cc1,c1ccc(CCOCc2cccc(Oc3ccccc3)c2)cc1,etofenprox,-8.5758,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOc1ccc(NC(=O)Nc2ccc(OCC)cc2)cc1,CCOc1ccc(NC(=O)Nc2ccc(OCC)cc2)cc1,O=C(Nc1ccccc1)Nc1ccccc1,"1,3-bis(4-ethoxyphenyl)urea",-4.44,AqSolDB,1,frozen_test_identity_or_scaffold
+CCOc1ccc(Nc2ccc(S(=O)(=O)N(C)C)cc2[N+](=O)[O-])cc1,CCOc1ccc(Nc2ccc(S(=O)(=O)N(C)C)cc2[N+](=O)[O-])cc1,c1ccc(Nc2ccccc2)cc1,"4-[(4-ethoxyphenyl)amino]-N,N-dimethyl-3-nitrobenzene-1-sulfonamide",-4.2617516212,AqSolDB,1,frozen_test_identity_or_scaffold
+CCS(=O)(=O)c1nnc(N(C)C(=O)NC)s1,CCS(=O)(=O)c1nnc(N(C)C(=O)NC)s1,c1nncs1,ethidimuron,-1.945,AqSolDB,1,frozen_test_identity_or_scaffold
+CCSc1nnc(C(C)(C)C)c(=O)n1N,CCSc1nnc(C(C)(C)C)c(=O)n1N,O=c1cnnc[nH]1,ethiozin,-2.7353,AqSolDB,1,frozen_test_identity_or_scaffold
+CCc1c2ccccc2cc2c1ccc1ccccc12,CCc1c2ccccc2cc2c1ccc1ccccc12,c1ccc2cc3c(ccc4ccccc43)cc2c1,7-ethylbenz(a)anthracene,-6.796,AqSolDB,1,frozen_test_identity_or_scaffold
+CCc1ccc2c(c1)C(=O)c1ccccc1C2=O,CCc1ccc2c(c1)C(=O)c1ccccc1C2=O,O=C1c2ccccc2C(=O)c2ccccc21,"2-ethyl-9,10-dihydroanthracene-9,10-dione",-5.9842424969,AqSolDB,1,frozen_test_identity_or_scaffold
+CCc1cccc2c(CCO)c[nH]c12,CCc1cccc2c(CCO)c[nH]c12,c1ccc2[nH]ccc2c1,2-(7-ethyl-1H-indol-3-yl)ethan-1-ol,-1.9153264103,AqSolDB,1,frozen_test_identity_or_scaffold
+CCc1cccs1,CCc1cccs1,c1ccsc1,2-ethylthiophene,-2.5846,AqSolDB,1,frozen_test_identity_or_scaffold
+CCc1nccnc1C,CCc1nccnc1C,c1cnccn1,2-ethyl-3-methylpyrazine,0.44451078829999996,AqSolDB,1,frozen_test_identity_or_scaffold
+CCn1c2ccccc2c2ccccc21,CCn1c2ccccc2c2ccccc21,c1ccc2c(c1)[nH]c1ccccc12,9-ethyl-9H-carbazole,-6.813503151,AqSolDB,1,frozen_test_identity_or_scaffold
+CN(C(=O)CNC(=O)CN)c1ccc(Cl)cc1C(=O)c1ccccc1Cl,CN(C(=O)CNC(=O)CN)c1ccc(Cl)cc1C(=O)c1ccccc1Cl,O=C(c1ccccc1)c1ccccc1,2-[(2-aminoacetyl)amino]-N-[4-chloro-2-(2-chlorobenzoyl)phenyl]-N-methylacetamide,-2.33,AqSolDB,1,frozen_test_identity_or_scaffold
+CN(C(=O)COc1nc2ccccc2s1)c1ccccc1,CN(C(=O)COc1nc2ccccc2s1)c1ccccc1,O=C(COc1nc2ccccc2s1)Nc1ccccc1,mefenacet,-4.8727,AqSolDB,1,frozen_test_identity_or_scaffold
+CN(C(=O)N(C)c1ccccc1)c1ccccc1,CN(C(=O)N(C)c1ccccc1)c1ccccc1,O=C(Nc1ccccc1)Nc1ccccc1,"1,3-dimethyl-1,3-diphenylurea",-3.4975575811,AqSolDB,1,frozen_test_identity_or_scaffold
+CN(C(=O)NC(C)(C)c1ccccc1)c1ccccc1,CN(C(=O)NC(C)(C)c1ccccc1)c1ccccc1,O=C(NCc1ccccc1)Nc1ccccc1,methyldymron,-3.3495,AqSolDB,1,frozen_test_identity_or_scaffold
+CN(C)C(=O)NC1CC2CC1C1CCCC21,CN(C)C(=O)NC1CC2CC1C1CCCC21,C1CC2C3CCC(C3)C2C1,isonoruron,-3.01,AqSolDB,1,frozen_test_identity_or_scaffold
+CN(C)C(=O)Nc1ccc(-n2nc(C(C)(C)C)oc2=O)c(Cl)c1,CN(C)C(=O)Nc1ccc(-n2nc(C(C)(C)C)oc2=O)c(Cl)c1,O=c1ocnn1-c1ccccc1,dimefuron,-4.3258,AqSolDB,1,frozen_test_identity_or_scaffold
+CN(C)CC1CC2C3CC=C4CC(O)CCC4(C)C3CCC2(C)C1=O,CN(C)CC1CC2C3CC=C4CC(O)CCC4(C)C3CCC2(C)C1=O,O=C1CCC2C1CCC1C3CCCCC3=CCC21,"16-(dimethylaminomethyl)-3-hydroxy-10,13-dimethyl-1,2,3,4,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-17-one",-1.49,AqSolDB,1,frozen_test_identity_or_scaffold
+CN(C)CCCNC1CC(C)(C)NC(C)(C)C1,CN(C)CCCNC1CC(C)(C)NC(C)(C)C1,C1CCNCC1,"N,N-dimethyl-N'-(2,2,6,6-tetramethylpiperidin-4-yl)propane-1,3-diamine",0.316191362,AqSolDB,1,frozen_test_identity_or_scaffold
+CN(C)Cc1c[nH]c2ccc(Br)cc12,CN(C)Cc1c[nH]c2ccc(Br)cc12,c1ccc2[nH]ccc2c1,bromogramine,-4.06,AqSolDB,1,frozen_test_identity_or_scaffold
+CN(C)S(=O)(=O)Nc1nnc(S(N)(=O)=O)s1,CN(C)S(=O)(=O)Nc1nnc(S(N)(=O)=O)s1,c1nncs1,"2-sulfamoyl-5-(n,n-dimethylsulfamoylamido)-1,3,4-thiadiazole",-2.68,AqSolDB,1,frozen_test_identity_or_scaffold
+CN(C)c1ccc(C(=O)c2ccc(N(C)C)cc2)cc1,CN(C)c1ccc(C(=O)c2ccc(N(C)C)cc2)cc1,O=C(c1ccccc1)c1ccccc1,"4,4-bis(dimethylamino)benzophenone",-2.8267,AqSolDB,1,frozen_test_identity_or_scaffold
+CN(C)c1ccc(N=Nc2ccc(N)cc2)cc1,CN(C)c1ccc(N=Nc2ccc(N)cc2)cc1,c1ccc(N=Nc2ccccc2)cc1,c.i. disperse black 3,-4.593999999999999,AqSolDB,1,frozen_test_identity_or_scaffold
+CN(C)c1ccc(N=Nc2ccc(S(=O)(=O)O)cc2)cc1,CN(C)c1ccc(N=Nc2ccc(S(=O)(=O)O)cc2)cc1,c1ccc(N=Nc2ccccc2)cc1,4-(4-dimethylaminophenyl)diazenylbenzenesulfonic acid,-3.86,AqSolDB,1,frozen_test_identity_or_scaffold
+CN(C)c1ccc(N=Nc2ccccc2)cc1,CN(C)c1ccc(N=Nc2ccccc2)cc1,c1ccc(N=Nc2ccccc2)cc1,"N,N-dimethyl-4-phenyldiazenylaniline",-5.25,AqSolDB,1,frozen_test_identity_or_scaffold
+CN(C)c1nc2ncncc2[nH]1,CN(C)c1nc2ncncc2[nH]1,c1ncc2[nH]cnc2n1,"1h-purin-8-amine, n,n-dimethyl-",-1.3885,AqSolDB,1,frozen_test_identity_or_scaffold
+CN(CC(=O)NCCC(=O)Nc1nnc(S(N)(=O)=O)s1)C(=N)N,CN(CC(=O)NCCC(=O)Nc1nnc(S(N)(=O)=O)s1)C(=N)N,c1nncs1,"3-[2-(n-methylguanidino)-acetylamino]-n-(5-sulfamoyl-[1,3,4]thiadiazol-2-yl)propionamide",-1.13,AqSolDB,1,frozen_test_identity_or_scaffold
+CN(CC(=O)Nc1nnc(S(N)(=O)=O)s1)C(=N)N,CN(CC(=O)Nc1nnc(S(N)(=O)=O)s1)C(=N)N,c1nncs1,"5-creatinylamido-2-sulfamoyl-1,3,4-thiadiazole",-1.14,AqSolDB,1,frozen_test_identity_or_scaffold
+CN1C(=O)CCC(N2C(=O)c3ccccc3C2=O)C1=O,CN1C(=O)CCC(N2C(=O)c3ccccc3C2=O)C1=O,O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,n-(methyl)thalidomide,-2.99,AqSolDB,1,frozen_test_identity_or_scaffold
+CN1C(=O)NC(=O)C(C)(C2=CCCCC2)C1=O,CN1C(=O)NC(=O)C(C)(C2=CCCCC2)C1=O,O=C1NC(=O)C(C2=CCCCC2)C(=O)N1,"5-(1-cyclohexenyl)-1,5-dimethyl-1,3-diazinane-2,4,6-trione",-2.91,AqSolDB,1,frozen_test_identity_or_scaffold
+CN1C(C(=O)Nc2ccccn2)=C(O)c2ccccc2S1(=O)=O,CN1C(C(=O)Nc2ccccn2)=C(O)c2ccccc2S1(=O)=O,O=C(Nc1ccccn1)C1=Cc2ccccc2S(=O)(=O)N1,piroxicam,-4.5,AqSolDB,1,frozen_test_identity_or_scaffold
+CN1C(CCl)Nc2cc(Cl)c(S(N)(=O)=O)cc2S1(=O)=O,CN1C(CCl)Nc2cc(Cl)c(S(N)(=O)=O)cc2S1(=O)=O,O=S1(=O)NCNc2ccccc21,methyclothiazide,-3.78,AqSolDB,1,frozen_test_identity_or_scaffold
+CN1CC(C(=O)O)CC1=O,CN1CC(C(=O)O)CC1=O,O=C1CCCN1,1-methyl-4-carboxy-2-pyrrolodone,-0.9540000000000001,AqSolDB,1,frozen_test_identity_or_scaffold
+CN1CC(O)N(c2nnc(C(C)(C)C)s2)C1=O,CN1CC(O)N(c2nnc(C(C)(C)C)s2)C1=O,O=C1NCCN1c1nncs1,buthidazole,-1.8773,AqSolDB,1,frozen_test_identity_or_scaffold
+CN1CCCC1=O,CN1CCCC1=O,O=C1CCCN1,1-methylpyrrolidin-2-one,1.0037817508,AqSolDB,1,frozen_test_identity_or_scaffold
+CN1CCCCC1,CN1CCCCC1,C1CCNCC1,N-methylpiperidine,0.23,AqSolDB,1,frozen_test_identity_or_scaffold
+CN=C(NC#N)NCCSCc1nc[nH]c1C,CN=C(NC#N)NCCSCc1nc[nH]c1C,c1c[nH]cn1,cimetidine,-1.4298,AqSolDB,1,frozen_test_identity_or_scaffold
+CNC(=O)N(C)c1nnc(C(C)(C)C)s1,CNC(=O)N(C)c1nnc(C(C)(C)C)s1,c1nncs1,tebuthiuron,-1.9969999999999999,AqSolDB,1,frozen_test_identity_or_scaffold
+CNC(=O)N(C)c1nnc(C(C)(C)CCl)s1,CNC(=O)N(C)c1nnc(C(C)(C)CCl)s1,c1nncs1,"1-[5-(2-chloro-1,1-dimethylethyl)-[1,3,4]thiadiazol-2-yl]-1,3-dimethylurea",-2.47,AqSolDB,1,frozen_test_identity_or_scaffold
+CNC(=O)N(C)c1nnc(C(F)(F)F)s1,CNC(=O)N(C)c1nnc(C(F)(F)F)s1,c1nncs1,thiazafluron,-2.0584,AqSolDB,1,frozen_test_identity_or_scaffold
+CNC(=O)N(c1ccccc1)c1ccccc1,CNC(=O)N(c1ccccc1)c1ccccc1,c1ccc(Nc2ccccc2)cc1,"3-methyl-1,1-diphenylurea",-2.9839461581999998,AqSolDB,1,frozen_test_identity_or_scaffold
+CNC(=O)Oc1cccc2c1OC(C)(C)O2,CNC(=O)Oc1cccc2c1OC(C)(C)O2,c1ccc2c(c1)OCO2,bendiocarb,-2.9338,AqSolDB,1,frozen_test_identity_or_scaffold
+CNC(=O)Oc1ccccc1C1OCCO1,CNC(=O)Oc1ccccc1C1OCCO1,c1ccc(C2OCCO2)cc1,dioxacarb,-1.5706,AqSolDB,1,frozen_test_identity_or_scaffold
+CNc1cccc2c1C(=O)c1ccccc1C2=O,CNc1cccc2c1C(=O)c1ccccc1C2=O,O=C1c2ccccc2C(=O)c2ccccc21,disperse red 9,-6.3,AqSolDB,1,frozen_test_identity_or_scaffold
+COC(=O)C1(O)c2ccccc2-c2ccc(Cl)cc21,COC(=O)C1(O)c2ccccc2-c2ccc(Cl)cc21,c1ccc2c(c1)Cc1ccccc1-2,chlorflurecol methyl,-4.1836,AqSolDB,1,frozen_test_identity_or_scaffold
+COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1ccccc1[N+](=O)[O-],COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1ccccc1[N+](=O)[O-],C1=CC(c2ccccc2)C=CN1,nifedipine,-4.76,AqSolDB,1,frozen_test_identity_or_scaffold
+COC(=O)C1CC(=O)N(C)C1,COC(=O)C1CC(=O)N(C)C1,O=C1CCCN1,1-methyl-4-methoxycarbonyl,0.804,AqSolDB,1,frozen_test_identity_or_scaffold
+COC(=O)CCN(CCC(=O)OC)c1ccc(N=Nc2c(Cl)cc([N+](=O)[O-])cc2Br)cc1,COC(=O)CCN(CCC(=O)OC)c1ccc(N=Nc2c(Cl)cc([N+](=O)[O-])cc2Br)cc1,c1ccc(N=Nc2ccccc2)cc1,methyl 3-[[4-(2-bromo-6-chloro-4-nitrophenyl)diazenylphenyl]-(3-methoxy-3-oxopropyl)amino]propanoate,-7.1002216252,AqSolDB,1,frozen_test_identity_or_scaffold
+COC(=O)CCN(CCC(=O)OC)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2[N+](=O)[O-])c(NC(C)=O)c1,COC(=O)CCN(CCC(=O)OC)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2[N+](=O)[O-])c(NC(C)=O)c1,c1ccc(N=Nc2ccccc2)cc1,"methyl 3-({4-[(E)-2-(2,4-dinitrophenyl)diazen-1-yl]-3-acetamidophenyl}(3-methoxy-3-oxopropyl)amino)propanoate",-7.3328313355,AqSolDB,1,frozen_test_identity_or_scaffold
+COC(=O)CN(CC(=O)OC)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2C#N)c(NC(C)=O)c1,COC(=O)CN(CC(=O)OC)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2C#N)c(NC(C)=O)c1,c1ccc(N=Nc2ccccc2)cc1,methyl 2-({4-[2-(2-cyano-4-nitrophenyl)diazen-1-yl]-3-acetamidophenyl}(2-methoxy-2-oxoethyl)amino)acetate,-5.1935197379,AqSolDB,1,frozen_test_identity_or_scaffold
+COC(=O)Nc1nc2ccc(C(=O)c3ccccc3)cc2[nH]1,COC(=O)Nc1nc2ccc(C(=O)c3ccccc3)cc2[nH]1,O=C(c1ccccc1)c1ccc2nc[nH]c2c1,Mebendazole,-3.88,ESOL,1,frozen_test_identity_or_scaffold
+COC(=O)Nc1nc2ccccc2[nH]1,COC(=O)Nc1nc2ccccc2[nH]1,c1ccc2[nH]cnc2c1,carbendazim; methyl n-(benzimidazol-2-yl)carbamate; 2-(methoxycarbonylamino)benzimidazole,-4.52,AqSolDB,1,frozen_test_identity_or_scaffold
+COC(=O)c1cc2cc3c(C)cc(=O)oc3c(C)c2o1,COC(=O)c1cc2cc3c(C)cc(=O)oc3c(C)c2o1,O=c1ccc2cc3ccoc3cc2o1,"methyl 5,9-dimethyl-7-oxopyrano[3,2-f][1]benzoxole-2-carboxylate",-5.16,AqSolDB,1,frozen_test_identity_or_scaffold
+COC(=O)c1cc2cc3c(C)coc3c(C)c2oc1=O,COC(=O)c1cc2cc3c(C)coc3c(C)c2oc1=O,O=c1ccc2cc3ccoc3cc2o1,"Methyl 3,9-dimethyl-7-oxo-7H-furo[3,2-g]chromene-6-carboxylate",-4.9,AqSolDB,1,frozen_test_identity_or_scaffold
+COC(=O)c1ccccc1C(=O)c1ccccc1,COC(=O)c1ccccc1C(=O)c1ccccc1,O=C(c1ccccc1)c1ccccc1,"benzoic acid, 2-benzoyl-, methyl ester",-3.4776,AqSolDB,1,frozen_test_identity_or_scaffold
+COC(=O)c1ccccc1OC1OC(COC2OCC(O)C(O)C2O)C(O)C(O)C1O,COC(=O)c1ccccc1OC1OC(COC2OCC(O)C(O)C2O)C(O)C(O)C1O,c1ccc(OC2CCCC(COC3CCCCO3)O2)cc1,monotropitoside,-0.7418,AqSolDB,1,frozen_test_identity_or_scaffold
+COC(=O)c1nc(Cl)c(Cl)nc1N,COC(=O)c1nc(Cl)c(Cl)nc1N,c1cnccn1,"methyl 3-amino-5,6-dichloropyrazine-2-carboxylate",-4.5348386091,AqSolDB,1,frozen_test_identity_or_scaffold
+COC(=O)c1nccnc1N,COC(=O)c1nccnc1N,c1cnccn1,methyl 3-aminopyrazine-2-carboxylate,-1.6422660516999998,AqSolDB,1,frozen_test_identity_or_scaffold
+COC(=O)c1sc(N)c(C#N)c1C,COC(=O)c1sc(N)c(C#N)c1C,c1ccsc1,methyl 5-amino-4-cyano-3-methylthiophene-2-carboxylate,-4.9917376213999995,AqSolDB,1,frozen_test_identity_or_scaffold
+COC(CN(C)C(=O)Nc1nnc(C(C)(C)C)s1)OC,COC(CN(C)C(=O)Nc1nnc(C(C)(C)C)s1)OC,c1nncs1,"3-(5-Tert-butyl-1,3,4-thiadiazol-2-yl)-1-(2,2-dimethoxyethyl)-1-methylurea",-1.8678,AqSolDB,1,frozen_test_identity_or_scaffold
+COC1=C(OC)C2C(=O)OCC2C=C1,COC1=C(OC)C2C(=O)OCC2C=C1,O=C1OCC2C=CC=CC12,meconin,-1.899,AqSolDB,1,frozen_test_identity_or_scaffold
+COC1=CC(=O)CC(C)C12Oc1c(Cl)c(OC)cc(OC)c1C2=O,COC1=CC(=O)CC(C)C12Oc1c(Cl)c(OC)cc(OC)c1C2=O,O=C1C=CC2(CC1)Oc1ccccc1C2=O,griseofulvin,-3.97,AqSolDB,1,frozen_test_identity_or_scaffold
+COC1=CC(=O)CC(C)C12Oc1cc(OC)cc(OC)c1C2=O,COC1=CC(=O)CC(C)C12Oc1cc(OC)cc(OC)c1C2=O,O=C1C=CC2(CC1)Oc1ccccc1C2=O,"spiro[benzofuran-2(3h), 1'-[2]cyclohexene]-3,4'-",-3.699,AqSolDB,1,frozen_test_identity_or_scaffold
+COC1=CC2OC3C=CC(O)=CC3C(=O)C2C(O)=C1,COC1=CC2OC3C=CC(O)=CC3C(=O)C2C(O)=C1,O=C1C2C=CC=CC2OC2C=CC=CC12,gentisin,-2.943,AqSolDB,1,frozen_test_identity_or_scaffold
+COCC(C)N(C(=O)CCl)c1c(C)csc1C,COCC(C)N(C(=O)CCl)c1c(C)csc1C,c1ccsc1,dimethenamid,-2.3614,AqSolDB,1,frozen_test_identity_or_scaffold
+COCC1(C)OC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O,COCC1(C)OC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O,O=C1COC(=O)N1c1ccccc1,"myclozolin; 3-(3,5-dichlorophenyl)-5-methoxymethyl-5-methyl-oxazolidine-2,4-dione",-4.66,AqSolDB,1,frozen_test_identity_or_scaffold
+COP(=S)(OC)Oc1ccc(Sc2ccc(OP(=S)(OC)OC)cc2)cc1,COP(=S)(OC)Oc1ccc(Sc2ccc(OP(=S)(OC)OC)cc2)cc1,c1ccc(Sc2ccccc2)cc1,abate,-6.2375,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1c2ccoc2cc2oc(=O)ccc12,COc1c2ccoc2cc2oc(=O)ccc12,O=c1ccc2cc3ccoc3cc2o1,"4-methoxyfuro[3,2-g]chromen-7-one",-3.6,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1c2occc2c(CN)c2ccc(=O)oc12,COc1c2occc2c(CN)c2ccc(=O)oc12,O=c1ccc2cc3ccoc3cc2o1,"4-(aminomethyl)-9-methoxyfuro[3,2-g]chromen-7-one",-0.9,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1c2occc2c(OC)c2c(=O)cc(C)oc12,COc1c2occc2c(OC)c2c(=O)cc(C)oc12,O=c1ccoc2cc3occc3cc12,Khellin,-3.0210000000000004,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1c2occc2cc2ccc(=O)oc12,COc1c2occc2cc2ccc(=O)oc12,O=c1ccc2cc3ccoc3cc2o1,"9-methoxyfuro[3,2-g]chromen-7-one",-3.52,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1cc(C2c3cc4c(cc3C(OC3OC5COC(C)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1O,COc1cc(C2c3cc4c(cc3C(OC3OC5COC(C)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1O,O=C1OCC2C(OC3CCC4OCOCC4O3)c3cc4c(cc3C(c3ccccc3)C12)OCO4,etoposide,-3.47,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1cc(/C=C/CO)ccc1OC1OC(CO)C(O)C(O)C1O,COc1cc(C=CCO)ccc1OC1OC(CO)C(O)C(O)C1O,c1ccc(OC2CCCCO2)cc1,coniferin dihydrate,-1.87,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1cc(N)c2c(c1N)C(=O)c1ccccc1C2=O,COc1cc(N)c2c(c1N)C(=O)c1ccccc1C2=O,O=C1c2ccccc2C(=O)c2ccccc21,disperse red 11,-5.746,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1cc(N=Nc2c(Br)cc([N+](=O)[O-])cc2[N+](=O)[O-])c(NC(C)=O)cc1N(CCOC(C)=O)CCOC(C)=O,COc1cc(N=Nc2c(Br)cc([N+](=O)[O-])cc2[N+](=O)[O-])c(NC(C)=O)cc1N(CCOC(C)=O)CCOC(C)=O,c1ccc(N=Nc2ccccc2)cc1,"2-{[2-(acetyloxy)ethyl]({4-[(E)-2-(2-bromo-4,6-dinitrophenyl)diazen-1-yl]-5-acetamido-2-methoxyphenyl})amino}ethyl acetate",-5.4951202425,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1cc(N=Nc2c(Cl)cc([N+](=O)[O-])cc2[N+](=O)[O-])c(NC(C)=O)cc1N(CCOC(C)=O)CCOC(C)=O,COc1cc(N=Nc2c(Cl)cc([N+](=O)[O-])cc2[N+](=O)[O-])c(NC(C)=O)cc1N(CCOC(C)=O)CCOC(C)=O,c1ccc(N=Nc2ccccc2)cc1,"2-{[2-(acetyloxy)ethyl]({4-[(E)-2-(2-chloro-4,6-dinitrophenyl)diazen-1-yl]-5-acetamido-2-methoxyphenyl})amino}ethyl acetate",-5.4630997896,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1cc(O)c(CC=C(C)C)c2c1C(=O)CC(c1ccc(O)cc1)O2,COc1cc(O)c(CC=C(C)C)c2c1C(=O)CC(c1ccc(O)cc1)O2,O=C1CC(c2ccccc2)Oc2ccccc21,7-hydroxy-2-(4-hydroxyphenyl)-5-methoxy-8-(3-methylbut-2-enyl)chroman-4-one,-5.44,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1cc2c(N)nc(N3CCN(C(=O)OCC(C)(C)O)CC3)nc2c(OC)c1OC,COc1cc2c(N)nc(N3CCN(C(=O)OCC(C)(C)O)CC3)nc2c(OC)c1OC,c1ccc2nc(N3CCNCC3)ncc2c1,trimazosin,-3.64,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1cc2cc3c(C)coc3cc2oc1=O,COc1cc2cc3c(C)coc3cc2oc1=O,O=c1ccc2cc3ccoc3cc2o1,"6-methoxy-3-methylfuro[3,2-g]chromen-7-one",-5.0,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1cc2nccnc2c(N)c1OC,COc1cc2nccnc2c(N)c1OC,c1ccc2nccnc2c1,"5-quinoxalinamine, 6,7-dimethoxy-",-1.7102,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1ccc(-c2cc(=O)c3c(O)cc(O)cc3o2)cc1O,COc1ccc(-c2cc(=O)c3c(O)cc(O)cc3o2)cc1O,O=c1cc(-c2ccccc2)oc2ccccc12,"5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)-4H-chromen-4-one",-6.1987525576,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1ccc(C(=O)c2cccc(C)c2)cc1C,COc1ccc(C(=O)c2cccc(C)c2)cc1C,O=C(c1ccccc1)c1ccccc1,"4-methoxy-3,3'-dimethylbenzophenone",-5.0797,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1ccc(C(=O)c2ccccc2)c(O)c1,COc1ccc(C(=O)c2ccccc2)c(O)c1,O=C(c1ccccc1)c1ccccc1,2-benzoyl-5-methoxyphenol,-4.5802538276,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1ccc(C(=O)c2ccccc2O)c(O)c1,COc1ccc(C(=O)c2ccccc2O)c(O)c1,O=C(c1ccccc1)c1ccccc1,2-(2-hydroxybenzoyl)-5-methoxyphenol,-7.2738841077,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1ccc(C(O)(c2cncnc2)C2CC2)cc1,COc1ccc(C(O)(c2cncnc2)C2CC2)cc1,c1ccc(C(c2cncnc2)C2CC2)cc1,ancymidol,-2.5959,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1ccc2[nH]cc(CCNC(C)=O)c2c1,COc1ccc2[nH]cc(CCNC(C)=O)c2c1,c1ccc2[nH]ccc2c1,N-[2-(5-methoxy-1H-indol-3-yl)ethyl]acetamide,-5.09,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1ccc2c(c1)CCCC2,COc1ccc2c(c1)CCCC2,c1ccc2c(c1)CCCC2,"6-methoxy-1,2,3,4-tetrahydronaphthalene",-2.7477385243,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1ccc2ccc(=O)oc2c1,COc1ccc2ccc(=O)oc2c1,O=c1ccc2ccccc2o1,"2h-1-benzopyran-2-one, 7-methoxy-",-3.1221,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1ccc2ccc(=O)oc2c1CC=C(C)C,COc1ccc2ccc(=O)oc2c1CC=C(C)C,O=c1ccc2ccccc2o1,osthole,-4.3087,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1cccc(Nc2ccccc2C(=O)O)c1,COc1cccc(Nc2ccccc2C(=O)O)c1,c1ccc(Nc2ccccc2)cc1,n-(3-anisyl)anthranilic  acid;   2-(3-methoxyphenylamino)benzoic acid,-4.8,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1ncc2[nH]cnc2n1,COc1ncc2[nH]cnc2n1,c1ncc2[nH]cnc2n1,2-methoxypurine,-1.48,AqSolDB,1,frozen_test_identity_or_scaffold
+COc1ncnc2nc[nH]c12,COc1ncnc2nc[nH]c12,c1ncc2[nH]cnc2n1,6-methoxypurine,-1.53,AqSolDB,1,frozen_test_identity_or_scaffold
+CS(=O)(=O)Nc1nnc(S(N)(=O)=O)s1,CS(=O)(=O)Nc1nnc(S(N)(=O)=O)s1,c1nncs1,"2-aminosulfonyl-5-methylsulfonamido-1,3,4-thiadiazole",-1.68,AqSolDB,1,frozen_test_identity_or_scaffold
+CSc1nnc(C(C)(C)C)c(=O)n1N,CSc1nnc(C(C)(C)C)c(=O)n1N,O=c1cnnc[nH]1,metribuzin,-2.245,AqSolDB,1,frozen_test_identity_or_scaffold
+CSc1nnc(C(C)(C)C)c(=O)n1/N=C/C(C)C,CSc1nnc(C(C)(C)C)c(=O)n1N=CC(C)C,O=c1cnnc[nH]1,isomethiozin,-4.4288,AqSolDB,1,frozen_test_identity_or_scaffold
+C[N+](C)(C)C(Cc1cnc(S)[nH]1)C(=O)[O-],C[N+](C)(C)C(Cc1cnc(S)[nH]1)C(=O)[O-],c1c[nH]cn1,ergothioneine,-0.46,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1[nH]cnc1CO,Cc1[nH]cnc1CO,c1c[nH]cn1,(4-methyl-1H-imidazol-5-yl)methanol,0.2683337666,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1[nH]cnc1S(=O)(=O)O,Cc1[nH]cnc1S(=O)(=O)O,c1c[nH]cn1,"1h-imidazole-4-sulfonic acid, 5-methyl-",0.188,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1c(Cl)cccc1Nc1ccccc1C(=O)O,Cc1c(Cl)cccc1Nc1ccccc1C(=O)O,c1ccc(Nc2ccccc2)cc1,tolfenamic acid;  n-(2-methyl-3-chlorophenyl)anthranilic  acid,-5.06,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1c(F)c(F)c(COC(=O)C2C(/C=C(\Cl)C(F)(F)F)C2(C)C)c(F)c1F,Cc1c(F)c(F)c(COC(=O)C2C(C=C(Cl)C(F)(F)F)C2(C)C)c(F)c1F,O=C(OCc1ccccc1)C1CC1,tetrafluthrin,-7.32095,AqSolDB,2,frozen_test_identity_or_scaffold
+Cc1c2cc(Cl)ccc2cc2c1ccc1ccccc12,Cc1c2cc(Cl)ccc2cc2c1ccc1ccccc12,c1ccc2cc3c(ccc4ccccc43)cc2c1,"9-chloro-7-methyl-1,2-benzanthracene;  9-chloro-7-methylbenz[a]anthracene",-7.44,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1c2ccccc2c(C)c2c1ccc1ccccc12,Cc1c2ccccc2c(C)c2c1ccc1ccccc12,c1ccc2cc3c(ccc4ccccc43)cc2c1,"7,12-dimethylbenz[a]anthracene",-6.78,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1c2ccccc2c2ccc3cccc4ccc1c2c43,Cc1c2ccccc2c2ccc3cccc4ccc1c2c43,c1ccc2c(c1)cc1ccc3cccc4ccc2c1c34,6-methylbenzo(a)pyrene,-8.5234,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1c2ccccc2cc2c1c(F)cc1ccccc12,Cc1c2ccccc2cc2c1c(F)cc1ccccc12,c1ccc2cc3c(ccc4ccccc43)cc2c1,"benz[a]anthracene, 6-fluoro-7-methyl-",-7.31,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1c2ccccc2cc2c1cc(F)c1ccccc12,Cc1c2ccccc2cc2c1cc(F)c1ccccc12,c1ccc2cc3c(ccc4ccccc43)cc2c1,"benz[a]anthracene, 5-fluoro-7-methyl-",-7.31,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1c2ccccc2cc2c1ccc1ccccc12,Cc1c2ccccc2cc2c1ccc1ccccc12,c1ccc2cc3c(ccc4ccccc43)cc2c1,benz(a)anthracene-7-methyl,-7.343,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1c2ccccc2cc2ccc3ccccc3c12,Cc1c2ccccc2cc2ccc3ccccc3c12,c1ccc2cc3c(ccc4ccccc43)cc2c1,12-methylbenz(a)anthracene,-6.5648,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1c[nH]c(=S)[nH]c1=O,Cc1c[nH]c(=S)[nH]c1=O,O=c1cc[nH]c(=S)[nH]1,"4(1h)-pyrimidinone, 2,3-dihydro-5-methyl-2-thiox",-2.4461,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1c[nH]c2ccccc12,Cc1c[nH]c2ccccc12,c1ccc2[nH]ccc2c1,3-methylindole,-2.4206,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cc(=O)[nH]c(=S)[nH]1,Cc1cc(=O)[nH]c(=S)[nH]1,O=c1cc[nH]c(=S)[nH]1,metacil,-2.4259,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cc(C(=O)NNCc2ccccc2)no1,Cc1cc(C(=O)NNCc2ccccc2)no1,O=C(NNCc1ccccc1)c1ccon1,isocarboxazid;  1-benzyl-2-(5-methyl-3-isoxazolylcarbonyl)hydrazine,-2.46,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cc(C)cc(OP(=O)(Oc2cc(C)cc(C)c2)Oc2cc(C)cc(C)c2)c1,Cc1cc(C)cc(OP(=O)(Oc2cc(C)cc(C)c2)Oc2cc(C)cc(C)c2)c1,O=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,trixylyl phosphate,-7.312230264299999,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cc(N(CCO)CCO)ccc1N=Nc1c(Cl)cc([N+](=O)[O-])cc1Cl,Cc1cc(N(CCO)CCO)ccc1N=Nc1c(Cl)cc([N+](=O)[O-])cc1Cl,c1ccc(N=Nc2ccccc2)cc1,"4'-(Bis(2-hydroxyethyl)amino)-2,6-dichloro-2'-methyl-4-nitroazobenzene",-5.9592,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cc(N(CCO)CCO)ccc1N=Nc1ccc([N+](=O)[O-])cc1Cl,Cc1cc(N(CCO)CCO)ccc1N=Nc1ccc([N+](=O)[O-])cc1Cl,c1ccc(N=Nc2ccccc2)cc1,disperse red 5,-6.57,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cc(N(CCO)CCO)ccc1N=Nc1ccccc1,Cc1cc(N(CCO)CCO)ccc1N=Nc1ccccc1,c1ccc(N=Nc2ccccc2)cc1,2-[n-(2-Hydroxyethyl)-3-methyl-4-phenyldiazenylanilino]ethanol,-4.1254,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cc(N)n(-c2ccccc2)n1,Cc1cc(N)n(-c2ccccc2)n1,c1ccc(-n2cccn2)cc1,"1h-pyrazol-5-amine, 3-methyl-1-phenyl-",-0.9376,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cc(N=Nc2ccccc2C)ccc1N,Cc1cc(N=Nc2ccccc2C)ccc1N,c1ccc(N=Nc2ccccc2)cc1,2-methyl-4-(2-methylphenyl)diazenylaniline,-4.05,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cc(O)c(C(C)(C)C)cc1Sc1cc(C(C)(C)C)c(O)cc1C,Cc1cc(O)c(C(C)(C)C)cc1Sc1cc(C(C)(C)C)c(O)cc1C,c1ccc(Sc2ccccc2)cc1,2-tert-butyl-4-[(5-tert-butyl-4-hydroxy-2-methylphenyl)sulfanyl]-5-methylphenol,-7.112066324,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cc(O)ccc1OP(=O)(Oc1cc(O)ccc1C)Oc1c(C)cccc1O,Cc1cc(O)ccc1OP(=O)(Oc1cc(O)ccc1C)Oc1c(C)cccc1O,O=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,tricresyl_phosphate,-6.7,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cc(OC(=O)N(C)C)n(-c2ccccc2)n1,Cc1cc(OC(=O)N(C)C)n(-c2ccccc2)n1,c1ccc(-n2cccn2)cc1,pyrolan,-2.0886,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cc2cc3c(C)cc(=O)oc3c(C)c2o1,Cc1cc2cc3c(C)cc(=O)oc3c(C)c2o1,O=c1ccc2cc3ccoc3cc2o1,"2,5,9-trimethylpyrano[5,6-f][1]benzoxol-7-one",-5.28,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cc2cc3c(C)cc(=O)oc3cc2o1,Cc1cc2cc3c(C)cc(=O)oc3cc2o1,O=c1ccc2cc3ccoc3cc2o1,"2,5-dimethylpyrano[5,6-f][1]benzoxol-7-one",-5.23,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cc2cccc3ccc4c5ccccc5cc1c4c32,Cc1cc2cccc3ccc4c5ccccc5cc1c4c32,c1ccc2c(c1)cc1ccc3cccc4ccc2c1c34,"benzo[a]pyrene, 5-methyl-",-8.5224,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cc2ccccc2cn1,Cc1cc2ccccc2cn1,c1ccc2cnccc2c1,3-methylisoquinoline,-2.19,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(CC(O)C(O)C(O)CO)c2cc1C,Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(CC(O)C(O)C(O)CO)c2cc1C,O=c1nc2[nH]c3ccccc3nc-2c(=O)[nH]1,riboflavin,-3.6478,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccc(C(=O)c2cc(O)c(O)c([N+](=O)[O-])c2)cc1,Cc1ccc(C(=O)c2cc(O)c(O)c([N+](=O)[O-])c2)cc1,O=C(c1ccccc1)c1ccccc1,"tolcapone;  3,4-dihydroxy-4'-methyl-5-nitrobenzophenone",-4.17,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccc(N=CN(C)C=Nc2ccc(C)cc2C)c(C)c1,Cc1ccc(N=CN(C)C=Nc2ccc(C)cc2C)c(C)c1,C(=Nc1ccccc1)NC=Nc1ccccc1,amitraz,-5.4675,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccc(N=Nc2cc(C)ccc2N)cc1,Cc1ccc(N=Nc2cc(C)ccc2N)cc1,c1ccc(N=Nc2ccccc2)cc1,"benzenamine, 4-methyl-2-[(4-methylphenyl)azo]-",-3.9031,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccc(NC(=O)NC(C)(C)c2ccccc2)cc1,Cc1ccc(NC(=O)NC(C)(C)c2ccccc2)cc1,O=C(NCc1ccccc1)Nc1ccccc1,daimuron,-5.3495,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccc(OP(=O)(Oc2ccc(C)cc2)Oc2ccc(C)cc2)cc1,Cc1ccc(OP(=O)(Oc2ccc(C)cc2)Oc2ccc(C)cc2)cc1,O=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,tri-p-cresyl phosphate,-6.0892,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccc(OP(=O)(Oc2cccc(C)c2)Oc2ccccc2C)cc1,Cc1ccc(OP(=O)(Oc2cccc(C)c2)Oc2ccccc2C)cc1,O=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,Tricresyl phosphate,-6.01,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccc(OP(=O)(Oc2ccccc2)Oc2ccccc2)cc1,Cc1ccc(OP(=O)(Oc2ccccc2)Oc2ccccc2)cc1,O=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,cresyl diphenyl phosphate,-6.1517,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccc(OP(=O)(Oc2ccccc2)Oc2ccccc2C)cc1,Cc1ccc(OP(=O)(Oc2ccccc2)Oc2ccccc2C)cc1,O=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,"phosphoric acid, bis(methylphenyl) phenyl ester",-6.3733,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccc2c(c1)C(=O)c1ccccc1C2=O,Cc1ccc2c(c1)C(=O)c1ccccc1C2=O,O=C1c2ccccc2C(=O)c2ccccc21,"2-methyl-9,10-dihydroanthracene-9,10-dione",-6.1171462485,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccc2c(c1N)C(=O)c1ccccc1C2=O,Cc1ccc2c(c1N)C(=O)c1ccccc1C2=O,O=C1c2ccccc2C(=O)c2ccccc21,"1-amino-2-methyl-9,10-anthracenedione",-5.8541,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccc2c(ccc3c4c5c(cccc5cc32)CC4)c1,Cc1ccc2c(ccc3c4c5c(cccc5cc32)CC4)c1,c1cc2c3c(c4ccc5ccccc5c4cc3c1)CC2,3-Methylcholanthrene,-7.92,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccc2cc3c(ccc4ccccc43)c3c2c1CC3,Cc1ccc2cc3c(ccc4ccccc43)c3c2c1CC3,c1cc2c3c(c4ccc5ccccc5c4cc3c1)CC2,3-methylcholanthrene,-7.9663,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccc2cc3c(ccc4ccccc43)cc2c1,Cc1ccc2cc3c(ccc4ccccc43)cc2c1,c1ccc2cc3c(ccc4ccccc43)cc2c1,9-methylbenz(a)anthracene,-6.8162,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccc2cc3ccc4ccccc4c3cc2c1,Cc1ccc2cc3ccc4ccccc4c3cc2c1,c1ccc2cc3c(ccc4ccccc43)cc2c1,10-methyl-benz(a)anthracene,-6.644,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccc2nc3ccccc3c(N)c2c1,Cc1ccc2nc3ccccc3c(N)c2c1,c1ccc2nc3ccccc3cc2c1,2-methylacridin-9-amine,-2.39,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cccc(N=Nc2ccc(N(C)C)cc2)c1,Cc1cccc(N=Nc2ccc(N(C)C)cc2)c1,c1ccc(N=Nc2ccccc2)cc1,4-dimethylamino-3'-methylazobenzene,-5.7769,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cccc(Nc2ccccc2C(=O)O)c1,Cc1cccc(Nc2ccccc2C(=O)O)c1,c1ccc(Nc2ccccc2)cc1,n-(3-tolyl)anthranilic  acid;  2-(3-tolylamino)benzoic acid,-5.06,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cccc(Nc2ccccc2C(=O)O)c1C,Cc1cccc(Nc2ccccc2C(=O)O)c1C,c1ccc(Nc2ccccc2)cc1,mefenamic acid,-4.0815,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cccc2c1Cc1ccccc1-2,Cc1cccc2c1Cc1ccccc1-2,c1ccc2c(c1)Cc1ccccc1-2,1-methylfluorene,-5.2184,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cccc2c1c(C)cc1cc3ccccc3cc12,Cc1cccc2c1c(C)cc1cc3ccccc3cc12,c1ccc2cc3c(ccc4ccccc43)cc2c1,"benz(a)anthracene-4,5-dimethylene",-7.9743,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cccc2ccc3cc4ccccc4cc3c12,Cc1cccc2ccc3cc4ccccc4cc3c12,c1ccc2cc3c(ccc4ccccc43)cc2c1,1-methylbenz(a)anthracene,-6.644,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cccc2sc3nncn3c12,Cc1cccc2sc3nncn3c12,c1ccc2c(c1)sc1nncn12,tricyclazole,-2.0729,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccccc1-n1c(C)nc2ccccc2c1=O,Cc1ccccc1-n1c(C)nc2ccccc2c1=O,O=c1c2ccccc2ncn1-c1ccccc1,methaqualone;  2-methyl-3-(2-tolyl)quinazolin-4-one,-2.92,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccccc1N1C(=O)c2cc(S(N)(=O)=O)c(Cl)cc2NC1C,Cc1ccccc1N1C(=O)c2cc(S(N)(=O)=O)c(Cl)cc2NC1C,O=C1c2ccccc2NCN1c1ccccc1,metolazone,-3.783,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccnc2c1NC(=O)c1cccnc1N2C1CC1,Cc1ccnc2c1NC(=O)c1cccnc1N2C1CC1,O=C1Nc2cccnc2N(C2CC2)c2ncccc21,nevirapine,-3.19,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ccsc1,Cc1ccsc1,c1ccsc1,3-methylthiophene,-2.3899,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1cnccn1,Cc1cnccn1,c1cnccn1,2-methylpyrazine,1.0263,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1coc2cc3oc(=O)c(N)cc3cc12,Cc1coc2cc3oc(=O)c(N)cc3cc12,O=c1ccc2cc3ccoc3cc2o1,"6-amino-3-methylfuro[3,2-g]chromen-7-one",-5.08,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1nc(Br)[nH]c1[N+](=O)[O-],Cc1nc(Br)[nH]c1[N+](=O)[O-],c1c[nH]cn1,2-bromo-4-methyl-5-nitro-1h-imidazole,-1.7914,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1nc2ccccc2[nH]1,Cc1nc2ccccc2[nH]1,c1ccc2[nH]cnc2c1,2-methylbenaimidazole,-1.9598,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1nc2ncncc2[nH]1,Cc1nc2ncncc2[nH]1,c1ncc2[nH]cnc2n1,8-methylpurine,-0.41,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ncc([N+](=O)[O-])[nH]1,Cc1ncc([N+](=O)[O-])[nH]1,c1c[nH]cn1,2-methyl-4(5)-nitroimidazole,-1.63,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ncc([N+](=O)[O-])n1C,Cc1ncc([N+](=O)[O-])n1C,c1c[nH]cn1,"dimetridazole;  1,2-dimethyl-5-nitroimidazole",-1.16,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ncc([N+](=O)[O-])n1CC(C)O,Cc1ncc([N+](=O)[O-])n1CC(C)O,c1c[nH]cn1,secnidazole,-0.74,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ncc([N+](=O)[O-])n1CCO,Cc1ncc([N+](=O)[O-])n1CCO,c1c[nH]cn1,2-(2-methyl-5-nitroimidazol-1-yl)ethanol,-1.21,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ncc([N+](=O)[O-])n1CCOP(=O)(O)O,Cc1ncc([N+](=O)[O-])n1CCOP(=O)(O)O,c1c[nH]cn1,metronidazole  phosphate,-1.38,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ncc[nH]1,Cc1ncc[nH]1,c1c[nH]cn1,2-methyl-1H-imidazole,0.5121363664999999,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1ncnc2nc[nH]c12,Cc1ncnc2nc[nH]c12,c1ncc2[nH]cnc2n1,"1h-purine, 6-methyl-",0.1735,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1nn(-c2ccccc2)c(C)c1N=O,Cc1nn(-c2ccccc2)c(C)c1N=O,c1ccc(-n2cccn2)cc1,"1-ph-3,5-dime-4-nitrosopyrazole",-3.7355,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1nn(-c2ccccc2)c(N)c1C,Cc1nn(-c2ccccc2)c(N)c1C,c1ccc(-n2cccn2)cc1,"1h-pyrazol-5-amine, 3,4-dimethyl-1-phenyl-",-1.6704,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2,c1ccc(C2=NCc3nncn3-c3ccccc32)cc1,alprazolam;  xanax,-3.6,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2,c1ccc(C2=NCc3nncn3-c3ccccc32)cc1,triazolam,-4.08,AqSolDB,1,frozen_test_identity_or_scaffold
+Cc1occc1C(=O)Nc1ccccc1,Cc1occc1C(=O)Nc1ccccc1,O=C(Nc1ccccc1)c1ccoc1,fenfuram,-3.3037,AqSolDB,1,frozen_test_identity_or_scaffold
+ClC(Cl)=C(c1ccc(Cl)cc1)c1ccc(Cl)cc1,ClC(Cl)=C(c1ccc(Cl)cc1)c1ccc(Cl)cc1,C=C(c1ccccc1)c1ccccc1,"p,p'-dde",-6.9004,AqSolDB,1,frozen_test_identity_or_scaffold
+ClC(Cl)=C(c1ccc(Cl)cc1)c1ccccc1Cl,ClC(Cl)=C(c1ccc(Cl)cc1)c1ccccc1Cl,C=C(c1ccccc1)c1ccccc1,"o,p'-dde",-6.3563,AqSolDB,1,frozen_test_identity_or_scaffold
+ClC1(Cl)C2(Cl)C3(Cl)C4(Cl)C(Cl)(Cl)C5(Cl)C3(Cl)C1(Cl)C5(Cl)C24Cl,ClC1(Cl)C2(Cl)C3(Cl)C4(Cl)C(Cl)(Cl)C5(Cl)C3(Cl)C1(Cl)C5(Cl)C24Cl,C1C2C3C4CC5C3C1C5C24,mirex,-6.8074,AqSolDB,1,frozen_test_identity_or_scaffold
+ClC1=C(Cl)C(Cl)(C2(Cl)C(Cl)=C(Cl)C(Cl)=C2Cl)C(Cl)=C1Cl,ClC1=C(Cl)C(Cl)(C2(Cl)C(Cl)=C(Cl)C(Cl)=C2Cl)C(Cl)=C1Cl,C1=CC(C2C=CC=C2)C=C1,dienochlor,-7.2784,AqSolDB,1,frozen_test_identity_or_scaffold
+ClC1=C(Cl)C(Cl)(Cl)C(Cl)(Cl)C1(Cl)Cl,ClC1=C(Cl)C(Cl)(Cl)C(Cl)(Cl)C1(Cl)Cl,C1=CCCC1,octachlorocyclopentene,-6.5362,AqSolDB,1,frozen_test_identity_or_scaffold
+ClC1=C(Cl)C2(Cl)C3C(Cl)C(Cl)CC3C1(Cl)C2(Cl)Cl,ClC1=C(Cl)C2(Cl)C3C(Cl)C(Cl)CC3C1(Cl)C2(Cl)Cl,C1=CC2CC1C1CCCC21,chlordane,-6.8644,AqSolDB,1,frozen_test_identity_or_scaffold
+ClC1=C(Cl)C2(Cl)C3C4C=CC(C4)C3C1(Cl)C2(Cl)Cl,ClC1=C(Cl)C2(Cl)C3C4C=CC(C4)C3C1(Cl)C2(Cl)Cl,C1=CC2CC1C1C3C=CC(C3)C21,aldrin,-6.31,AqSolDB,1,frozen_test_identity_or_scaffold
+ClC1=C(Cl)C2(Cl)C3C4CC(C5OC45)C3C1(Cl)C2(Cl)Cl,ClC1=C(Cl)C2(Cl)C3C4CC(C5OC45)C3C1(Cl)C2(Cl)Cl,C1=CC2CC1C1C3CC(C4OC34)C21,dieldrin,-6.2908,AqSolDB,1,frozen_test_identity_or_scaffold
+ClCC1CO1,ClCC1CO1,C1CO1,2-(chloromethyl)oxirane,-0.1473736792,AqSolDB,1,frozen_test_identity_or_scaffold
+Clc1c(Cl)c(Cl)c2c(oc3c(Cl)c(Cl)c(Cl)c(Cl)c32)c1Cl,Clc1c(Cl)c(Cl)c2c(oc3c(Cl)c(Cl)c(Cl)c(Cl)c32)c1Cl,c1ccc2c(c1)oc1ccccc12,octachlorodibenzofuran,-11.5827,AqSolDB,1,frozen_test_identity_or_scaffold
+Clc1c(Cl)c(Cl)c2nccnc2c1Cl,Clc1c(Cl)c(Cl)c2nccnc2c1Cl,c1ccc2nccnc2c1,"quinoxaline, 5,6,7,8-tetrachloro-",-5.428,AqSolDB,1,frozen_test_identity_or_scaffold
+Clc1cc(Cl)cc(C2(CC(Cl)(Cl)Cl)CO2)c1,Clc1cc(Cl)cc(C2(CC(Cl)(Cl)Cl)CO2)c1,c1ccc(C2CO2)cc1,"tridiphane;  2-(3,5-dichlorophenyl)-2-(2,2,2-trichloroethyl)oxirane",-5.25,AqSolDB,1,frozen_test_identity_or_scaffold
+Clc1cc2c(oc3c(Cl)c(Cl)c(Cl)c(Cl)c32)c(Cl)c1Cl,Clc1cc2c(oc3c(Cl)c(Cl)c(Cl)c(Cl)c32)c(Cl)c1Cl,c1ccc2c(c1)oc1ccccc12,"dibenzofuran, 1,2,3,4,6,7,8-heptachloro-",-11.4817,AqSolDB,1,frozen_test_identity_or_scaffold
+Clc1cc2c(oc3cc(Cl)c(Cl)c(Cl)c32)c(Cl)c1Cl,Clc1cc2c(oc3cc(Cl)c(Cl)c(Cl)c32)c(Cl)c1Cl,c1ccc2c(c1)oc1ccccc12,"1,2,3,6,7,8-hexachlorodibenzofuran",-10.3,AqSolDB,1,frozen_test_identity_or_scaffold
+Clc1cc2oc3c(Cl)c(Cl)c(Cl)c(Cl)c3c2cc1Cl,Clc1cc2oc3c(Cl)c(Cl)c(Cl)c(Cl)c3c2cc1Cl,c1ccc2c(c1)oc1ccccc12,"1,2,3,4,7,8-Hexachlorodibenzofuran",-10.66,AqSolDB,1,frozen_test_identity_or_scaffold
+Clc1cc2oc3c(Cl)c(Cl)c(Cl)cc3c2cc1Cl,Clc1cc2oc3c(Cl)c(Cl)c(Cl)cc3c2cc1Cl,c1ccc2c(c1)oc1ccccc12,"2,3,4,7,8-pentachlorodibenzofuran",-9.1609,AqSolDB,1,frozen_test_identity_or_scaffold
+Clc1cc2oc3cc(Cl)c(Cl)cc3c2cc1Cl,Clc1cc2oc3cc(Cl)c(Cl)cc3c2cc1Cl,c1ccc2c(c1)oc1ccccc12,"2,3,7,8-tetrachlorodibenzofuran",-8.6456,AqSolDB,1,frozen_test_identity_or_scaffold
+Clc1ccc(C2(Cn3cncn3)OCCO2)c(Cl)c1,Clc1ccc(C2(Cn3cncn3)OCCO2)c(Cl)c1,c1ccc(C2(Cn3cncn3)OCCO2)cc1,azaconazol,-3.0031,AqSolDB,1,frozen_test_identity_or_scaffold
+Clc1ccc(N=Nc2ccccc2)cc1,Clc1ccc(N=Nc2ccccc2)cc1,c1ccc(N=Nc2ccccc2)cc1,4-chloroazobenzene,-5.7023,AqSolDB,1,frozen_test_identity_or_scaffold
+Clc1ccc(Sc2cc(Cl)c(Cl)cc2Cl)cc1,Clc1ccc(Sc2cc(Cl)c(Cl)cc2Cl)cc1,c1ccc(Sc2ccccc2)cc1,tetrasul,-7.0335,AqSolDB,1,frozen_test_identity_or_scaffold
+Clc1ccc2oc3ccc(Cl)cc3c2c1,Clc1ccc2oc3ccc(Cl)cc3c2c1,c1ccc2c(c1)oc1ccccc12,"2,8-dichlorodibenzofuran",-7.2135,AqSolDB,1,frozen_test_identity_or_scaffold
+Clc1ncnc2nc[nH]c12,Clc1ncnc2nc[nH]c12,c1ncc2[nH]cnc2n1,6-chloropurine,-1.4901,AqSolDB,1,frozen_test_identity_or_scaffold
+Cn1c(=O)[nH]c2[nH]c(=O)[nH]c2c1=O,Cn1c(=O)[nH]c2[nH]c(=O)[nH]c2c1=O,O=c1[nH]c(=O)c2[nH]c(=O)[nH]c2[nH]1,1-methyl uric acid,-1.5614,AqSolDB,1,frozen_test_identity_or_scaffold
+Cn1c(=O)[nH]c2c(=O)[nH]c(=O)[nH]c21,Cn1c(=O)[nH]c2c(=O)[nH]c(=O)[nH]c21,O=c1[nH]c(=O)c2[nH]c(=O)[nH]c2[nH]1,"9-methyl-3,7-dihydropurine-2,6,8-trione",-3.94,AqSolDB,1,frozen_test_identity_or_scaffold
+Cn1c(=O)c2c(n(C)c1=O)n(C)c(=O)n2C,Cn1c(=O)c2c(n(C)c1=O)n(C)c(=O)n2C,O=c1[nH]c(=O)c2[nH]c(=O)[nH]c2[nH]1,"1h-purine-2,6,8(3h)-trione, 7,9-dihydro-1,3,7,9-",-0.9527,AqSolDB,1,frozen_test_identity_or_scaffold
+Cn1c(=O)on(-c2ccc(Cl)c(Cl)c2)c1=O,Cn1c(=O)on(-c2ccc(Cl)c(Cl)c2)c1=O,O=c1[nH]c(=O)n(-c2ccccc2)o1,Methazole,-2.82,AqSolDB,1,frozen_test_identity_or_scaffold
+Cn1c(C(N)=O)c(C(N)=O)c2ccccc21,Cn1c(C(N)=O)c(C(N)=O)c2ccccc21,c1ccc2[nH]ccc2c1,"1h-indole-2,3-dicarboxamide, 1-methyl-",-1.8184,AqSolDB,1,frozen_test_identity_or_scaffold
+Cn1c([N+](=O)[O-])cnc1COC(N)=O,Cn1c([N+](=O)[O-])cnc1COC(N)=O,c1c[nH]cn1,ronidazole,-1.8433,AqSolDB,1,frozen_test_identity_or_scaffold
+Cn1cc(-c2ccccc2)c(=O)c(-c2cccc(C(F)(F)F)c2)c1,Cn1cc(-c2ccccc2)c(=O)c(-c2cccc(C(F)(F)F)c2)c1,O=c1c(-c2ccccc2)c[nH]cc1-c1ccccc1,fluridone,-4.4384,AqSolDB,1,frozen_test_identity_or_scaffold
+Cn1ccnc1,Cn1ccnc1,c1c[nH]cn1,1-methyl-1H-imidazole,1.0856251051,AqSolDB,1,frozen_test_identity_or_scaffold
+Cn1cnc2nc(Cl)nc(Cl)c21,Cn1cnc2nc(Cl)nc(Cl)c21,c1ncc2[nH]cnc2n1,"7h-purine, 2,6-dichloro-7-methyl-",-1.1522,AqSolDB,1,frozen_test_identity_or_scaffold
+Cn1cnc2nc(Cl)nc(NN)c21,Cn1cnc2nc(Cl)nc(NN)c21,c1ncc2[nH]cnc2n1,"6h-purin-6-one, 2-chloro-1,7-dihydro-7-methyl-,",-1.1427,AqSolDB,1,frozen_test_identity_or_scaffold
+Cn1cncc1CC(N)C(=O)O,Cn1cncc1CC(N)C(=O)O,c1c[nH]cn1,2-amino-3-(3-methylimidazol-4-yl)propanoic acid,0.07635,AqSolDB,2,frozen_test_identity_or_scaffold
+FC(F)(F)c1nc2c(Cl)c(Cl)ccc2[nH]1,FC(F)(F)c1nc2c(Cl)c(Cl)ccc2[nH]1,c1ccc2[nH]cnc2c1,"2-cf3-4,5-dichlorobenzimidazole",-3.5677,AqSolDB,1,frozen_test_identity_or_scaffold
+FC(F)(F)c1nc2ncncc2[nH]1,FC(F)(F)c1nc2ncncc2[nH]1,c1ncc2[nH]cnc2n1,"1h-purine, 8-(trifluoromethyl)-",-0.4505,AqSolDB,1,frozen_test_identity_or_scaffold
+FC1(F)C(F)(F)C(F)(F)C2(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C2(F)C1(F)F,FC1(F)C(F)(F)C(F)(F)C2(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C2(F)C1(F)F,C1CCC2CCCCC2C1,octadecafluorodecahydronaphthalene,-7.6647115323,AqSolDB,1,frozen_test_identity_or_scaffold
+N#CC(C#N)=NNc1ccc(N=Nc2ccccc2)cc1,N#CC(C#N)=NNc1ccc(N=Nc2ccccc2)cc1,c1ccc(N=Nc2ccccc2)cc1,2-[(4-phenylazophenyl)hydrazono]malononitrile,-4.92,AqSolDB,1,frozen_test_identity_or_scaffold
+N#CC(OC1OC(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O)c1ccccc1,N#CC(OC1OC(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O)c1ccccc1,c1ccc(COC2CCCC(COC3CCCCO3)O2)cc1,Amigdalin,-0.77,AqSolDB,1,frozen_test_identity_or_scaffold
+N#CCCN(CCC#N)c1ccc(N=Nc2c(Cl)cc([N+](=O)[O-])cc2Cl)cc1,N#CCCN(CCC#N)c1ccc(N=Nc2c(Cl)cc([N+](=O)[O-])cc2Cl)cc1,c1ccc(N=Nc2ccccc2)cc1,"3,3'-[[4-[(2,6-dichloro-4-nitrophenyl)azo]phenyl]imino]bispropiononitrile",-7.115252612100001,AqSolDB,1,frozen_test_identity_or_scaffold
+N#CCCN(CCC#N)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2Cl)cc1,N#CCCN(CCC#N)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2Cl)cc1,c1ccc(N=Nc2ccccc2)cc1,"3,3'-[[4-[(2-chloro-4-nitrophenyl)azo]phenyl]imino]bis[propiononitrile]",-4.281954413,AqSolDB,1,frozen_test_identity_or_scaffold
+N#CCCN(CCO)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2Cl)cc1,N#CCCN(CCO)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2Cl)cc1,c1ccc(N=Nc2ccccc2)cc1,azo dye n9,-6.13,AqSolDB,1,frozen_test_identity_or_scaffold
+N#CCCOCCN(CCC#N)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2)cc1,N#CCCOCCN(CCC#N)c1ccc(N=Nc2ccc([N+](=O)[O-])cc2)cc1,c1ccc(N=Nc2ccccc2)cc1,3-[[2-(2-cyanoethoxy)ethyl][4-[(4-nitrophenyl)azo]phenyl]amino]propiononitrile,-4.5937500267,AqSolDB,1,frozen_test_identity_or_scaffold
+N#Cc1nn(-c2c(Cl)cc(C(F)(F)F)cc2Cl)c(N)c1S(=O)C(F)(F)F,N#Cc1nn(-c2c(Cl)cc(C(F)(F)F)cc2Cl)c(N)c1S(=O)C(F)(F)F,c1ccc(-n2cccn2)cc1,fipronil,-5.3619,AqSolDB,1,frozen_test_identity_or_scaffold
+N=C(N)NC(=O)c1nc(Cl)c(N)nc1N,N=C(N)NC(=O)c1nc(Cl)c(N)nc1N,c1cnccn1,amiloride,-2.87,AqSolDB,1,frozen_test_identity_or_scaffold
+N=C(N)c1cccc(NC(=O)Nc2cccc(C(=N)N)c2)c1,N=C(N)c1cccc(NC(=O)Nc2cccc(C(=N)N)c2)c1,O=C(Nc1ccccc1)Nc1ccccc1,"amicarbalide;  n,n'-di(3-amidinophenyl)urea",-1.77,AqSolDB,1,frozen_test_identity_or_scaffold
+NC(=O)C1CCCC(C(N)=O)N1,NC(=O)C1CCCC(C(N)=O)N1,C1CCNCC1,"2,6-piperidinedicarboxamide",0.2893,AqSolDB,1,frozen_test_identity_or_scaffold
+NC(=O)NC1(O)NC(=O)NC1(O)C(=O)O,NC(=O)NC1(O)NC(=O)NC1(O)C(=O)O,O=C1NCCN1,"5-(carbamoylamino)-4,5-dihydroxy-2-oxoimidazolidine-4-carboxylic acid",-0.37,AqSolDB,1,frozen_test_identity_or_scaffold
+NC(=O)c1cnccn1,NC(=O)c1cnccn1,c1cnccn1,Pyrazinamide,-0.667,AqSolDB,1,frozen_test_identity_or_scaffold
+NC(CCCCNC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)O,NC(CCCCNC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)O,c1ccc2c(c1)Cc1ccccc1-2,2-Amino-6-(9H-fluoren-9-ylmethoxycarbonylamino)hexanoic acid,-3.0,AqSolDB,1,frozen_test_identity_or_scaffold
+NC(Cc1c[nH]c2ccc(O)cc12)C(=O)O,NC(Cc1c[nH]c2ccc(O)cc12)C(=O)O,c1ccc2[nH]ccc2c1,"tryptophan, 5-hydroxy-",-1.3430000000000002,AqSolDB,1,frozen_test_identity_or_scaffold
+NC(Cc1c[nH]c2ccccc12)C(=O)NCC(=O)O,NC(Cc1c[nH]c2ccccc12)C(=O)NCC(=O)O,c1ccc2[nH]ccc2c1,2-[[2-amino-3-(1H-indol-3-yl)propanoyl]amino]acetic acid,-0.85,AqSolDB,1,frozen_test_identity_or_scaffold
+NC(Cc1c[nH]c2ccccc12)C(=O)O,NC(Cc1c[nH]c2ccccc12)C(=O)O,c1ccc2[nH]ccc2c1,2-amino-3-(1H-indol-3-yl)propanoic acid,-1.77,AqSolDB,1,frozen_test_identity_or_scaffold
+NC(Cc1cccs1)C(=O)O,NC(Cc1cccs1)C(=O)O,c1ccsc1,"2-thiophenepropanoic acid, .alpha.-amino-",-0.8356,AqSolDB,1,frozen_test_identity_or_scaffold
+NC(Cc1cnc[nH]1)C(=O)O,NC(Cc1cnc[nH]1)C(=O)O,c1c[nH]cn1,histidine,-0.5314,AqSolDB,1,frozen_test_identity_or_scaffold
+NC(N)=Nc1nc(CSCC/C(N)=N\S(N)(=O)=O)cs1,NC(N)=Nc1nc(CSCCC(N)=NS(N)(=O)=O)cs1,c1cscn1,famotidine,-2.65,AqSolDB,1,frozen_test_identity_or_scaffold
+NCCN1CCNC1=O,NCCN1CCNC1=O,O=C1NCCN1,1-(2-aminoethyl)imidazolidin-2-one,0.6335459397,AqSolDB,1,frozen_test_identity_or_scaffold
+NCCc1c[nH]c2ccc(O)cc12,NCCc1c[nH]c2ccc(O)cc12,c1ccc2[nH]ccc2c1,5-hydroxytryptamine,-0.945,AqSolDB,1,frozen_test_identity_or_scaffold
+NCCc1c[nH]c2ccccc12,NCCc1c[nH]c2ccccc12,c1ccc2[nH]ccc2c1,3-(2-aminoethyl)indole;  tryptamine,-3.3,AqSolDB,1,frozen_test_identity_or_scaffold
+NNC(=O)c1ccc([N+](=O)[O-])s1,NNC(=O)c1ccc([N+](=O)[O-])s1,c1ccsc1,5-nitrothiophene-2-carbohydrazide,-1.97,AqSolDB,1,frozen_test_identity_or_scaffold
+NNC(=O)c1ccc2c(c1)OCO2,NNC(=O)c1ccc2c(c1)OCO2,c1ccc2c(c1)OCO2,"1,3-Benzodioxole-5-carbohydrazide",-0.6,AqSolDB,1,frozen_test_identity_or_scaffold
+NNC(=O)c1nccs1,NNC(=O)c1nccs1,c1cscn1,"2-thiazolecarboxylic acid, hydrazide",-0.6787,AqSolDB,1,frozen_test_identity_or_scaffold
+NS(=O)(=O)c1cc(C2(O)NC(=O)c3ccccc32)ccc1Cl,NS(=O)(=O)c1cc(C2(O)NC(=O)c3ccccc32)ccc1Cl,O=C1NC(c2ccccc2)c2ccccc21,chlorthalidone,-3.4507,AqSolDB,1,frozen_test_identity_or_scaffold
+NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NC(Cc1ccccc1)NS2(=O)=O,NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NC(Cc1ccccc1)NS2(=O)=O,O=S1(=O)NC(Cc2ccccc2)Nc2ccccc21,bendroflumethiazide,-3.5913,AqSolDB,1,frozen_test_identity_or_scaffold
+NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NCNS2(=O)=O,NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NCNS2(=O)=O,O=S1(=O)NCNc2ccccc21,hydroflumethiazide,-2.97,AqSolDB,1,frozen_test_identity_or_scaffold
+NS(=O)(=O)c1cc2c(cc1Cl)N=CNS2(=O)=O,NS(=O)(=O)c1cc2c(cc1Cl)N=CNS2(=O)=O,O=S1(=O)NC=Nc2ccccc21,chlorothiazide,-2.92,AqSolDB,1,frozen_test_identity_or_scaffold
+NS(=O)(=O)c1cc2c(cc1Cl)NC(C(Cl)Cl)NS2(=O)=O,NS(=O)(=O)c1cc2c(cc1Cl)NC(C(Cl)Cl)NS2(=O)=O,O=S1(=O)NCNc2ccccc21,trichlormethiazide with crystal form i,-3.18,AqSolDB,1,frozen_test_identity_or_scaffold
+NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O,NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O,O=S1(=O)NCNc2ccccc21,hydrochlorothiazide,-2.63,AqSolDB,1,frozen_test_identity_or_scaffold
+NS(=O)(=O)c1ccc(Cl)s1,NS(=O)(=O)c1ccc(Cl)s1,c1ccsc1,5-Chlorothiophene-2-sulfonamide,-3.2959363681,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1c2ccccc2nc2c(F)cccc12,Nc1c2ccccc2nc2c(F)cccc12,c1ccc2nc3ccccc3cc2c1,4-Fluoro-9-acridinamine,-1.66,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1c2ccccc2nc2cc(C(F)(F)F)ccc12,Nc1c2ccccc2nc2cc(C(F)(F)F)ccc12,c1ccc2nc3ccccc3cc2c1,3-(trifluoromethyl)acridin-9-amine,-2.17,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1c2ccccc2nc2cc(Cl)ccc12,Nc1c2ccccc2nc2cc(Cl)ccc12,c1ccc2nc3ccccc3cc2c1,3-chloroacridin-9-amine,-1.73,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1c2ccccc2nc2cc(F)ccc12,Nc1c2ccccc2nc2cc(F)ccc12,c1ccc2nc3ccccc3cc2c1,3-Fluoro-9-acridinamine,-2.12,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1c2ccccc2nc2ccc(Cl)cc12,Nc1c2ccccc2nc2ccc(Cl)cc12,c1ccc2nc3ccccc3cc2c1,2-chloroacridin-9-amine,-2.42,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1c2ccccc2nc2ccc(F)cc12,Nc1c2ccccc2nc2ccc(F)cc12,c1ccc2nc3ccccc3cc2c1,2-fluoroacridin-9-amine,-2.4,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1c2ccccc2nc2cccc(C(F)(F)F)c12,Nc1c2ccccc2nc2cccc(C(F)(F)F)c12,c1ccc2nc3ccccc3cc2c1,1-(trifluoromethyl)acridin-9-amine,-2.48,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1c2ccccc2nc2cccc(Cl)c12,Nc1c2ccccc2nc2cccc(Cl)c12,c1ccc2nc3ccccc3cc2c1,1-chloroacridin-9-amine,-1.58,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1c2ccccc2nc2cccc(F)c12,Nc1c2ccccc2nc2cccc(F)c12,c1ccc2nc3ccccc3cc2c1,1-fluoroacridin-9-amine,-0.95,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1c2ccccc2nc2cccc([N+](=O)[O-])c12,Nc1c2ccccc2nc2cccc([N+](=O)[O-])c12,c1ccc2nc3ccccc3cc2c1,1-nitroacridin-9-amine,-1.84,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1cc(N2CCCCC2)nc(N)[n+]1[O-],Nc1cc(N2CCCCC2)nc(N)[n+]1[O-],c1cc(N2CCCCC2)nc[nH+]1,"minoxidil;  2,4-diamino-6-piperidinopyrimidine 3-oxide",-1.94,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1ccc(CC(=O)c2ccccc2)cc1,Nc1ccc(CC(=O)c2ccccc2)cc1,O=C(Cc1ccccc1)c1ccccc1,"ethanone, 2-(4-aminophenyl)-1-phenyl-",-1.805,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1ccc(Cl)cc1C(=O)c1ccccc1Cl,Nc1ccc(Cl)cc1C(=O)c1ccccc1Cl,O=C(c1ccccc1)c1ccccc1,4-chloro-2-(2-chlorobenzoyl)aniline,-7.4250889383,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1ccc(N)c2c1C(=O)c1c(N)ccc(N)c1C2=O,Nc1ccc(N)c2c1C(=O)c1c(N)ccc(N)c1C2=O,O=C1c2ccccc2C(=O)c2ccccc21,"1,4,5,8-tetraaminoanthraquinone",-6.9515,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1ccc(N)c2c1C(=O)c1ccccc1C2=O,Nc1ccc(N)c2c1C(=O)c1ccccc1C2=O,O=C1c2ccccc2C(=O)c2ccccc21,disperse violet 1,-5.859,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1ccc(N=Nc2ccccc2)c(N)c1,Nc1ccc(N=Nc2ccccc2)c(N)c1,c1ccc(N=Nc2ccccc2)cc1,"4-[(E)-2-phenyldiazen-1-yl]benzene-1,3-diamine",-2.9976655605,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1ccc(N=Nc2ccccc2)cc1,Nc1ccc(N=Nc2ccccc2)cc1,c1ccc(N=Nc2ccccc2)cc1,4-[(E)-2-phenyldiazen-1-yl]aniline,-3.7597030757,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1ccc(Nc2ccc([N+](=O)[O-])cc2S(=O)(=O)O)cc1,Nc1ccc(Nc2ccc([N+](=O)[O-])cc2S(=O)(=O)O)cc1,c1ccc(Nc2ccccc2)cc1,2-[(4-aminophenyl)amino]-5-nitrobenzene-1-sulfonic acid,-1.5982895297,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1ccc(Nc2ccccc2)cc1,Nc1ccc(Nc2ccccc2)cc1,c1ccc(Nc2ccccc2)cc1,"1-N-phenylbenzene-1,4-diamine",-2.5631304762,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1ccc(O)c2c1C(=O)c1ccccc1C2=O,Nc1ccc(O)c2c1C(=O)c1ccccc1C2=O,O=C1c2ccccc2C(=O)c2ccccc21,1-amino-4-hydroxyanthraquinone,-3.824,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1ccc2c(c1)C(=O)c1ccccc1C2=O,Nc1ccc2c(c1)C(=O)c1ccccc1C2=O,O=C1c2ccccc2C(=O)c2ccccc21,2-aminoanthraquinone,-6.1366,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1ccc2cc3ccc(N)cc3nc2c1,Nc1ccc2cc3ccc(N)cc3nc2c1,c1ccc2nc3ccccc3cc2c1,"3,6-diaminoacridine",0.3783,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1cccc(Nc2ccccc2C(=O)O)c1,Nc1cccc(Nc2ccccc2C(=O)O)c1,c1ccc(Nc2ccccc2)cc1,n-(3-aminophenyl)anthranilic  acid;  3'-aminofenamic acid,-4.09,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1cccc2nc3ccccc3cc12,Nc1cccc2nc3ccccc3cc12,c1ccc2nc3ccccc3cc2c1,1-aminoacridine,-4.2219999999999995,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1nc(C(F)(F)F)c2[nH]cnc2n1,Nc1nc(C(F)(F)F)c2[nH]cnc2n1,c1ncc2[nH]cnc2n1,"1h-purin-2-amine, 6-(trifluoromethyl)-",-3.1346,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1nc(CC(=O)O)cs1,Nc1nc(CC(=O)O)cs1,c1cscn1,"2-(2-amino-1,3-thiazol-4-yl)acetic acid",-1.9816731181,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1nc(N)c2nc(-c3ccccc3)c(N)nc2n1,Nc1nc(N)c2nc(-c3ccccc3)c(N)nc2n1,c1ccc(-c2cnc3ncncc3n2)cc1,Triamterene,-2.404,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1nc(O)nc2nc[nH]c12,Nc1nc(O)nc2nc[nH]c12,c1ncc2[nH]cnc2n1,isoguanine,-3.4010000000000002,ESOL,1,frozen_test_identity_or_scaffold
+Nc1nc2[nH]cnc2c(=O)[nH]1,Nc1nc2[nH]cnc2c(=O)[nH]1,O=c1[nH]cnc2[nH]cnc12,guanine,-3.583,ESOL,1,frozen_test_identity_or_scaffold
+Nc1nc2c(ncn2COC(CO)CO)c(=O)[nH]1,Nc1nc2c(ncn2COC(CO)CO)c(=O)[nH]1,O=c1[nH]cnc2[nH]cnc12,ganciclovir,-1.77,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1nc2c(ncn2COCCO)c(=O)[nH]1,Nc1nc2c(ncn2COCCO)c(=O)[nH]1,O=c1[nH]cnc2[nH]cnc12,acyclovir;  acv,-2.12,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1nc2nc[nH]c2c(=O)[nH]1,Nc1nc2nc[nH]c2c(=O)[nH]1,O=c1[nH]cnc2nc[nH]c12,guanine,-4.43,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1nc[nH]n1,Nc1nc[nH]n1,c1nc[nH]n1,Amitrole,0.522,ESOL,1,frozen_test_identity_or_scaffold
+Nc1ncc2[nH]cnc2n1,Nc1ncc2[nH]cnc2n1,c1ncc2[nH]cnc2n1,1h-purin-2-amine,-1.21,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1nccnc1C(=O)O,Nc1nccnc1C(=O)O,c1cnccn1,3-aminopyrazine-2-carboxylic acid,-1.7631595965,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1nccs1,Nc1nccs1,c1cscn1,2-aminothiazole,-0.36,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1ncn[nH]1,Nc1ncn[nH]1,c1nc[nH]n1,"1H-1,2,4-triazol-3-amine",0.8326929954000001,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1ncnc2c1ccn2C1OC(CO)C(O)C1O,Nc1ncnc2c1ccn2C1OC(CO)C(O)C1O,c1ncc2ccn(C3CCCO3)c2n1,tubercidin,-1.9515,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1ncnc2c1ncn2[C@]1(CO)O[C@H](CO)[C@@H](O)[C@H]1O,Nc1ncnc2c1ncn2C1(CO)OC(CO)C(O)C1O,c1ncc2ncn(C3CCCO3)c2n1,psicofuranine,-1.5701,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1ncnc2c1ncn2C1OC(CO)C(O)C1O,Nc1ncnc2c1ncn2C1OC(CO)C(O)C1O,c1ncc2ncn(C3CCCO3)c2n1,adenosine,-1.73,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O,Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O,c1ncc2ncn(C3CCCO3)c2n1,"{[(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy}phosphonic acid",-1.9953026193999999,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O,Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O,c1ncc2ncn(C3CCCO3)c2n1,adenosine triphosphate,0.2948,AqSolDB,1,frozen_test_identity_or_scaffold
+Nc1ncnc2nc[nH]c12,Nc1ncnc2nc[nH]c12,c1ncc2[nH]cnc2n1,adenine,-2.1179,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(/C=C/C=C/c1ccc2c(c1)OCO2)N1CCCCC1,O=C(C=CC=Cc1ccc2c(c1)OCO2)N1CCCCC1,O=C(C=CC=Cc1ccc2c(c1)OCO2)N1CCCCC1,piperine,-3.6565000000000003,AqSolDB,2,frozen_test_identity_or_scaffold
+O=C(CBr)Nc1ccc(Cl)cc1C(=O)c1ccccc1Cl,O=C(CBr)Nc1ccc(Cl)cc1C(=O)c1ccccc1Cl,O=C(c1ccccc1)c1ccccc1,2-bromo-N-[4-chloro-2-(2-chlorobenzoyl)phenyl]acetamide,-6.8888082879,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(CBr)Nc1ccc(Cl)cc1C(=O)c1ccccc1F,O=C(CBr)Nc1ccc(Cl)cc1C(=O)c1ccccc1F,O=C(c1ccccc1)c1ccccc1,2-bromo-N-[4-chloro-2-(2-fluorobenzoyl)phenyl]acetamide,-5.5693457861,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(Cc1ccccc1)c1ccc(O)cc1,O=C(Cc1ccccc1)c1ccc(O)cc1,O=C(Cc1ccccc1)c1ccccc1,"ethanone, 1-(4-hydroxyphenyl)-2-phenyl-",-1.5008,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(Cn1ccnc1[N+](=O)[O-])NCc1ccccc1,O=C(Cn1ccnc1[N+](=O)[O-])NCc1ccccc1,O=C(Cn1ccnc1)NCc1ccccc1,benznidazole,-2.813,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(Nc1ccc(Cl)cc1)Nc1ccc(Cl)c(Cl)c1,O=C(Nc1ccc(Cl)cc1)Nc1ccc(Cl)c(Cl)c1,O=C(Nc1ccccc1)Nc1ccccc1,"1-(4-chlorophenyl)-3-(3,4-dichlorophenyl)urea",-6.4577264198,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(Nc1ccccc1)N(Cc1ccc(Cl)cc1)C1CCCC1,O=C(Nc1ccccc1)N(Cc1ccc(Cl)cc1)C1CCCC1,O=C(Nc1ccccc1)N(Cc1ccccc1)C1CCCC1,Pencycuron,-5.915,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(Nc1ccccc1)Nc1ccccc1,O=C(Nc1ccccc1)Nc1ccccc1,O=C(Nc1ccccc1)Nc1ccccc1,"diphenylurea, sym",-3.1508,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)C(=O)c1ccc2c(c1)OCO2,O=C(O)C(=O)c1ccc2c(c1)OCO2,c1ccc2c(c1)OCO2,"1,3-benzodioxole-5-acetic acid, .alpha.-oxo-",-1.1912,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)C1(O)c2ccccc2-c2ccc(Cl)cc21,O=C(O)C1(O)c2ccccc2-c2ccc(Cl)cc21,c1ccc2c(c1)Cc1ccccc1-2,chlorflurecol,-4.1610000000000005,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)C1(O)c2ccccc2-c2ccccc21,O=C(O)C1(O)c2ccccc2-c2ccccc21,c1ccc2c(c1)Cc1ccccc1-2,flurenol,-1.9657,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)C1CCNCC1C(=O)O,O=C(O)C1CCNCC1C(=O)O,C1CCNCC1,"3,4-piperidinedicarboxylic acid",-0.5395,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)C=Cc1c[nH]cn1,O=C(O)C=Cc1c[nH]cn1,c1c[nH]cn1,Urocanic_Acid,-1.96,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)/C=C\c1ccc2c(c1)OCO2,O=C(O)C=Cc1ccc2c(c1)OCO2,c1ccc2c(c1)OCO2,"3,4-(methylenedioxy)cinnamic acid",-3.52115,AqSolDB,2,frozen_test_identity_or_scaffold
+O=C(O)/C=C/c1cnc[nH]1,O=C(O)C=Cc1cnc[nH]1,c1c[nH]cn1,"2-propenoic acid, 3-(1h-imidazol-4-yl)-",-1.964,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)CCC(=O)OCn1c(=O)oc2ccc(Cl)cc21,O=C(O)CCC(=O)OCn1c(=O)oc2ccc(Cl)cc21,O=c1[nH]c2ccccc2o1,chlorzoxazone-n-methyl hemisuccinate,-3.41,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)CCCc1c[nH]c2ccccc12,O=C(O)CCCc1c[nH]c2ccccc12,c1ccc2[nH]ccc2c1,3-indolebutyric acid,-2.9101,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)CN(CC(=O)O)Cc1cc2c(c(O)c1O)C(=O)c1ccccc1C2=O,O=C(O)CN(CC(=O)O)Cc1cc2c(c(O)c1O)C(=O)c1ccccc1C2=O,O=C1c2ccccc2C(=O)c2ccccc21,alizarin complexone,-1.8077,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)Cc1c[nH]c2ccccc12,O=C(O)Cc1c[nH]c2ccccc12,c1ccc2[nH]ccc2c1,indole-3-acetic acid,-2.0674,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl,O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl,c1ccc(Nc2ccccc2)cc1,"2-{2-[(2,6-dichlorophenyl)amino]phenyl}acetic acid",-4.6202577876,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1c(Cl)cccc1N=Nc1ccc(O)cc1,O=C(O)c1c(Cl)cccc1N=Nc1ccc(O)cc1,c1ccc(N=Nc2ccccc2)cc1,2-Chloro-6-[(E)-(4-hydroxyphenyl)diazenyl]benzoic acid,-3.0,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1cc(Cl)ccc1N=Nc1ccc(O)cc1,O=C(O)c1cc(Cl)ccc1N=Nc1ccc(O)cc1,c1ccc(N=Nc2ccccc2)cc1,5-Chloro-2-[(E)-(4-hydroxyphenyl)diazenyl]benzoic acid,-3.86,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1cc(N=Nc2ccccc2)ccc1O,O=C(O)c1cc(N=Nc2ccccc2)ccc1O,c1ccc(N=Nc2ccccc2)cc1,2-hydroxy-5-phenyldiazenylbenzoic acid,-3.05,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1ccc(Cl)c(N=Nc2ccc(O)cc2)c1,O=C(O)c1ccc(Cl)c(N=Nc2ccc(O)cc2)c1,c1ccc(N=Nc2ccccc2)cc1,4-chloro-3-[(4-hydroxyphenyl)diazenyl]benzoic acid,-4.08,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1ccc(N=Nc2ccc(O)cc2)cc1,O=C(O)c1ccc(N=Nc2ccc(O)cc2)cc1,c1ccc(N=Nc2ccccc2)cc1,4-[(4-hydroxyphenyl)diazenyl]benzoic acid,-4.38,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1ccc(N=Nc2ccc(O)cc2)cc1Cl,O=C(O)c1ccc(N=Nc2ccc(O)cc2)cc1Cl,c1ccc(N=Nc2ccccc2)cc1,2-chloro-4-[(4-hydroxyphenyl)diazenyl]benzoic acid,-2.62,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1ccc2c(c1C(=O)O)C(=O)c1ccccc1C2=O,O=C(O)c1ccc2c(c1C(=O)O)C(=O)c1ccccc1C2=O,O=C1c2ccccc2C(=O)c2ccccc21,"1,2-anthracenedicarboxylic acid, 9,10-dihydro-9,",-2.8141,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1cccc(N=Nc2ccc(O)cc2)c1,O=C(O)c1cccc(N=Nc2ccc(O)cc2)c1,c1ccc(N=Nc2ccccc2)cc1,3-[(4-hydroxyphenyl)diazenyl]benzoic acid,-3.85,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1ccccc1C(=O)c1ccc(Br)cc1,O=C(O)c1ccccc1C(=O)c1ccc(Br)cc1,O=C(c1ccccc1)c1ccccc1,"benzoic acid, 2-(4-bromobenzoyl)-",-3.0074,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1ccccc1C(=O)c1ccc(Cl)cc1,O=C(O)c1ccccc1C(=O)c1ccc(Cl)cc1,O=C(c1ccccc1)c1ccccc1,"benzoic acid, 2-(4-chlorobenzoyl)-",-2.7171,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1ccccc1C(=O)c1ccc(O)cc1,O=C(O)c1ccccc1C(=O)c1ccc(O)cc1,O=C(c1ccccc1)c1ccccc1,2-(4-Hydroxybenzoyl)benzoic acid,-2.73,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1ccccc1C(=O)c1ccccc1O,O=C(O)c1ccccc1C(=O)c1ccccc1O,O=C(c1ccccc1)c1ccccc1,"benzoic acid, 2-(2-hydroxybenzoyl)-",-2.3428,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1ccccc1CC(=O)c1ccccc1C(=O)O,O=C(O)c1ccccc1CC(=O)c1ccccc1C(=O)O,O=C(Cc1ccccc1)c1ccccc1,"benzoic acid, 2,2'-(1-oxo-1,2-ethanediyl)bis-",-2.7910000000000004,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1ccccc1N=Nc1ccc(O)cc1,O=C(O)c1ccccc1N=Nc1ccc(O)cc1,c1ccc(N=Nc2ccccc2)cc1,2-[(4-hydroxyphenyl)diazenyl]benzoic acid,-3.33,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1ccccc1Nc1cccc(C(F)(F)F)c1,O=C(O)c1ccccc1Nc1cccc(C(F)(F)F)c1,c1ccc(Nc2ccccc2)cc1,flufenamic  acid,-4.4,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1ccccc1Nc1cccc(Cl)c1,O=C(O)c1ccccc1Nc1cccc(Cl)c1,c1ccc(Nc2ccccc2)cc1,n-(3-chlorophenyl)anthranilic  acid;  3'-chlorofenamic acid,-5.3,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1ccccc1Nc1cccc(O)c1,O=C(O)c1ccccc1Nc1cccc(O)c1,c1ccc(Nc2ccccc2)cc1,n-(3-hydroxyphenyl)anthranilic  acid;  3'-hydroxyfenamic acid,-3.54,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1ccccc1Nc1cccc([N+](=O)[O-])c1,O=C(O)c1ccccc1Nc1cccc([N+](=O)[O-])c1,c1ccc(Nc2ccccc2)cc1,n-(3'-nitrophenyl)anthranilic  acid;  3'-nitrofenamic acid,-6.43,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1ccccc1Nc1ccccc1,O=C(O)c1ccccc1Nc1ccccc1,c1ccc(Nc2ccccc2)cc1,n-phenylanthranilic  acid;  fenamic  acid,-4.96,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1cccs1,O=C(O)c1cccs1,c1ccsc1,thiophene-2-carboxylic acid,-1.2327,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1ccsc1,O=C(O)c1ccsc1,c1ccsc1,thiophene-3-carboxylic acid,-1.4743,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(O)c1nc[nH]c1C(=O)O,O=C(O)c1nc[nH]c1C(=O)O,c1c[nH]cn1,"1h-imidazole-4,5-dicarboxylic acid",-2.4944,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(OCC(O)CO)c1ccccc1Nc1ccnc2cc(Cl)ccc12,O=C(OCC(O)CO)c1ccccc1Nc1ccnc2cc(Cl)ccc12,c1ccc(Nc2ccnc3ccccc23)cc1,glafenine,-4.54,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(OCCOCCO)c1ccccc1Nc1cccc(C(F)(F)F)c1,O=C(OCCOCCO)c1ccccc1Nc1cccc(C(F)(F)F)c1,c1ccc(Nc2ccccc2)cc1,etofenamate,-5.3633,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(c1ccc(F)cc1)c1ccc(F)cc1,O=C(c1ccc(F)cc1)c1ccc(F)cc1,O=C(c1ccccc1)c1ccccc1,bis(4-fluorophenyl)methanone,-4.396652184700001,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(c1ccc(O)c(O)c1)c1c(O)cc(O)cc1O,O=C(c1ccc(O)c(O)c1)c1c(O)cc(O)cc1O,O=C(c1ccccc1)c1ccccc1,"2,4,6,3'4'-penta-hydroxy-benzophenol",-1.72,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(c1ccccc1)C(O)c1ccccc1,O=C(c1ccccc1)C(O)c1ccccc1,O=C(Cc1ccccc1)c1ccccc1,"2-hydroxy-1,2-diphenylethan-1-one",-2.8497223519,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(c1ccccc1)c1c(O)cc(O)cc1O,O=C(c1ccccc1)c1c(O)cc(O)cc1O,O=C(c1ccccc1)c1ccccc1,"2,4,6-trihydroxybenzophenone",-1.8708,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(c1ccccc1)c1ccc(O)c(O)c1,O=C(c1ccccc1)c1ccc(O)c(O)c1,O=C(c1ccccc1)c1ccccc1,"(3,4-dihydroxyphenyl)-phenylmethanone",-2.9226200497000003,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(c1ccccc1)c1ccc(O)c(O)c1O,O=C(c1ccccc1)c1ccc(O)c(O)c1O,O=C(c1ccccc1)c1ccccc1,"4-benzoylbenzene-1,2,3-triol",-3.3451078238,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(c1ccccc1)c1cccc(N=C=S)c1,O=C(c1ccccc1)c1cccc(N=C=S)c1,O=C(c1ccccc1)c1ccccc1,3-benzoylphenyl  isothiocyanate; 3-isothiocyanatobenzophenone,-5.4,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C(c1ccccc1)c1ccccc1,O=C(c1ccccc1)c1ccccc1,O=C(c1ccccc1)c1ccccc1,diphenylmethanone,-3.882202908,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1C(Cl)C(CCl)CN1c1cccc(C(F)(F)F)c1,O=C1C(Cl)C(CCl)CN1c1cccc(C(F)(F)F)c1,O=C1CCCN1c1ccccc1,flurochloridone,-4.05,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1C(O)=C(C2CCC(c3ccc(Cl)cc3)CC2)C(=O)c2ccccc21,O=C1C(O)=C(C2CCC(c3ccc(Cl)cc3)CC2)C(=O)c2ccccc21,O=C1C=C(C2CCC(c3ccccc3)CC2)C(=O)c2ccccc21,"Atovaquone(0,430mg/ml) - neutral",-5.931,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1C2(Cl)C3(Cl)C4(Cl)C(Cl)(Cl)C5(Cl)C3(Cl)C1(Cl)C5(Cl)C24Cl,O=C1C2(Cl)C3(Cl)C4(Cl)C(Cl)(Cl)C5(Cl)C3(Cl)C1(Cl)C5(Cl)C24Cl,O=C1C2C3C4CC5C3C1C5C42,kepone,-5.2594,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1C2CC=CCC2C(=O)N1SC(Cl)(Cl)C(Cl)Cl,O=C1C2CC=CCC2C(=O)N1SC(Cl)(Cl)C(Cl)Cl,O=C1NC(=O)C2CC=CCC12,captafol,-5.3968,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1C2CC=CCC2C(=O)N1SC(Cl)(Cl)Cl,O=C1C2CC=CCC2C(=O)N1SC(Cl)(Cl)Cl,O=C1NC(=O)C2CC=CCC12,captan,-4.7704,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1C=C2CC3(O)COc4c(ccc(O)c4O)C3=C2C=C1O,O=C1C=C2CC3(O)COc4c(ccc(O)c4O)C3=C2C=C1O,O=C1C=CC2=C3c4ccccc4OCC3CC2=C1,hematein,-2.6994,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1CC(c2ccc(O)c(O)c2)Oc2cc(O)cc(O)c21,O=C1CC(c2ccc(O)c(O)c2)Oc2cc(O)cc(O)c21,O=C1CC(c2ccccc2)Oc2ccccc21,"eriodictyol;  3',4',5,7-tetrahydroxyflavanone",-3.61735,AqSolDB,2,frozen_test_identity_or_scaffold
+O=C1CCC(=O)N1,O=C1CCC(=O)N1,O=C1CCC(=O)N1,succinimide,0.39,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1CCC(=O)N1Br,O=C1CCC(=O)N1Br,O=C1CCC(=O)N1,"2,5-pyrrolidinedione, 1-bromo-",-1.0831,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1CCC(=O)N1Cl,O=C1CCC(=O)N1Cl,O=C1CCC(=O)N1,"1-chloro-2,5-pyrrolidinedione",-0.9702,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1CCC(C(=O)O)N1,O=C1CCC(C(=O)O)N1,O=C1CCCN1,5-oxo-DL-proline,-0.4042589172,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,thalidomide,-2.6758,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1CCCN1,O=C1CCCN1,O=C1CCCN1,pyrrolidone,1.07,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1CN(/N=C/c2ccc([N+](=O)[O-])o2)C(=O)N1,O=C1CN(N=Cc2ccc([N+](=O)[O-])o2)C(=O)N1,O=C1CN(N=Cc2ccco2)C(=O)N1,nitrofurantoin,-3.38,AqSolDB,2,frozen_test_identity_or_scaffold
+O=C1CN(/N=C/c2ccc([N+](=O)[O-])o2)C(=O)N1CO,O=C1CN(N=Cc2ccc([N+](=O)[O-])o2)C(=O)N1CO,O=C1CN(N=Cc2ccco2)C(=O)N1,nifurtoinol;  3-(hydroxymethyl)nitrofurantoin,-2.91,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1CSC(=S)N1,O=C1CSC(=S)N1,O=C1CSC(=S)N1,"4-thiazolidinone, 2-thioxo-",-1.7723,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1NC(=O)C(=O)C(=O)N1,O=C1NC(=O)C(=O)C(=O)N1,O=C1NC(=O)C(=O)C(=O)N1,Alloxan,-1.25,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1NC(=O)C(=O)N1,O=C1NC(=O)C(=O)N1,O=C1NC(=O)C(=O)N1,Parabanic_Acid,-0.4,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1NC(=O)C(O)(C2(O)C(=O)NC(=O)NC2=O)C(=O)N1,O=C1NC(=O)C(O)(C2(O)C(=O)NC(=O)NC2=O)C(=O)N1,O=C1NC(=O)C(C2C(=O)NC(=O)NC2=O)C(=O)N1,alloxantin,-1.9942,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1NC(=O)C2(CC2)C(=O)N1,O=C1NC(=O)C2(CC2)C(=O)N1,O=C1NC(=O)C2(CC2)C(=O)N1,"spiro-5,5-dimethylenebarbituric  acid",-1.89,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1NC(=O)C2(CCC2)C(=O)N1,O=C1NC(=O)C2(CCC2)C(=O)N1,O=C1NC(=O)C2(CCC2)C(=O)N1,"spiro-5,5-trimethylenebarbituric acid;  6,8-diazaspiro[3.5]nonane-5,7,9-trione",-1.66,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1NC(=O)C2(CCCC2)C(=O)N1,O=C1NC(=O)C2(CCCC2)C(=O)N1,O=C1NC(=O)C2(CCCC2)C(=O)N1,Cyclopentyl-5-spirobarbituric acid,-2.349,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1NC(=O)C2(CCCCC2)C(=O)N1,O=C1NC(=O)C2(CCCCC2)C(=O)N1,O=C1NC(=O)C2(CCCCC2)C(=O)N1,"5,5-(spirocyclohexyl)barbituric  acid;  spiro-5,5-pentamethylenebarbituric acid",-3.06,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1NC(=O)C2(CCCCCC2)C(=O)N1,O=C1NC(=O)C2(CCCCCC2)C(=O)N1,O=C1NC(=O)C2(CCCCCC2)C(=O)N1,"5,5-spirocycloheptylbarbituric  acid;  spiro-5,5-hexamethylenebarbituric acid",-2.98,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1NC(=O)C2(CCCCCCC2)C(=O)N1,O=C1NC(=O)C2(CCCCCCC2)C(=O)N1,O=C1NC(=O)C2(CCCCCCC2)C(=O)N1,"spiro-5,5-cyclooctylbarbituric  acid;  spiro-5,5-heptamethylenebarbituric acid",-2.98,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1NC(=O)C2C3C(C(O)(c4ccccc4)c4ccccn4)=CC(C3=C(c3ccccc3)c3ccccn3)C12,O=C1NC(=O)C2C3C(C(O)(c4ccccc4)c4ccccn4)=CC(C3=C(c3ccccc3)c3ccccn3)C12,O=C1NC(=O)C2C3C(C(c4ccccc4)c4ccccn4)=CC(C3=C(c3ccccc3)c3ccccn3)C12,norbormide,-3.931,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1NC(=O)C2C=CC=CC12,O=C1NC(=O)C2C=CC=CC12,O=C1NC(=O)C2C=CC=CC12,phthalamide,-2.932,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1NC(=O)C2CC=CCC12,O=C1NC(=O)C2CC=CCC12,O=C1NC(=O)C2CC=CCC12,"3a,4,7,7a-tetrahydro-1H-isoindole-1,3(2H)-dione",-1.0930914177,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1NCCN1,O=C1NCCN1,O=C1NCCN1,imidazolidin-2-one,0.8402733738,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1NCCN1CCO,O=C1NCCN1CCO,O=C1NCCN1,1-(2-hydroxyethyl)imidazolidin-2-one,0.8776773261,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1NCCN1c1ncc([N+](=O)[O-])s1,O=C1NCCN1c1ncc([N+](=O)[O-])s1,O=C1NCCN1c1nccs1,niridazole,-3.2169,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1OC(c2ccc(O)cc2)(c2ccc(O)cc2)c2ccccc21,O=C1OC(c2ccc(O)cc2)(c2ccc(O)cc2)c2ccccc21,O=C1OC(c2ccccc2)(c2ccccc2)c2ccccc21,phenolphthalein,-2.9008,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1OC(c2ccccc2)(c2ccccc2)c2ccccc21,O=C1OC(c2ccccc2)(c2ccccc2)c2ccccc21,O=C1OC(c2ccccc2)(c2ccccc2)c2ccccc21,"3,3-diphenylphthalide",-3.85,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1c2ccc(O)cc2C(=O)c2ccc(O)cc21,O=C1c2ccc(O)cc2C(=O)c2ccc(O)cc21,O=C1c2ccccc2C(=O)c2ccccc21,"2,6-dihydroxy-anthraquinone",-5.8892,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1c2cccc(O)c2C(=O)c2c(O)cccc21,O=C1c2cccc(O)c2C(=O)c2c(O)cccc21,O=C1c2ccccc2C(=O)c2ccccc21,"danthron;  1,8-dihydroxyanthraquinone",-5.19,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1c2cccc(S(=O)(=O)O)c2C(=O)c2c1cccc2S(=O)(=O)O,O=C1c2cccc(S(=O)(=O)O)c2C(=O)c2c1cccc2S(=O)(=O)O,O=C1c2ccccc2C(=O)c2ccccc21,"1,8-anthraquinonedisulfonic acid",1.2572,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1c2cccc(S(=O)(=O)O)c2C(=O)c2cccc(S(=O)(=O)O)c21,O=C1c2cccc(S(=O)(=O)O)c2C(=O)c2cccc(S(=O)(=O)O)c21,O=C1c2ccccc2C(=O)c2ccccc21,"1,5-anthraquinonedisulfonic acid",0.2572,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1c2ccccc2C(=O)c2c(NCCCOCCOCCO)ccc(NCCCOCCOCCO)c21,O=C1c2ccccc2C(=O)c2c(NCCCOCCOCCO)ccc(NCCCOCCOCCO)c21,O=C1c2ccccc2C(=O)c2ccccc21,"1,4-bis({3-[2-(2-hydroxyethoxy)ethoxy]propyl}amino)-9,10-dihydroanthracene-9,10-dione",0.0571886956,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1c2ccccc2C(=O)c2c(O)c(O)cc(O)c21,O=C1c2ccccc2C(=O)c2c(O)c(O)cc(O)c21,O=C1c2ccccc2C(=O)c2ccccc21,purpurin,-4.6024,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1c2ccccc2C(=O)c2c(O)ccc(O)c21,O=C1c2ccccc2C(=O)c2c(O)ccc(O)c21,O=C1c2ccccc2C(=O)c2ccccc21,"1,4-dihydroxy-9,10-dihydroanthracene-9,10-dione",-6.2534935167,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1c2ccccc2C(=O)c2c(O)cccc21,O=C1c2ccccc2C(=O)c2c(O)cccc21,O=C1c2ccccc2C(=O)c2ccccc21,1-hydroxyanthraquinone,-4.4213,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1c2ccccc2C(=O)c2c1ccc(O)c2O,O=C1c2ccccc2C(=O)c2c1ccc(O)c2O,O=C1c2ccccc2C(=O)c2ccccc21,alizarine,-2.7785,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1c2ccccc2C(=O)c2cc(O)ccc21,O=C1c2ccccc2C(=O)c2cc(O)ccc21,O=C1c2ccccc2C(=O)c2ccccc21,2-hydroxyanthraquinone,-5.3093,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1c2ccccc2C(=O)c2ccccc21,O=C1c2ccccc2C(=O)c2ccccc21,O=C1c2ccccc2C(=O)c2ccccc21,"9,10-anthraquinone",-6.0397604981,AqSolDB,1,frozen_test_identity_or_scaffold
+O=C1c2ccccc2Cc2ccccc2N1CCF,O=C1c2ccccc2Cc2ccccc2N1CCF,O=C1Nc2ccccc2Cc2ccccc21,RTI 7,-3.535,AqSolDB,1,frozen_test_identity_or_scaffold
+O=CC1CCC2C3CCC(C3)C12,O=CC1CCC2C3CCC(C3)C12,C1CC2C3CCC(C3)C2C1,"octahydro-1H-4,7-methanoindene-1-carbaldehyde",-2.4199676473,AqSolDB,1,frozen_test_identity_or_scaffold
+O=CC1CO1,O=CC1CO1,C1CO1,glycidylaldehyde,1.1423,AqSolDB,1,frozen_test_identity_or_scaffold
+O=CCc1ccc2c(c1)OCO2,O=CCc1ccc2c(c1)OCO2,c1ccc2c(c1)OCO2,"1,3-benzodioxole-5-acetaldehyde",-1.96,AqSolDB,1,frozen_test_identity_or_scaffold
+O=CNC(N1C=CN(C(NC=O)C(Cl)(Cl)Cl)C=C1)C(Cl)(Cl)Cl,O=CNC(N1C=CN(C(NC=O)C(Cl)(Cl)Cl)C=C1)C(Cl)(Cl)Cl,C1=CNC=CN1,triforine,-4.19,AqSolDB,1,frozen_test_identity_or_scaffold
+O=Cc1ccc2c(c1)OCO2,O=Cc1ccc2c(c1)OCO2,c1ccc2c(c1)OCO2,piperonal,-1.6324,AqSolDB,1,frozen_test_identity_or_scaffold
+O=Cc1cccc2c1OC(F)(F)O2,O=Cc1cccc2c1OC(F)(F)O2,c1ccc2c(c1)OCO2,"2,2-difluoro-1,3-benzodioxole-4-carbaldehyde",-2.1558333574,AqSolDB,1,frozen_test_identity_or_scaffold
+O=Cc1ccccc1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O,O=Cc1ccccc1OC1OC(CO)C(O)C(O)C1O,c1ccc(OC2CCCCO2)cc1,helicin,-1.1985,AqSolDB,1,frozen_test_identity_or_scaffold
+O=NC1=C(NO)CCC1,O=NC1=C(NO)CCC1,C1=CCCC1,"1,2-cyclopentanedione, dioxime",-1.9937,AqSolDB,1,frozen_test_identity_or_scaffold
+O=NC1=C(NO)CCCCC1,O=NC1=C(NO)CCCCC1,C1=CCCCCC1,"1,2-cycloheptanedione, dioxime",-1.4249,AqSolDB,1,frozen_test_identity_or_scaffold
+O=NN(c1ccccc1)c1ccccc1,O=NN(c1ccccc1)c1ccccc1,c1ccc(Nc2ccccc2)cc1,diphenylnitrosamine,-3.7531,AqSolDB,1,frozen_test_identity_or_scaffold
+O=NN1CCCC1=O,O=NN1CCCC1=O,O=C1CCCN1,"2-pyrrolidinone, 1-nitroso-",0.0523,AqSolDB,1,frozen_test_identity_or_scaffold
+O=NN1CCCCC1,O=NN1CCCCC1,C1CCNCC1,n-nitrosopiperidine,-0.1738,AqSolDB,1,frozen_test_identity_or_scaffold
+O=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,O=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,O=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,triphenyl phosphate;  tpp,-5.66,AqSolDB,1,frozen_test_identity_or_scaffold
+O=S(=O)(O)c1c[nH]cn1,O=S(=O)(O)c1c[nH]cn1,c1c[nH]cn1,1h-imidazole-4-sulfonic acid,0.1304,AqSolDB,1,frozen_test_identity_or_scaffold
+O=S(=O)(O)c1ccc2oc3ccccc3c2c1,O=S(=O)(O)c1ccc2oc3ccccc3c2c1,c1ccc2c(c1)oc1ccccc12,dibenzofuran-2-sulfonic acid,-0.47,AqSolDB,1,frozen_test_identity_or_scaffold
+O=S(=O)(O)c1ncc[nH]1,O=S(=O)(O)c1ncc[nH]1,c1c[nH]cn1,imidazole-2-sulfonic acid,-0.3,AqSolDB,1,frozen_test_identity_or_scaffold
+O=S(=O)([O-])c1ccc2oc3ccccc3c2c1,O=S(=O)([O-])c1ccc2oc3ccccc3c2c1,c1ccc2c(c1)oc1ccccc12,2-dibenzofuransulfonic acid,-0.4655,AqSolDB,1,frozen_test_identity_or_scaffold
+O=[N+]([O-])c1cc2c(cc1CO)OCO2,O=[N+]([O-])c1cc2c(cc1CO)OCO2,c1ccc2c(c1)OCO2,"(6-nitro-1,3-benzodioxol-5-yl)methanol",-3.06,AqSolDB,1,frozen_test_identity_or_scaffold
+O=[N+]([O-])c1ccc(Nc2ccc(O)cc2)c([N+](=O)[O-])c1,O=[N+]([O-])c1ccc(Nc2ccc(O)cc2)c([N+](=O)[O-])c1,c1ccc(Nc2ccccc2)cc1,"p-(2,4-dinitroaniline)phenol",-5.444,AqSolDB,1,frozen_test_identity_or_scaffold
+O=[N+]([O-])c1ccc(Nc2ccccc2)c([N+](=O)[O-])c1,O=[N+]([O-])c1ccc(Nc2ccccc2)c([N+](=O)[O-])c1,c1ccc(Nc2ccccc2)cc1,"benzenamine, 2,4-dinitro-n-phenyl-",-3.8339999999999996,AqSolDB,1,frozen_test_identity_or_scaffold
+O=[N+]([O-])c1ccc(OP(=O)(Oc2ccccc2)Oc2ccccc2)cc1,O=[N+]([O-])c1ccc(OP(=O)(Oc2ccccc2)Oc2ccccc2)cc1,O=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,(4-nitrophenyl) diphenyl phosphate,-4.96,AqSolDB,1,frozen_test_identity_or_scaffold
+O=[N+]([O-])c1ccc2c(c1)Cc1ccccc1-2,O=[N+]([O-])c1ccc2c(c1)Cc1ccccc1-2,c1ccc2c(c1)Cc1ccccc1-2,2-NITRO-9H-FLUORENE,-4.72,AqSolDB,1,frozen_test_identity_or_scaffold
+O=[N+]([O-])c1ccc2c(c1CO)OCO2,O=[N+]([O-])c1ccc2c(c1CO)OCO2,c1ccc2c(c1)OCO2,"1,3-benzodioxole-5-methanol, 6-nitro-",-3.0643,AqSolDB,1,frozen_test_identity_or_scaffold
+O=[N+]([O-])c1ccc2c3c(cccc13)-c1ccccc1-2,O=[N+]([O-])c1ccc2c3c(cccc13)-c1ccccc1-2,c1ccc2c(c1)-c1cccc3cccc-2c13,3-nitrofluoranthene,-7.1031,AqSolDB,1,frozen_test_identity_or_scaffold
+O=[N+]([O-])c1ccc2c3c(cccc13)CC2,O=[N+]([O-])c1ccc2c3c(cccc13)CC2,c1cc2c3c(cccc3c1)CC2,"acenaphthylene, 1,2-dihydro-5-nitro-",-5.3403,AqSolDB,1,frozen_test_identity_or_scaffold
+O=[N+]([O-])c1ccc2ccc3cccc4ccc1c2c34,O=[N+]([O-])c1ccc2ccc3cccc4ccc1c2c34,c1cc2ccc3cccc4ccc(c1)c2c34,"pyrene, 1-nitro-",-7.3213,AqSolDB,1,frozen_test_identity_or_scaffold
+O=[N+]([O-])c1cccc(OC2OC(CO)C(O)C(O)C2O)c1,O=[N+]([O-])c1cccc(OC2OC(CO)C(O)C(O)C2O)c1,c1ccc(OC2CCCCO2)cc1,"2-(hydroxymethyl)-6-(3-nitrophenoxy)oxane-3,4,5-triol",-1.28,AqSolDB,1,frozen_test_identity_or_scaffold
+O=c1[nH]c(=O)c2[nH]c(=O)[nH]c2[nH]1,O=c1[nH]c(=O)c2[nH]c(=O)[nH]c2[nH]1,O=c1[nH]c(=O)c2[nH]c(=O)[nH]c2[nH]1,"7,9-dihydro-3H-purine-2,6,8-trione",-3.62,AqSolDB,1,frozen_test_identity_or_scaffold
+O=c1[nH]c2c(c(=O)n1C1CCCCC1)CCC2,O=c1[nH]c2c(c(=O)n1C1CCCCC1)CCC2,O=c1[nH]c2c(c(=O)n1C1CCCCC1)CCC2,lenacil,-4.5916,AqSolDB,1,frozen_test_identity_or_scaffold
+O=c1[nH]c2cc(Cl)ccc2o1,O=c1[nH]c2cc(Cl)ccc2o1,O=c1[nH]c2ccccc2o1,chlorzoxazone,-2.66,AqSolDB,1,frozen_test_identity_or_scaffold
+O=c1[nH]cnc2[nH]ncc12,O=c1[nH]cnc2[nH]ncc12,O=c1[nH]cnc2[nH]ncc12,allopurinol,-2.266,ESOL,1,frozen_test_identity_or_scaffold
+O=c1[nH]cnc2nc[nH]c12,O=c1[nH]cnc2nc[nH]c12,O=c1[nH]cnc2nc[nH]c12,Hypoxanthine,-2.296,ESOL,1,frozen_test_identity_or_scaffold
+O=c1[nH]cncc1Br,O=c1[nH]cncc1Br,O=c1ccnc[nH]1,"4(1h)-pyrimidinone, 5-bromo-",-0.4471,AqSolDB,1,frozen_test_identity_or_scaffold
+O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,O=c1cc(-c2ccccc2)oc2ccccc12,"quercetin dihydrate; 3,5,7,3',4'-pentahydroxyflavone*2h2o; meletin; sophoretin",-1.99,AqSolDB,1,frozen_test_identity_or_scaffold
+O=c1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12,O=c1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12,O=c1cc(-c2ccccc2)oc2ccccc12,"2-(2,4-dihydroxyphenyl)-3,5,7-trihydroxy-4H-chromen-4-one",-3.0824090581,AqSolDB,1,frozen_test_identity_or_scaffold
+O=c1c2cnn(CO)c2ncn1CO,O=c1c2cnn(CO)c2ncn1CO,O=c1[nH]cnc2[nH]ncc12,"1,5-bis(hydroxymethyl)allopurinol",-1.72,AqSolDB,1,frozen_test_identity_or_scaffold
+O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,O=c1cc(-c2ccccc2)oc2ccccc12,"3',4',5,7-tetrahydroxyflavone; luteolin",-3.61,AqSolDB,1,frozen_test_identity_or_scaffold
+O=c1cc(Br)c2ccccc2o1,O=c1cc(Br)c2ccccc2o1,O=c1ccc2ccccc2o1,"2h-1-benzopyran-2-one, 4-bromo-",-1.6533,AqSolDB,1,frozen_test_identity_or_scaffold
+O=c1cc(O)nc[nH]1,O=c1cc(O)nc[nH]1,O=c1ccnc[nH]1,"6-hydroxy-1,4-dihydropyrimidin-4-one",-1.5871611222,AqSolDB,1,frozen_test_identity_or_scaffold
+O=c1cc[nH]c(=S)[nH]1,O=c1cc[nH]c(=S)[nH]1,O=c1cc[nH]c(=S)[nH]1,2-thiouracil,-2.2573,AqSolDB,1,frozen_test_identity_or_scaffold
+O=c1ccc2cc3ccoc3c(O)c2o1,O=c1ccc2cc3ccoc3c(O)c2o1,O=c1ccc2cc3ccoc3cc2o1,"9-hydroxyfuro[3,2-g]chromen-7-one",-3.22,AqSolDB,1,frozen_test_identity_or_scaffold
+O=c1ccc2cc3ccoc3cc2o1,O=c1ccc2cc3ccoc3cc2o1,O=c1ccc2cc3ccoc3cc2o1,"furo[3,2-g]chromen-7-one",-3.74,AqSolDB,1,frozen_test_identity_or_scaffold
+O=c1ccc2ccccc2o1,O=c1ccc2ccccc2o1,O=c1ccc2ccccc2o1,2H-chromen-2-one,-1.8860303607,AqSolDB,1,frozen_test_identity_or_scaffold
+O=c1ccnc(S)[nH]1,O=c1ccnc(S)[nH]1,O=c1ccnc[nH]1,thiouracil,-2.273,ESOL,1,frozen_test_identity_or_scaffold
+O=c1ccnc[nH]1,O=c1ccnc[nH]1,O=c1ccnc[nH]1,4-pyrimidone,0.586,AqSolDB,1,frozen_test_identity_or_scaffold
+O=c1oc2ccc(Cl)cc2n1CO,O=c1oc2ccc(Cl)cc2n1CO,O=c1[nH]c2ccccc2o1,n-hydroxymethyl-5-chlorobenzoxazol-2-one; n-(hydroxymethyl)chlorzoxazone,-2.7,AqSolDB,1,frozen_test_identity_or_scaffold
+O=c1oc2ccccc2c(O)c1C(CC(O)c1ccc(-c2ccc(Br)cc2)cc1)c1ccccc1,O=c1oc2ccccc2c(O)c1C(CC(O)c1ccc(-c2ccc(Br)cc2)cc1)c1ccccc1,O=c1oc2ccccc2cc1C(CCc1ccc(-c2ccccc2)cc1)c1ccccc1,bromadiolone,-4.45,AqSolDB,1,frozen_test_identity_or_scaffold
+O=c1oc2ccccc2c(O)c1C1CCCc2ccccc21,O=c1oc2ccccc2c(O)c1C1CCCc2ccccc21,O=c1oc2ccccc2cc1C1CCCc2ccccc21,coumatetralyl,-4.86,AqSolDB,1,frozen_test_identity_or_scaffold
+OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,c1ccc(C(Cn2cncn2)Cn2cncn2)cc1,fluconazole,-1.8,AqSolDB,1,frozen_test_identity_or_scaffold
+OC(Cn1cncn1)(c1ccc(F)cc1)c1ccccc1F,OC(Cn1cncn1)(c1ccc(F)cc1)c1ccccc1F,c1ccc(C(Cn2cncn2)c2ccccc2)cc1,flutriafol (pp450),-3.3651,AqSolDB,1,frozen_test_identity_or_scaffold
+OC(c1ccc(Cl)cc1)(c1cncnc1)c1ccccc1Cl,OC(c1ccc(Cl)cc1)(c1cncnc1)c1ccccc1Cl,c1ccc(C(c2ccccc2)c2cncnc2)cc1,fenarimol,-4.374,AqSolDB,1,frozen_test_identity_or_scaffold
+OC(c1ccc(F)cc1)(c1cncnc1)c1ccccc1Cl,OC(c1ccc(F)cc1)(c1cncnc1)c1ccccc1Cl,c1ccc(C(c2ccccc2)c2cncnc2)cc1,"5-pyrimidinemethanol, .alpha.-(2-chlorophenyl)-.",-4.083,AqSolDB,1,frozen_test_identity_or_scaffold
+OC1COC(Oc2ccccc2)C(O)C1O,OC1COC(Oc2ccccc2)C(O)C1O,c1ccc(OC2CCCCO2)cc1,"2-(phenoxy)oxane-3,4,5-triol",-1.66,AqSolDB,1,frozen_test_identity_or_scaffold
+OCC(O)C(O)C(O)C=NN(c1ccccc1)c1ccccc1,OCC(O)C(O)C(O)C=NN(c1ccccc1)c1ccccc1,c1ccc(Nc2ccccc2)cc1,"(5E)-5-(Diphenylhydrazono)-1,2,3,4-pentanetetrol",-3.1,AqSolDB,1,frozen_test_identity_or_scaffold
+OCC(O)C1OC(Oc2ccccc2)C(O)C(O)C1O,OCC(O)C1OC(Oc2ccccc2)C(O)C(O)C1O,c1ccc(OC2CCCCO2)cc1,"d-glycero-d-gulo-heptopyranoside, phenyl, á-",-1.5537,AqSolDB,1,frozen_test_identity_or_scaffold
+OCC(O)C1OC2OC(C(Cl)(Cl)Cl)OC2C1O,OCC(O)C1OC2OC(C(Cl)(Cl)Cl)OC2C1O,C1CC2OCOC2O1,Chloralose,-1.8415000000000001,AqSolDB,2,frozen_test_identity_or_scaffold
+OCC1CC2CC1C1CCC(CO)C21,OCC1CC2CC1C1CCC(CO)C21,C1CC2C3CCC(C3)C2C1,"tricyclo[2.2.2.2~1,4~]decane-2,5-diyldimethanol",-1.2515054899,AqSolDB,1,frozen_test_identity_or_scaffold
+OCC1CO1,OCC1CO1,C1CO1,oxiranemethanol,1.1303,AqSolDB,1,frozen_test_identity_or_scaffold
+OC[C@@H]1CO[C@@](Cn2cncn2)(c2ccc(Cl)cc2Cl)O1,OCC1COC(Cn2cncn2)(c2ccc(Cl)cc2Cl)O1,c1ccc(C2(Cn3cncn3)OCCO2)cc1,"[(2S,4R)-2-(2,4-dichlorophenyl)-2-(1H-1,2,4-triazol-1-ylmethyl)-1,3-dioxolan-4-yl]methanol",-2.9059550684,AqSolDB,1,frozen_test_identity_or_scaffold
+OC[C@H]1NC[C@H](O)[C@@H](O)[C@@H]1O,OCC1NCC(O)C(O)C1O,C1CCNCC1,"(2R,3R,4R,5S)-2-(hydroxymethyl)piperidine-3,4,5-triol",0.40435204280000003,AqSolDB,1,frozen_test_identity_or_scaffold
+OCC1OC(OC2(CO)OC(CO)C(O)C2O)C(O)C(O)C1O,OCC1OC(OC2(CO)OC(CO)C(O)C2O)C(O)C(O)C1O,C1CCC(OC2CCCO2)OC1,Sucrose,0.7888999999999999,AqSolDB,2,frozen_test_identity_or_scaffold
+OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,C1CCC(OC2CCCOC2)OC1,maltose,-0.22949999999999998,AqSolDB,2,frozen_test_identity_or_scaffold
+OCC1OC(OCC2OC(OC3(CO)OC(CO)C(O)C3O)C(O)C(O)C2O)C(O)C(O)C1O,OCC1OC(OCC2OC(OC3(CO)OC(CO)C(O)C3O)C(O)C(O)C2O)C(O)C(O)C1O,C1CCC(OCC2CCCC(OC3CCCO3)O2)OC1,raffinose,-0.048100000000000004,AqSolDB,2,frozen_test_identity_or_scaffold
+OCC1OC(Oc2ccccc2)C(O)C(O)C1O,OCC1OC(Oc2ccccc2)C(O)C(O)C1O,c1ccc(OC2CCCCO2)cc1,"2-(hydroxymethyl)-6-(phenoxy)oxane-3,4,5-triol",-1.46,AqSolDB,1,frozen_test_identity_or_scaffold
+OCC1OC(n2cnc3c(O)ncnc32)C(O)C1O,OCC1OC(n2cnc3c(O)ncnc32)C(O)C1O,c1ncc2ncn(C3CCCO3)c2n1,Inosine,-1.23,ESOL,1,frozen_test_identity_or_scaffold
+OC[C@H]1O[C@@H](n2cnc3cncnc32)[C@H](O)[C@@H]1O,OCC1OC(n2cnc3cncnc32)C(O)C1O,c1ncc2ncn(C3CCCO3)c2n1,nebularine,-0.4018,AqSolDB,1,frozen_test_identity_or_scaffold
+OCC1OC2OC(C(Cl)(Cl)Cl)OC2C1O,OCC1OC2OC(C(Cl)(Cl)Cl)OC2C1O,C1CC2OCOC2O1,"5-(hydroxymethyl)-2-(trichloromethyl)-3~{a},5,6,6~{a}-tetrahydrofuro[2,3-d][1,3]dioxol-6-ol",-2.12,AqSolDB,1,frozen_test_identity_or_scaffold
+OCc1ccccc1OC1OC(CO)C(O)C(O)C1O,OCc1ccccc1OC1OC(CO)C(O)C(O)C1O,c1ccc(OC2CCCCO2)cc1,salicin,-0.8523499999999999,AqSolDB,2,frozen_test_identity_or_scaffold
+OCc1cncs1,OCc1cncs1,c1cscn1,"1,3-thiazol-5-ylmethanol",0.5257355357,AqSolDB,1,frozen_test_identity_or_scaffold
+OCc1nc2ncncc2[nH]1,OCc1nc2ncncc2[nH]1,c1ncc2[nH]cnc2n1,8-hydroxymethylpurine,-1.52,AqSolDB,1,frozen_test_identity_or_scaffold
+Oc1c(Cl)cc(Cl)cc1Sc1cc(Cl)cc(Cl)c1O,Oc1c(Cl)cc(Cl)cc1Sc1cc(Cl)cc(Cl)c1O,c1ccc(Sc2ccccc2)cc1,"phenol, 2,2'-thiobis 4,6-dichloro-",-4.9495,AqSolDB,1,frozen_test_identity_or_scaffold
+Oc1ccc(N=Nc2ccccc2)c(O)c1,Oc1ccc(N=Nc2ccccc2)c(O)c1,c1ccc(N=Nc2ccccc2)cc1,"4-phenyldiazenylbenzene-1,3-diol",-3.08,AqSolDB,1,frozen_test_identity_or_scaffold
+Oc1ccc(N=Nc2ccccc2)cc1,Oc1ccc(N=Nc2ccccc2)cc1,c1ccc(N=Nc2ccccc2)cc1,4-phenyldiazenylphenol,-3.95,AqSolDB,1,frozen_test_identity_or_scaffold
+Oc1ccc(Sc2ccccc2)cc1,Oc1ccc(Sc2ccccc2)cc1,c1ccc(Sc2ccccc2)cc1,"phenol, 4-(phenylthio)-",-2.7745,AqSolDB,1,frozen_test_identity_or_scaffold
+Oc1ccc2c(c1)CCC2,Oc1ccc2c(c1)CCC2,c1ccc2c(c1)CCC2,5-indanol,-1.3285,AqSolDB,1,frozen_test_identity_or_scaffold
+Oc1ccc2c(c1)CCCC2,Oc1ccc2c(c1)CCCC2,c1ccc2c(c1)CCCC2,"5,6,7,8-tetrahydro-2-naphthol",-1.9948,AqSolDB,1,frozen_test_identity_or_scaffold
+Oc1cccc2nccnc12,Oc1cccc2nccnc12,c1ccc2nccnc2c1,5-quinoxalinol,-1.3468,AqSolDB,1,frozen_test_identity_or_scaffold
+Oc1cnn(-c2ccccc2)c1,Oc1cnn(-c2ccccc2)c1,c1ccc(-n2cccn2)cc1,"1h-pyrazol-4-ol, 1-phenyl-",-1.9616,AqSolDB,1,frozen_test_identity_or_scaffold
+c1c[nH]cn1,c1c[nH]cn1,c1c[nH]cn1,1H-imidazole,0.9683905422,AqSolDB,1,frozen_test_identity_or_scaffold
+c1cc2c3c(c4ccc5ccccc5c4cc3c1)CC2,c1cc2c3c(c4ccc5ccccc5c4cc3c1)CC2,c1cc2c3c(c4ccc5ccccc5c4cc3c1)CC2,cholanthrene,-7.8613,AqSolDB,1,frozen_test_identity_or_scaffold
+c1cc2c3c(cccc3c1)CC2,c1cc2c3c(cccc3c1)CC2,c1cc2c3c(cccc3c1)CC2,acenaphthene,-4.63,AqSolDB,1,frozen_test_identity_or_scaffold
+c1cc2ccc3ccc4ccc5ccc6ccc1c1c2c3c4c5c61,c1cc2ccc3ccc4ccc5ccc6ccc1c1c2c3c4c5c61,c1cc2ccc3ccc4ccc5ccc6ccc1c1c2c3c4c5c61,coronene,-8.83,AqSolDB,1,frozen_test_identity_or_scaffold
+c1cc2ccc3ccc4ccc5cccc6c(c1)c2c3c4c56,c1cc2ccc3ccc4ccc5cccc6c(c1)c2c3c4c56,c1cc2ccc3ccc4ccc5cccc6c(c1)c2c3c4c56,benzo[ghi]perylene,-9.0265,AqSolDB,1,frozen_test_identity_or_scaffold
+c1cc2ccc3cccc4ccc(c1)c2c34,c1cc2ccc3cccc4ccc(c1)c2c34,c1cc2ccc3cccc4ccc(c1)c2c34,pyrene,-6.1787966156,AqSolDB,1,frozen_test_identity_or_scaffold
+c1cc2cccc3c4cccc5cccc(c(c1)c23)c54,c1cc2cccc3c4cccc5cccc(c(c1)c23)c54,c1cc2cccc3c4cccc5cccc(c(c1)c23)c54,perylene,-8.7,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc(-c2ccc(-c3ccccc3)cc2)cc1,c1ccc(-c2ccc(-c3ccccc3)cc2)cc1,c1ccc(-c2ccc(-c3ccccc3)cc2)cc1,"1,1':4',1''-terphenyl",-6.183335848,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc(C2CO2)cc1,c1ccc(C2CO2)cc1,c1ccc(C2CO2)cc1,2-phenyloxirane,-1.9065411212999999,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc(Cn2ccnc2)cc1,c1ccc(Cn2ccnc2)cc1,c1ccc(Cn2ccnc2)cc1,benzylimidazole,-2.26,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc(N=Nc2ccccc2)cc1,c1ccc(N=Nc2ccccc2)cc1,c1ccc(N=Nc2ccccc2)cc1,azobenzene,-4.4544,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc(NNc2ccccc2)cc1,c1ccc(NNc2ccccc2)cc1,c1ccc(NNc2ccccc2)cc1,hydrazobenzene,-2.9210000000000003,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc(Nc2ccccc2)cc1,c1ccc(Nc2ccccc2)cc1,c1ccc(Nc2ccccc2)cc1,diphenylamine,-3.5042,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc(Sc2ccccc2)cc1,c1ccc(Sc2ccccc2)cc1,c1ccc(Sc2ccccc2)cc1,"1,1'-sulfanediyldibenzene",-4.3606078686,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2[nH]ccc2c1,c1ccc2[nH]ccc2c1,c1ccc2[nH]ccc2c1,indole,-1.21,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2[nH]cnc2c1,c1ccc2[nH]cnc2c1,c1ccc2[nH]cnc2c1,1H-benzimidazole,-1.769197233,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2[nH]ncc2c1,c1ccc2[nH]ncc2c1,c1ccc2[nH]ncc2c1,indazole,-2.1554,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2[nH]nnc2c1,c1ccc2[nH]nnc2c1,c1ccc2[nH]nnc2c1,Benzotriazole,-0.78,ESOL,1,frozen_test_identity_or_scaffold
+c1ccc2c(c1)-c1cccc3c1c-2cc1ccccc13,c1ccc2c(c1)-c1cccc3c1c-2cc1ccccc13,c1ccc2c(c1)-c1cccc3c1c-2cc1ccccc13,benzo(b)fluoranthene,-8.2259,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2c(c1)-c1cccc3cccc-2c13,c1ccc2c(c1)-c1cccc3cccc-2c13,c1ccc2c(c1)-c1cccc3cccc-2c13,fluoranthene,-5.93,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2c(c1)CCC2,c1ccc2c(c1)CCC2,c1ccc2c(c1)CCC2,indane,-3.0351,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2c(c1)CCCC2,c1ccc2c(c1)CCCC2,c1ccc2c(c1)CCCC2,"1,2,3,4-tetrahydronaphthalene",-3.5673681389,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2c(c1)CCN2,c1ccc2c(c1)CCN2,c1ccc2c(c1)CCN2,"1h-indole, 2,3-dihydro-",-1.0427,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2c(c1)Cc1c-2ccc2ccccc12,c1ccc2c(c1)Cc1c-2ccc2ccccc12,c1ccc2c(c1)Cc1c-2ccc2ccccc12,benzo(a)fluorene,-6.678,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2c(c1)Cc1cc3ccccc3cc1-2,c1ccc2c(c1)Cc1cc3ccccc3cc1-2,c1ccc2c(c1)Cc1cc3ccccc3cc1-2,11h-benzo(b)fluorene,-7.733,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2c(c1)Cc1ccccc1-2,c1ccc2c(c1)Cc1ccccc1-2,c1ccc2c(c1)Cc1ccccc1-2,fluorene,-4.91,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2c(c1)[nH]c1ccccc12,c1ccc2c(c1)[nH]c1ccccc12,c1ccc2c(c1)[nH]c1ccccc12,9H-carbazole,-5.2104276195,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2c(c1)c1cccc3ccc4cccc2c4c31,c1ccc2c(c1)c1cccc3ccc4cccc2c4c31,c1ccc2c(c1)c1cccc3ccc4cccc2c4c31,benzo[e]pyrene,-7.66,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2c(c1)c1ccccc1c1ccccc21,c1ccc2c(c1)c1ccccc1c1ccccc21,c1ccc2c(c1)c1ccccc1c1ccccc21,triphenylene,-6.7447,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2c(c1)cc1ccc3cccc4ccc2c1c34,c1ccc2c(c1)cc1ccc3cccc4ccc2c1c34,c1ccc2c(c1)cc1ccc3cccc4ccc2c1c34,benzo(a)pyrene,-8.1924,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2c(c1)ccc1c2ccc2c3ccccc3ccc21,c1ccc2c(c1)ccc1c2ccc2c3ccccc3ccc21,c1ccc2c(c1)ccc1c2ccc2c3ccccc3ccc21,Picene,-7.87,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2c(c1)cnc1ccccc12,c1ccc2c(c1)cnc1ccccc12,c1ccc2c(c1)cnc1ccccc12,phenanthridine,-2.7763,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2c(c1)oc1ccccc12,c1ccc2c(c1)oc1ccccc12,c1ccc2c(c1)oc1ccccc12,dibenzofuran,-4.6,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2c(c1)sc1ccccc12,c1ccc2c(c1)sc1ccccc12,c1ccc2c(c1)sc1ccccc12,dibenzothiophene,-5.0981,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2c3c(ccc2c1)-c1cccc2cccc-3c12,c1ccc2c3c(ccc2c1)-c1cccc2cccc-3c12,c1ccc2c3c(ccc2c1)-c1cccc2cccc-3c12,benzo(j)fluoranthene,-8.004,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2cc3c(cc2c1)-c1cccc2cccc-3c12,c1ccc2cc3c(cc2c1)-c1cccc2cccc-3c12,c1ccc2cc3c(cc2c1)-c1cccc2cccc-3c12,benzo(k)fluoranthene,-8.4989,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2cc3c(ccc4ccccc43)cc2c1,c1ccc2cc3c(ccc4ccccc43)cc2c1,c1ccc2cc3c(ccc4ccccc43)cc2c1,benz(a)anthracene,-7.3854,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2cc3cc4ccccc4cc3cc2c1,c1ccc2cc3cc4ccccc4cc3cc2c1,c1ccc2cc3cc4ccccc4cc3cc2c1,naphthacene,-8.6,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2cnccc2c1,c1ccc2cnccc2c1,c1ccc2cnccc2c1,isoquinoline,-1.456,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2nc(-c3ccc4ccccc4n3)ccc2c1,c1ccc2nc(-c3ccc4ccccc4n3)ccc2c1,c1ccc2nc(-c3ccc4ccccc4n3)ccc2c1,"2,2'-biquinoline",-5.4002,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2nc3ccccc3cc2c1,c1ccc2nc3ccccc3cc2c1,c1ccc2nc3ccccc3cc2c1,acridine,-3.6691,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2nccnc2c1,c1ccc2nccnc2c1,c1ccc2nccnc2c1,quinoxaline,0.7051,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccc2ocnc2c1,c1ccc2ocnc2c1,c1ccc2ocnc2c1,benzoxazole,-1.1548,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccnnc1,c1ccnnc1,c1ccnnc1,pyridazine,1.0964,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ccsc1,c1ccsc1,c1ccsc1,thiophene,-1.4450110492,AqSolDB,1,frozen_test_identity_or_scaffold
+c1cnc2c(c1)ccc1ncccc12,c1cnc2c(c1)ccc1ncccc12,c1cnc2c(c1)ccc1ncccc12,"1,7-phenanthroline",-2.6806,AqSolDB,1,frozen_test_identity_or_scaffold
+c1nc[nH]n1,c1nc[nH]n1,c1nc[nH]n1,"1,2,4-triazole",1.0058274476,AqSolDB,1,frozen_test_identity_or_scaffold
+c1ncc2[nH]cnc2n1,c1ncc2[nH]cnc2n1,c1ncc2[nH]cnc2n1,1h-purine,0.6194,AqSolDB,1,frozen_test_identity_or_scaffold

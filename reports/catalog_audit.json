@@ -1,0 +1,25 @@
+{
+  "version": "3.0.0",
+  "created_utc": "2026-09-29T02:52:52.966648+00:00",
+  "rdkit_version": "2026.03.5",
+  "experimental_fingerprint_count": 12843,
+  "qm9": {
+    "raw": 133885,
+    "geometry_excluded": 3054,
+    "unsupported": 0,
+    "accepted": 130831,
+    "unique_structures": 130744
+  },
+  "excluded_other": [],
+  "qm9_snapshot_sha256": "3e668f8c34e4bc392a90d417a50a5eed3b64b842a817a633024bdc054c68ccb4",
+  "geometry_exclusions_sha256": "3aa5115d540b356de94791d4a74c3bf1ed91c469ecf52a4f5d7cc0506fe02e24",
+  "quantum_database_sha256": "a6ad9026b3630498a55c4e8c7e3173238c2b7e92a819cd5bb8f22da89c629825",
+  "hartree_to_ev": 27.211386245988,
+  "method": "B3LYP/6-31G(2df,p)",
+  "kind": "computed_reference",
+  "training_use": "none",
+  "source_url": "https://doi.org/10.1038/sdata.2014.22",
+  "data_url": "https://doi.org/10.6084/m9.figshare.c.978904",
+  "note": "QM9 calculations are reference lookups, not experimental measurements, newly performed DFT, or predictions for arbitrary molecules. Official 3054 geometry inconsistencies excluded; remaining parse/finite-value failures reported.",
+  "elapsed_seconds": 101.40779470000416
+}

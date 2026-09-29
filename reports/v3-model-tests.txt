@@ -1,0 +1,15 @@
+test_ensemble_weighted_member_predictions_and_invalid_weights (test_v3_models.V3FeatureTests.test_ensemble_weighted_member_predictions_and_invalid_weights) ... ok
+test_equivalent_smiles_have_identical_vectors (test_v3_models.V3FeatureTests.test_equivalent_smiles_have_identical_vectors) ... ok
+test_fixed_order_unique_names_and_core_values (test_v3_models.V3FeatureTests.test_fixed_order_unique_names_and_core_values) ... ok
+test_imputation_uses_fitting_rows_and_retains_empty_columns (test_v3_models.V3FeatureTests.test_imputation_uses_fitting_rows_and_retains_empty_columns) ... ok
+test_nonfinite_or_failed_extra_descriptor_is_missing (test_v3_models.V3FeatureTests.test_nonfinite_or_failed_extra_descriptor_is_missing) ... ok
+test_selection_api_accepts_only_validation_inputs (test_v3_models.V3FeatureTests.test_selection_api_accepts_only_validation_inputs) ... ok
+test_frozen_v2_partitions_are_byte_identical (test_v3_models.V3ReleaseEvidenceTests.test_frozen_v2_partitions_are_byte_identical) ... ok
+test_protocol_and_validation_hashes_match_release (test_v3_models.V3ReleaseEvidenceTests.test_protocol_and_validation_hashes_match_release) ... ok
+test_release_members_are_nonnegative_normalized_and_match_metadata (test_v3_models.V3ReleaseEvidenceTests.test_release_members_are_nonnegative_normalized_and_match_metadata) ... ok
+test_validation_selection_recomputes_without_test_predictions (test_v3_models.V3ReleaseEvidenceTests.test_validation_selection_recomputes_without_test_predictions) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 2.878s
+
+OK

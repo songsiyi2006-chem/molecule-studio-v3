@@ -1,0 +1,132 @@
+{
+  "target": "hydration_free_energy",
+  "label": "水合自由能",
+  "unit": "kcal/mol",
+  "version": "physchem-v3-hydration_free_energy",
+  "created_utc": "2026-09-29T03:22:47.154172+00:00",
+  "model_name": "ValidationEnsemble[Ridge_219D_Morgan2048+ExtraTrees_219D]",
+  "feature_mode": "combined",
+  "feature_version": "rdkit-2d219-morgan2048-radius2-v3",
+  "feature_count": 2267,
+  "descriptor_count": 219,
+  "fingerprint_bits": 2048,
+  "candidate_count": 7,
+  "sklearn_version": "1.9.0",
+  "rdkit_version": "2026.03.5",
+  "numpy_version": "2.4.6",
+  "seed": 42,
+  "parameters": {
+    "Ridge_219D_Morgan2048": {
+      "alpha": 30.0,
+      "copy_X": false,
+      "fit_intercept": true,
+      "max_iter": 800,
+      "positive": false,
+      "random_state": null,
+      "solver": "lsqr",
+      "tol": 0.001
+    },
+    "ExtraTrees_219D": {
+      "bootstrap": false,
+      "ccp_alpha": 0.0,
+      "criterion": "squared_error",
+      "max_depth": 18,
+      "max_features": 0.8,
+      "max_leaf_nodes": null,
+      "max_samples": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 2,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "monotonic_cst": null,
+      "n_estimators": 180,
+      "n_jobs": 2,
+      "oob_score": false,
+      "random_state": 42,
+      "verbose": 0,
+      "warm_start": false
+    }
+  },
+  "ensemble": {
+    "member_names": [
+      "Ridge_219D_Morgan2048",
+      "ExtraTrees_219D"
+    ],
+    "weights": [
+      0.5510616166909981,
+      0.44893838330900193
+    ],
+    "selection_rule": "Fit seven prespecified candidates on train only. Rank by validation RMSE (name tie-break). Among the top three evaluate all pairs with least-squares simplex weights clipped to [0.1,0.9]. Use the lowest-RMSE pair only if it improves best-single validation RMSE by at least 1%; otherwise retain the best single. Freeze weights; refit selected members on train+validation. Calibration/test labels never enter candidate selection or weight fitting."
+  },
+  "missing_value_policy": "Per-estimator fit-only median; all-missing fitting column retained and filled with zero.",
+  "split_counts": {
+    "train": 469,
+    "validation": 46,
+    "calibration": 46,
+    "test": 78
+  },
+  "fit_count": 515,
+  "unique_identity_count_before_quarantine": 639,
+  "quarantined_from_fit": 0,
+  "split_method": "whole Bemis-Murcko scaffolds; all acyclic compounds share one group; seed42 largest-first; frozen from V2 byte-for-byte",
+  "identity_overlap": 0,
+  "scaffold_overlap": 0,
+  "selection": "Fit seven prespecified candidates on train only. Rank by validation RMSE (name tie-break). Among the top three evaluate all pairs with least-squares simplex weights clipped to [0.1,0.9]. Use the lowest-RMSE pair only if it improves best-single validation RMSE by at least 1%; otherwise retain the best single. Freeze weights; refit selected members on train+validation. Calibration/test labels never enter candidate selection or weight fitting.",
+  "aggregation": "Group by non-stereochemical canonical identity; median labels. For logS prefer AqSolDB if present; frozen ESOL test uses original v1 labels.",
+  "metrics": {
+    "test": {
+      "rmse": 1.3423690073615588,
+      "mae": 1.0966876300133566,
+      "r2": 0.8038496424870498
+    },
+    "baseline": {
+      "rmse": 3.1112484023262033,
+      "mae": 2.40647647498133,
+      "r2": -0.053694332276122525
+    },
+    "validation_selected": {
+      "rmse": 2.3665932361461217,
+      "mae": 1.670143129157594,
+      "r2": 0.7849683143212227
+    }
+  },
+  "calibration": {
+    "radius": 6.085752624387478,
+    "nominal_coverage": 0.9,
+    "test_coverage": 1.0,
+    "n_calibration": 46,
+    "quantile_rank": 43,
+    "mean_width": 12.171505248774956
+  },
+  "evaluation_note": "Fixed internal scaffold holdout; not external validation. Empirical split-conformal intervals do not guarantee coverage under scaffold distribution shift. Metrics include all held-out rows, including OOD rows the app may withhold.",
+  "data_sha256": "822657091691422b0f496441d4053040072eb20df010e890ad5a4af329f9dd8b",
+  "split_sha256": "92ceca42d13c1bba9735bfc39566dbef4619e20338454acedab30417f1a7a4d8",
+  "training_protocol_sha256": "2bb367fdde5dbaba7064d89248b29cb1601ae3f958a633f80556e268d2cd326d",
+  "selection_evidence_sha256": "e9c139a4e7507d44e40f4bcd29ba8dc01a4b0922acca7ded925c93b4dd293ff7",
+  "limitations": [
+    "Conditions such as temperature, pH (except logD74 definition), solid form and protocols are incompletely represented.",
+    "Reference observations may disagree; local database preserves each source record.",
+    "Fingerprint similarity and descriptor bounds are heuristics, not proof of validity.",
+    "Calibration partitions and test partitions have distinct scaffolds; nominal 90% need not be achieved.",
+    "Only seven fixed candidates; no external validation or guarantee of improvement.",
+    "Member disagreement describes the fitted models; it is not calibrated uncertainty.",
+    "V2 and V3 share a previously inspected test set; comparison is descriptive and not a fresh prospective test."
+  ],
+  "v2_same_test_comparison": {
+    "test_count": 78,
+    "v2_metrics": {
+      "rmse": 1.333902727037434,
+      "mae": 0.9941514121873501,
+      "r2": 0.8063160686709381
+    },
+    "v3_metrics": {
+      "rmse": 1.3423690073615588,
+      "mae": 1.0966876300133566,
+      "r2": 0.8038496424870498
+    },
+    "rmse_change": 0.008466280324124886,
+    "note": "Identical V2 rows, labels, training/validation/calibration/test assignment; no test-driven retries."
+  },
+  "model_sha256": "ffe104110b76f78ac22ef4c7428d93bbacdb2eebca5b5545ebec0afb5758de3a",
+  "elapsed_seconds": 42.65536840003915
+}

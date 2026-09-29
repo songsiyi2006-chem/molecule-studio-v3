@@ -1,0 +1,18 @@
+test_deep_timeout_terminates_real_child_and_preserves_model_result (test_v3_api.AnalysisManagerTests.test_deep_timeout_terminates_real_child_and_preserves_model_result) ... ok
+test_finite_queue_and_queued_cancellation_do_not_run_cancelled_row (test_v3_api.AnalysisManagerTests.test_finite_queue_and_queued_cancellation_do_not_run_cancelled_row) ... ok
+test_history_persists_across_restart_and_retention_is_bounded (test_v3_api.AnalysisManagerTests.test_history_persists_across_restart_and_retention_is_bounded) ... ok
+test_locked_old_artifact_does_not_kill_worker_and_cleanup_retries (test_v3_api.AnalysisManagerTests.test_locked_old_artifact_does_not_kill_worker_and_cleanup_retries) ... ok
+test_running_cancel_reaps_real_subprocess (test_v3_api.AnalysisManagerTests.test_running_cancel_reaps_real_subprocess) ... ok
+test_service_close_reaps_real_subprocess_and_marks_history (test_v3_api.AnalysisManagerTests.test_service_close_reaps_real_subprocess_and_marks_history) ... ok
+test_analysis_validation_history_and_missing_routes (test_v3_api.V3APITests.test_analysis_validation_history_and_missing_routes) ... ok
+test_assignment_endpoint_reproduces_original_aspirin_and_withholds_large_ood (test_v3_api.V3APITests.test_assignment_endpoint_reproduces_original_aspirin_and_withholds_large_ood) ... ok
+test_ensemble_values_and_spread_are_consistent_and_suppressed_for_ood (test_v3_api.V3APITests.test_ensemble_values_and_spread_are_consistent_and_suppressed_for_ood) ... ok
+test_health_remains_responsive_during_worker_prediction (test_v3_api.V3APITests.test_health_remains_responsive_during_worker_prediction) ... ok
+test_missing_extended_descriptor_is_null_and_not_fabricated_zero (test_v3_api.V3APITests.test_missing_extended_descriptor_is_null_and_not_fabricated_zero) ... ok
+test_real_deep_analysis_exposes_3d_and_downloadable_sdf (test_v3_api.V3APITests.test_real_deep_analysis_exposes_3d_and_downloadable_sdf) ... ok
+test_standard_analysis_is_asynchronous_and_skips_3d (test_v3_api.V3APITests.test_standard_analysis_is_asynchronous_and_skips_3d) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 12.039s
+
+OK

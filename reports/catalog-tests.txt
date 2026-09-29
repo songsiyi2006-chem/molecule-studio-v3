@@ -1,0 +1,18 @@
+test_database_integrity (test_catalog_v3.CatalogTests.test_database_integrity) ... ok
+test_equivalent_smiles_exact (test_catalog_v3.CatalogTests.test_equivalent_smiles_exact) ... ok
+test_filters_apply_to_same_observation (test_catalog_v3.CatalogTests.test_filters_apply_to_same_observation) ... ok
+test_invalid_structure_is_not_empty_success (test_catalog_v3.CatalogTests.test_invalid_structure_is_not_empty_success) ... ok
+test_missing_fingerprint_index_is_service_unavailable (test_catalog_v3.CatalogTests.test_missing_fingerprint_index_is_service_unavailable) ... ok
+test_parameterized_literal_query (test_catalog_v3.CatalogTests.test_parameterized_literal_query) ... ok
+test_qm9_formula_and_alias (test_catalog_v3.CatalogTests.test_qm9_formula_and_alias) ... ok
+test_qm9_known_methane_units (test_catalog_v3.CatalogTests.test_qm9_known_methane_units) ... ok
+test_qm9_miss_is_not_zero_property (test_catalog_v3.CatalogTests.test_qm9_miss_is_not_zero_property) ... ok
+test_qm9_official_bad_geometry_excluded (test_catalog_v3.CatalogTests.test_qm9_official_bad_geometry_excluded) ... ok
+test_record_keeps_source_observations (test_catalog_v3.CatalogTests.test_record_keeps_source_observations) ... ok
+test_similarity_self_first (test_catalog_v3.CatalogTests.test_similarity_self_first) ... ok
+test_stable_pages (test_catalog_v3.CatalogTests.test_stable_pages) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 3.581s
+
+OK

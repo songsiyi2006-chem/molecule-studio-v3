@@ -1,0 +1,138 @@
+{
+  "target": "logD74",
+  "label": "分配系数 logD（pH 7.4）",
+  "unit": "log10(D), pH 7.4",
+  "version": "physchem-v3-logD74",
+  "created_utc": "2026-09-29T03:21:46.858563+00:00",
+  "model_name": "ValidationEnsemble[SVR_219D+HistGradientBoosting_219D]",
+  "feature_mode": "combined",
+  "feature_version": "rdkit-2d219-morgan2048-radius2-v3",
+  "feature_count": 2267,
+  "descriptor_count": 219,
+  "fingerprint_bits": 2048,
+  "candidate_count": 7,
+  "sklearn_version": "1.9.0",
+  "rdkit_version": "2026.03.5",
+  "numpy_version": "2.4.6",
+  "seed": 42,
+  "parameters": {
+    "SVR_219D": {
+      "C": 8.0,
+      "cache_size": 96,
+      "coef0": 0.0,
+      "degree": 3,
+      "epsilon": 0.1,
+      "gamma": "scale",
+      "kernel": "rbf",
+      "max_iter": -1,
+      "shrinking": true,
+      "tol": 0.001,
+      "verbose": false
+    },
+    "HistGradientBoosting_219D": {
+      "categorical_features": "from_dtype",
+      "early_stopping": false,
+      "interaction_cst": null,
+      "l2_regularization": 2.5,
+      "learning_rate": 0.05,
+      "loss": "squared_error",
+      "max_bins": 255,
+      "max_depth": null,
+      "max_features": 1.0,
+      "max_iter": 350,
+      "max_leaf_nodes": 15,
+      "min_samples_leaf": 15,
+      "monotonic_cst": null,
+      "n_iter_no_change": 10,
+      "quantile": null,
+      "random_state": 42,
+      "scoring": "loss",
+      "tol": 1e-07,
+      "validation_fraction": 0.1,
+      "verbose": 0,
+      "warm_start": false
+    }
+  },
+  "ensemble": {
+    "member_names": [
+      "SVR_219D",
+      "HistGradientBoosting_219D"
+    ],
+    "weights": [
+      0.540098001518245,
+      0.45990199848175495
+    ],
+    "selection_rule": "Fit seven prespecified candidates on train only. Rank by validation RMSE (name tie-break). Among the top three evaluate all pairs with least-squares simplex weights clipped to [0.1,0.9]. Use the lowest-RMSE pair only if it improves best-single validation RMSE by at least 1%; otherwise retain the best single. Freeze weights; refit selected members on train+validation. Calibration/test labels never enter candidate selection or weight fitting."
+  },
+  "missing_value_policy": "Per-estimator fit-only median; all-missing fitting column retained and filled with zero.",
+  "split_counts": {
+    "train": 2664,
+    "validation": 410,
+    "calibration": 410,
+    "test": 615
+  },
+  "fit_count": 3074,
+  "unique_identity_count_before_quarantine": 4099,
+  "quarantined_from_fit": 0,
+  "split_method": "whole Bemis-Murcko scaffolds; all acyclic compounds share one group; seed42 largest-first; frozen from V2 byte-for-byte",
+  "identity_overlap": 0,
+  "scaffold_overlap": 0,
+  "selection": "Fit seven prespecified candidates on train only. Rank by validation RMSE (name tie-break). Among the top three evaluate all pairs with least-squares simplex weights clipped to [0.1,0.9]. Use the lowest-RMSE pair only if it improves best-single validation RMSE by at least 1%; otherwise retain the best single. Freeze weights; refit selected members on train+validation. Calibration/test labels never enter candidate selection or weight fitting.",
+  "aggregation": "Group by non-stereochemical canonical identity; median labels. For logS prefer AqSolDB if present; frozen ESOL test uses original v1 labels.",
+  "metrics": {
+    "test": {
+      "rmse": 0.7269496909255254,
+      "mae": 0.5513986400080074,
+      "r2": 0.6095419591805137
+    },
+    "baseline": {
+      "rmse": 1.1634318271700996,
+      "mae": 0.9348420241098963,
+      "r2": -0.00010946847439163854
+    },
+    "validation_selected": {
+      "rmse": 0.7671410066353859,
+      "mae": 0.5834692163707288,
+      "r2": 0.5916591703799562
+    }
+  },
+  "calibration": {
+    "radius": 1.0475193783874173,
+    "nominal_coverage": 0.9,
+    "test_coverage": 0.8585365853658536,
+    "n_calibration": 410,
+    "quantile_rank": 370,
+    "mean_width": 2.0950387567748345
+  },
+  "evaluation_note": "Fixed internal scaffold holdout; not external validation. Empirical split-conformal intervals do not guarantee coverage under scaffold distribution shift. Metrics include all held-out rows, including OOD rows the app may withhold.",
+  "data_sha256": "822657091691422b0f496441d4053040072eb20df010e890ad5a4af329f9dd8b",
+  "split_sha256": "b8bcf8c6a63708e6af5c510b12c6e49058ae59edf5eb4ba1e743b743f7577923",
+  "training_protocol_sha256": "83136dc63799aa687cad16bd487bb4eb585938352adddbecdbd6f0188f44e9e7",
+  "selection_evidence_sha256": "a3ccc6d7b1596621d80b4d0539a734187bf3eb0fea7e7c9749782b0cc9a0aaf7",
+  "limitations": [
+    "Conditions such as temperature, pH (except logD74 definition), solid form and protocols are incompletely represented.",
+    "Reference observations may disagree; local database preserves each source record.",
+    "Fingerprint similarity and descriptor bounds are heuristics, not proof of validity.",
+    "Calibration partitions and test partitions have distinct scaffolds; nominal 90% need not be achieved.",
+    "Only seven fixed candidates; no external validation or guarantee of improvement.",
+    "Member disagreement describes the fitted models; it is not calibrated uncertainty.",
+    "V2 and V3 share a previously inspected test set; comparison is descriptive and not a fresh prospective test."
+  ],
+  "v2_same_test_comparison": {
+    "test_count": 615,
+    "v2_metrics": {
+      "rmse": 0.799621048982765,
+      "mae": 0.6193355700130663,
+      "r2": 0.5275736704228351
+    },
+    "v3_metrics": {
+      "rmse": 0.7269496909255254,
+      "mae": 0.5513986400080074,
+      "r2": 0.6095419591805137
+    },
+    "rmse_change": -0.07267135805723957,
+    "note": "Identical V2 rows, labels, training/validation/calibration/test assignment; no test-driven retries."
+  },
+  "model_sha256": "f89e378bcffa1f6c579fae16ce668fe0f3677dde79676ff94e19f4aefc2fb21a",
+  "elapsed_seconds": 335.8939758000197
+}

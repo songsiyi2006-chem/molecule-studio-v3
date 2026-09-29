@@ -1,0 +1,76 @@
+{
+  "member_names": [
+    "Ridge_219D_Morgan2048",
+    "ExtraTrees_219D"
+  ],
+  "weights": [
+    0.5510616166909981,
+    0.44893838330900193
+  ],
+  "metrics": {
+    "rmse": 2.3665932361461217,
+    "mae": 1.670143129157594,
+    "r2": 0.7849683143212227
+  },
+  "rule": "Fit seven prespecified candidates on train only. Rank by validation RMSE (name tie-break). Among the top three evaluate all pairs with least-squares simplex weights clipped to [0.1,0.9]. Use the lowest-RMSE pair only if it improves best-single validation RMSE by at least 1%; otherwise retain the best single. Freeze weights; refit selected members on train+validation. Calibration/test labels never enter candidate selection or weight fitting.",
+  "best_single": "Ridge_219D_Morgan2048",
+  "ranked_candidates": [
+    "Ridge_219D_Morgan2048",
+    "HistGradientBoosting_219D",
+    "ExtraTrees_219D",
+    "RandomForest_28D",
+    "ExtraTrees_219D_Morgan2048",
+    "ExtraTrees_28D_Morgan2048",
+    "SVR_219D"
+  ],
+  "relative_improvement_required": 0.01,
+  "pairs_considered": [
+    {
+      "member_names": [
+        "Ridge_219D_Morgan2048",
+        "HistGradientBoosting_219D"
+      ],
+      "weights": [
+        0.5028055576291246,
+        0.4971944423708754
+      ],
+      "metrics": {
+        "rmse": 2.4115781362378694,
+        "mae": 1.5888175197838306,
+        "r2": 0.7767158490796002
+      }
+    },
+    {
+      "member_names": [
+        "Ridge_219D_Morgan2048",
+        "ExtraTrees_219D"
+      ],
+      "weights": [
+        0.5510616166909981,
+        0.44893838330900193
+      ],
+      "metrics": {
+        "rmse": 2.3665932361461217,
+        "mae": 1.670143129157594,
+        "r2": 0.7849683143212227
+      }
+    },
+    {
+      "member_names": [
+        "HistGradientBoosting_219D",
+        "ExtraTrees_219D"
+      ],
+      "weights": [
+        0.5686886770803845,
+        0.4313113229196155
+      ],
+      "metrics": {
+        "rmse": 2.4191959507281684,
+        "mae": 1.613905591635626,
+        "r2": 0.7753029786294563
+      }
+    }
+  ],
+  "selection_label_partition": "validation",
+  "candidate_fit_partition": "train"
+}

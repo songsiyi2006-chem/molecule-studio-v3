@@ -1,0 +1,401 @@
+{
+  "version": "3.0.0",
+  "checked_utc": "2026-09-29T03:29:08.435075+00:00",
+  "checks": [
+    {
+      "name": "health",
+      "status": "passed"
+    },
+    {
+      "name": "version and three models",
+      "status": "passed"
+    },
+    {
+      "name": "V3 actual model feature versions",
+      "status": "passed"
+    },
+    {
+      "name": "experimental observations",
+      "status": "passed"
+    },
+    {
+      "name": "QM9 records",
+      "status": "passed"
+    },
+    {
+      "name": "Ethanol standard accepted",
+      "status": "passed"
+    },
+    {
+      "name": "Ethanol standard completed",
+      "status": "passed"
+    },
+    {
+      "name": "Ethanol standard finite predictions",
+      "status": "passed"
+    },
+    {
+      "name": "Ethanol no fabricated 3D",
+      "status": "passed"
+    },
+    {
+      "name": "Ethanol deep accepted",
+      "status": "passed"
+    },
+    {
+      "name": "Ethanol deep completed",
+      "status": "passed"
+    },
+    {
+      "name": "Ethanol deep finite predictions",
+      "status": "passed"
+    },
+    {
+      "name": "Ethanol converged 3D",
+      "status": "passed"
+    },
+    {
+      "name": "Ethanol finite coordinates",
+      "status": "passed"
+    },
+    {
+      "name": "Ethanol relative conformer energies",
+      "status": "passed"
+    },
+    {
+      "name": "Ethanol SDF roundtrip",
+      "status": "passed"
+    },
+    {
+      "name": "Aspirin standard accepted",
+      "status": "passed"
+    },
+    {
+      "name": "Aspirin standard completed",
+      "status": "passed"
+    },
+    {
+      "name": "Aspirin standard finite predictions",
+      "status": "passed"
+    },
+    {
+      "name": "Aspirin no fabricated 3D",
+      "status": "passed"
+    },
+    {
+      "name": "Aspirin deep accepted",
+      "status": "passed"
+    },
+    {
+      "name": "Aspirin deep completed",
+      "status": "passed"
+    },
+    {
+      "name": "Aspirin deep finite predictions",
+      "status": "passed"
+    },
+    {
+      "name": "Aspirin converged 3D",
+      "status": "passed"
+    },
+    {
+      "name": "Aspirin finite coordinates",
+      "status": "passed"
+    },
+    {
+      "name": "Aspirin relative conformer energies",
+      "status": "passed"
+    },
+    {
+      "name": "Aspirin SDF roundtrip",
+      "status": "passed"
+    },
+    {
+      "name": "Caffeine standard accepted",
+      "status": "passed"
+    },
+    {
+      "name": "Caffeine standard completed",
+      "status": "passed"
+    },
+    {
+      "name": "Caffeine standard finite predictions",
+      "status": "passed"
+    },
+    {
+      "name": "Caffeine no fabricated 3D",
+      "status": "passed"
+    },
+    {
+      "name": "Caffeine deep accepted",
+      "status": "passed"
+    },
+    {
+      "name": "Caffeine deep completed",
+      "status": "passed"
+    },
+    {
+      "name": "Caffeine deep finite predictions",
+      "status": "passed"
+    },
+    {
+      "name": "Caffeine converged 3D",
+      "status": "passed"
+    },
+    {
+      "name": "Caffeine finite coordinates",
+      "status": "passed"
+    },
+    {
+      "name": "Caffeine relative conformer energies",
+      "status": "passed"
+    },
+    {
+      "name": "Caffeine SDF roundtrip",
+      "status": "passed"
+    },
+    {
+      "name": "Paracetamol standard accepted",
+      "status": "passed"
+    },
+    {
+      "name": "Paracetamol standard completed",
+      "status": "passed"
+    },
+    {
+      "name": "Paracetamol standard finite predictions",
+      "status": "passed"
+    },
+    {
+      "name": "Paracetamol no fabricated 3D",
+      "status": "passed"
+    },
+    {
+      "name": "Paracetamol deep accepted",
+      "status": "passed"
+    },
+    {
+      "name": "Paracetamol deep completed",
+      "status": "passed"
+    },
+    {
+      "name": "Paracetamol deep finite predictions",
+      "status": "passed"
+    },
+    {
+      "name": "Paracetamol converged 3D",
+      "status": "passed"
+    },
+    {
+      "name": "Paracetamol finite coordinates",
+      "status": "passed"
+    },
+    {
+      "name": "Paracetamol relative conformer energies",
+      "status": "passed"
+    },
+    {
+      "name": "Paracetamol SDF roundtrip",
+      "status": "passed"
+    },
+    {
+      "name": "Sorbitol standard accepted",
+      "status": "passed"
+    },
+    {
+      "name": "Sorbitol standard completed",
+      "status": "passed"
+    },
+    {
+      "name": "Sorbitol standard finite predictions",
+      "status": "passed"
+    },
+    {
+      "name": "Sorbitol no fabricated 3D",
+      "status": "passed"
+    },
+    {
+      "name": "Sorbitol deep accepted",
+      "status": "passed"
+    },
+    {
+      "name": "Sorbitol deep completed",
+      "status": "passed"
+    },
+    {
+      "name": "Sorbitol deep finite predictions",
+      "status": "passed"
+    },
+    {
+      "name": "Sorbitol converged 3D",
+      "status": "passed"
+    },
+    {
+      "name": "Sorbitol finite coordinates",
+      "status": "passed"
+    },
+    {
+      "name": "Sorbitol relative conformer energies",
+      "status": "passed"
+    },
+    {
+      "name": "Sorbitol SDF roundtrip",
+      "status": "passed"
+    },
+    {
+      "name": "batch failure isolated",
+      "status": "passed"
+    },
+    {
+      "name": "OOD withholding including ensemble",
+      "status": "passed"
+    },
+    {
+      "name": "assignment actual RF prediction",
+      "status": "passed"
+    },
+    {
+      "name": "equivalent catalog query",
+      "status": "passed"
+    },
+    {
+      "name": "QM9 known reference and units",
+      "status": "passed"
+    }
+  ],
+  "check_count": 65,
+  "timings": [
+    {
+      "molecule": "Ethanol",
+      "mode": "standard",
+      "total_http_seconds": 0.7937073999783024,
+      "reported_seconds": {
+        "prediction_seconds": 0.630771700059995,
+        "conformer_seconds": 0.0,
+        "total_seconds": 0.625
+      },
+      "submit_seconds": 0.03499539999756962,
+      "max_health_seconds": 0.014680100022815168,
+      "conformers": 0
+    },
+    {
+      "molecule": "Ethanol",
+      "mode": "deep",
+      "total_http_seconds": 1.788097899989225,
+      "reported_seconds": {
+        "prediction_seconds": 0.3375472000334412,
+        "conformer_seconds": 1.297000000020489,
+        "total_seconds": 1.640999999945052
+      },
+      "submit_seconds": 0.021838400047272444,
+      "max_health_seconds": 0.019532600068487227,
+      "conformers": 1
+    },
+    {
+      "molecule": "Aspirin",
+      "mode": "standard",
+      "total_http_seconds": 0.4159771999111399,
+      "reported_seconds": {
+        "prediction_seconds": 0.33213110000360757,
+        "conformer_seconds": 0.0,
+        "total_seconds": 0.3279999999795109
+      },
+      "submit_seconds": 0.02334089996293187,
+      "max_health_seconds": 0.017287900089286268,
+      "conformers": 0
+    },
+    {
+      "molecule": "Aspirin",
+      "mode": "deep",
+      "total_http_seconds": 1.6049472000449896,
+      "reported_seconds": {
+        "prediction_seconds": 0.3032709000399336,
+        "conformer_seconds": 1.234000000054948,
+        "total_seconds": 1.5310000000754371
+      },
+      "submit_seconds": 0.03557770000770688,
+      "max_health_seconds": 0.015418400056660175,
+      "conformers": 2
+    },
+    {
+      "molecule": "Caffeine",
+      "mode": "standard",
+      "total_http_seconds": 0.4255193999269977,
+      "reported_seconds": {
+        "prediction_seconds": 0.31777670001611114,
+        "conformer_seconds": 0.0,
+        "total_seconds": 0.31200000003445894
+      },
+      "submit_seconds": 0.03486190002877265,
+      "max_health_seconds": 0.018530000001192093,
+      "conformers": 0
+    },
+    {
+      "molecule": "Caffeine",
+      "mode": "deep",
+      "total_http_seconds": 1.7684056999860331,
+      "reported_seconds": {
+        "prediction_seconds": 0.39554660010617226,
+        "conformer_seconds": 1.25,
+        "total_seconds": 1.6400000000139698
+      },
+      "submit_seconds": 0.025551899918355048,
+      "max_health_seconds": 0.03150039992760867,
+      "conformers": 1
+    },
+    {
+      "molecule": "Paracetamol",
+      "mode": "standard",
+      "total_http_seconds": 0.4380813998868689,
+      "reported_seconds": {
+        "prediction_seconds": 0.3586176000535488,
+        "conformer_seconds": 0.0,
+        "total_seconds": 0.35900000005494803
+      },
+      "submit_seconds": 0.028132000006735325,
+      "max_health_seconds": 0.014877800014801323,
+      "conformers": 0
+    },
+    {
+      "molecule": "Paracetamol",
+      "mode": "deep",
+      "total_http_seconds": 1.7338051000842825,
+      "reported_seconds": {
+        "prediction_seconds": 0.33218570007011294,
+        "conformer_seconds": 1.265999999945052,
+        "total_seconds": 1.6099999999860302
+      },
+      "submit_seconds": 0.027574799954891205,
+      "max_health_seconds": 0.013927799998782575,
+      "conformers": 2
+    },
+    {
+      "molecule": "Sorbitol",
+      "mode": "standard",
+      "total_http_seconds": 0.44799010001588613,
+      "reported_seconds": {
+        "prediction_seconds": 0.3722307999851182,
+        "conformer_seconds": 0.0,
+        "total_seconds": 0.375
+      },
+      "submit_seconds": 0.02620540000498295,
+      "max_health_seconds": 0.019300600048154593,
+      "conformers": 0
+    },
+    {
+      "molecule": "Sorbitol",
+      "mode": "deep",
+      "total_http_seconds": 2.014665500028059,
+      "reported_seconds": {
+        "prediction_seconds": 0.36201909999363124,
+        "conformer_seconds": 1.5320000000065193,
+        "total_seconds": 1.890999999945052
+      },
+      "submit_seconds": 0.027156000025570393,
+      "max_health_seconds": 0.01924619998317212,
+      "conformers": 16
+    }
+  ],
+  "scope": "Five ordinary molecules, one standard and one deep run each. Includes HTTP polling; not a production load test or general runtime guarantee.",
+  "status": "passed"
+}

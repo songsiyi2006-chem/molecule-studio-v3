@@ -1,0 +1,85 @@
+{
+  "target": "logD74",
+  "label": "分配系数 logD（pH 7.4）",
+  "unit": "log10(D), pH 7.4",
+  "version": "physchem-v2-logD74",
+  "created_utc": "2026-09-28T15:56:04.267317+00:00",
+  "model_name": "ExtraTrees_28D_Morgan2048",
+  "feature_mode": "combined",
+  "feature_version": "rdkit-2d28-morgan2048-radius2-v2",
+  "feature_count": 2076,
+  "sklearn_version": "1.9.0",
+  "rdkit_version": "2026.03.5",
+  "numpy_version": "2.4.6",
+  "seed": 42,
+  "parameters": {
+    "bootstrap": false,
+    "ccp_alpha": 0.0,
+    "criterion": "squared_error",
+    "max_depth": null,
+    "max_features": 0.25,
+    "max_leaf_nodes": null,
+    "max_samples": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 2,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "n_estimators": 256,
+    "n_jobs": 2,
+    "oob_score": false,
+    "random_state": 42,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "split_counts": {
+    "train": 2664,
+    "validation": 410,
+    "calibration": 410,
+    "test": 615
+  },
+  "fit_count": 3074,
+  "unique_identity_count_before_quarantine": 4099,
+  "quarantined_from_fit": 0,
+  "split_method": "whole Bemis-Murcko scaffolds; all acyclic compounds share one group; seed42 largest-first",
+  "identity_overlap": 0,
+  "scaffold_overlap": 0,
+  "selection": "minimum validation RMSE among three prespecified candidates, then refit train+validation",
+  "aggregation": "Group by non-stereochemical canonical identity; median labels. For logS prefer AqSolDB if present; frozen ESOL test uses original v1 labels.",
+  "metrics": {
+    "test": {
+      "rmse": 0.799621048982765,
+      "mae": 0.6193355700130663,
+      "r2": 0.5275736704228351
+    },
+    "baseline": {
+      "rmse": 1.1634318271700996,
+      "mae": 0.9348420241098963,
+      "r2": -0.00010946847439163854
+    },
+    "validation_selected": {
+      "rmse": 0.8451318901147784,
+      "mae": 0.6636021801956302,
+      "r2": 0.5044113062553093
+    }
+  },
+  "calibration": {
+    "radius": 1.2984309895833315,
+    "nominal_coverage": 0.9,
+    "test_coverage": 0.9024390243902439,
+    "n_calibration": 410,
+    "quantile_rank": 370,
+    "mean_width": 2.596861979166663
+  },
+  "evaluation_note": "Fixed internal scaffold holdout; not external validation. Empirical split-conformal intervals do not guarantee coverage under scaffold distribution shift. Metrics include all held-out rows, including OOD rows the app may withhold.",
+  "data_sha256": "822657091691422b0f496441d4053040072eb20df010e890ad5a4af329f9dd8b",
+  "split_sha256": "b8bcf8c6a63708e6af5c510b12c6e49058ae59edf5eb4ba1e743b743f7577923",
+  "limitations": [
+    "Conditions such as temperature, pH (except logD74 definition), solid form and protocols are incompletely represented.",
+    "Reference observations may disagree; local database preserves each source record.",
+    "Fingerprint similarity and descriptor bounds are heuristics, not proof of validity.",
+    "Calibration partitions and test partitions have distinct scaffolds; nominal 90% need not be achieved."
+  ],
+  "model_sha256": "b0a4117caf17aea95418a6a2479b1f46beac70d3b65fd8377dff911ecfedd010",
+  "elapsed_seconds": 75.31436770001892
+}

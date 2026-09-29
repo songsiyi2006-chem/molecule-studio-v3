@@ -1,0 +1,161 @@
+Checking the supplied project and model artifacts...
+test_batch_bounds_prevent_unbounded_work (test_api.APITests.test_batch_bounds_prevent_unbounded_work) ... ok
+test_batch_mixed_rows_continue_and_keep_input_order (test_api.APITests.test_batch_mixed_rows_continue_and_keep_input_order) ... ok
+test_database_queries_are_validated_and_observations_keep_provenance (test_api.APITests.test_database_queries_are_validated_and_observations_keep_provenance) ... ok
+test_default_prediction_and_legacy_fields_are_consistent (test_api.APITests.test_default_prediction_and_legacy_fields_are_consistent) ... ok
+test_health_and_catalog_report_all_properties (test_api.APITests.test_health_and_catalog_report_all_properties) ... ok
+test_home_and_static_assets_are_served (test_api.APITests.test_home_and_static_assets_are_served) ... ok
+test_invalid_and_unsupported_smiles_remain_distinct (test_api.APITests.test_invalid_and_unsupported_smiles_remain_distinct) ... ok
+test_invalid_requests_are_structured_422 (test_api.APITests.test_invalid_requests_are_structured_422) ... ok
+test_large_peg_never_exposes_numeric_predictions (test_api.APITests.test_large_peg_never_exposes_numeric_predictions) ... ok
+test_request_body_limit_rejects_before_prediction (test_api.APITests.test_request_body_limit_rejects_before_prediction) ... ok
+test_selected_properties_do_not_fabricate_legacy_logS (test_api.APITests.test_selected_properties_do_not_fabricate_legacy_logS) ... ok
+test_corrupted_artifact_is_unavailable_instead_of_a_dummy_prediction (test_api.UnavailableAPITests.test_corrupted_artifact_is_unavailable_instead_of_a_dummy_prediction) ... ok
+test_missing_artifacts_returns_503_but_health_still_works (test_api.UnavailableAPITests.test_missing_artifacts_returns_503_but_health_still_works) ... Model artifact is missing: C:\Users\HUIWEI\AppData\Local\Temp\tmpfkbc2bre\logS.pkl
+Model artifact is missing: C:\Users\HUIWEI\AppData\Local\Temp\tmpfkbc2bre\logD74.pkl
+Model artifact is missing: C:\Users\HUIWEI\AppData\Local\Temp\tmpfkbc2bre\hydration_free_energy.pkl
+Local molecular observation database is missing
+ok
+test_database_integrity (test_catalog_v3.CatalogTests.test_database_integrity) ... ok
+test_equivalent_smiles_exact (test_catalog_v3.CatalogTests.test_equivalent_smiles_exact) ... ok
+test_filters_apply_to_same_observation (test_catalog_v3.CatalogTests.test_filters_apply_to_same_observation) ... ok
+test_invalid_structure_is_not_empty_success (test_catalog_v3.CatalogTests.test_invalid_structure_is_not_empty_success) ... ok
+test_missing_fingerprint_index_is_service_unavailable (test_catalog_v3.CatalogTests.test_missing_fingerprint_index_is_service_unavailable) ... ok
+test_parameterized_literal_query (test_catalog_v3.CatalogTests.test_parameterized_literal_query) ... ok
+test_qm9_formula_and_alias (test_catalog_v3.CatalogTests.test_qm9_formula_and_alias) ... ok
+test_qm9_known_methane_units (test_catalog_v3.CatalogTests.test_qm9_known_methane_units) ... ok
+test_qm9_miss_is_not_zero_property (test_catalog_v3.CatalogTests.test_qm9_miss_is_not_zero_property) ... ok
+test_qm9_official_bad_geometry_excluded (test_catalog_v3.CatalogTests.test_qm9_official_bad_geometry_excluded) ... ok
+test_record_keeps_source_observations (test_catalog_v3.CatalogTests.test_record_keeps_source_observations) ... ok
+test_similarity_self_first (test_catalog_v3.CatalogTests.test_similarity_self_first) ... ok
+test_stable_pages (test_catalog_v3.CatalogTests.test_stable_pages) ... ok
+test_absent_force_field_parameters_do_not_become_fake_geometry (test_conformers.ConformerTests.test_absent_force_field_parameters_do_not_become_fake_geometry) ... ok
+test_large_or_highly_flexible_molecule_is_skipped_before_embedding (test_conformers.ConformerTests.test_large_or_highly_flexible_molecule_is_skipped_before_embedding) ... ok
+test_no_converged_conformer_has_no_lowest_energy_or_download (test_conformers.ConformerTests.test_no_converged_conformer_has_no_lowest_energy_or_download) ... ok
+test_real_ethanol_geometry_energy_order_and_sdf_are_consistent (test_conformers.ConformerTests.test_real_ethanol_geometry_energy_order_and_sdf_are_consistent) ... ok
+test_absent_database_fails_without_creating_an_empty_file (test_database.DatabaseTests.test_absent_database_fails_without_creating_an_empty_file) ... ok
+test_all_raw_snapshot_hashes_and_counts_match_provenance (test_database.DatabaseTests.test_all_raw_snapshot_hashes_and_counts_match_provenance) ... ok
+test_chinese_alias_does_not_become_a_smiles_substring_or_ignore_filters (test_database.DatabaseTests.test_chinese_alias_does_not_become_a_smiles_substring_or_ignore_filters) ... ok
+test_connections_are_read_only_and_schema_has_no_orphan_observations (test_database.DatabaseTests.test_connections_are_read_only_and_schema_has_no_orphan_observations) ... ok
+test_ethanol_lookup_exposes_separate_sources_and_property_units (test_database.DatabaseTests.test_ethanol_lookup_exposes_separate_sources_and_property_units) ... ok
+test_exact_english_name_and_smiles_rank_before_partial_matches (test_database.DatabaseTests.test_exact_english_name_and_smiles_rank_before_partial_matches) ... ok
+test_export_preserves_experimental_columns_and_units (test_database.DatabaseTests.test_export_preserves_experimental_columns_and_units) ... ok
+test_known_chinese_aliases_find_the_exact_molecule (test_database.DatabaseTests.test_known_chinese_aliases_find_the_exact_molecule) ... ok
+test_parameterized_queries_reject_injection_and_literal_wildcards (test_database.DatabaseTests.test_parameterized_queries_reject_injection_and_literal_wildcards) ... ok
+test_query_bounds_are_explicit (test_database.DatabaseTests.test_query_bounds_are_explicit) ... ok
+test_search_is_paged_and_returns_supported_contract (test_database.DatabaseTests.test_search_is_paged_and_returns_supported_contract) ... ok
+test_stats_match_all_rows_and_audit (test_database.DatabaseTests.test_stats_match_all_rows_and_audit) ... ok
+test_target_filter_and_chembl_identifier_search (test_database.DatabaseTests.test_target_filter_and_chembl_identifier_search) ... ok
+test_both_feature_modes_match_the_estimator_and_keep_precision (test_service.PredictionServiceTests.test_both_feature_modes_match_the_estimator_and_keep_precision) ... ok
+test_charged_input_has_an_explicit_ionization_warning (test_service.PredictionServiceTests.test_charged_input_has_an_explicit_ionization_warning) ... ok
+test_invalid_artifact_versions_schema_and_calibration_fail_closed (test_service.PredictionServiceTests.test_invalid_artifact_versions_schema_and_calibration_fail_closed) ... ok
+test_large_benign_peg_withholds_values_and_does_not_invoke_estimator (test_service.PredictionServiceTests.test_large_benign_peg_withholds_values_and_does_not_invoke_estimator) ... ok
+test_low_similarity_returns_a_caution_not_false_certainty (test_service.PredictionServiceTests.test_low_similarity_returns_a_caution_not_false_certainty) ... ok
+test_models_load_only_once (test_service.PredictionServiceTests.test_models_load_only_once) ... ok
+test_no_models_has_no_fallback_prediction (test_service.PredictionServiceTests.test_no_models_has_no_fallback_prediction) ... Model artifact is missing: C:\Users\HUIWEI\AppData\Local\Temp\tmps15x8_cq\logS.pkl
+Model artifact is missing: C:\Users\HUIWEI\AppData\Local\Temp\tmps15x8_cq\logD74.pkl
+Model artifact is missing: C:\Users\HUIWEI\AppData\Local\Temp\tmps15x8_cq\hydration_free_energy.pkl
+ok
+test_observation_is_never_substituted_for_prediction (test_service.PredictionServiceTests.test_observation_is_never_substituted_for_prediction) ... ok
+test_one_nonfinite_model_output_does_not_destroy_other_properties (test_service.PredictionServiceTests.test_one_nonfinite_model_output_does_not_destroy_other_properties) ... ok
+test_partial_missing_models_are_unavailable_without_fabricated_values (test_service.PredictionServiceTests.test_partial_missing_models_are_unavailable_without_fabricated_values) ... Model artifact is missing: C:\Users\HUIWEI\AppData\Local\Temp\tmp1ek8g_47\logD74.pkl
+Model artifact is missing: C:\Users\HUIWEI\AppData\Local\Temp\tmp1ek8g_47\hydration_free_energy.pkl
+ok
+test_similarity_is_training_only_and_membership_uses_connectivity (test_service.PredictionServiceTests.test_similarity_is_training_only_and_membership_uses_connectivity) ... ok
+test_three_range_violations_withhold_but_one_only_cautions (test_service.PredictionServiceTests.test_three_range_violations_withhold_but_one_only_cautions) ... ok
+test_all_saved_test_predictions_recompute_from_the_release_artifact (test_trained_models.TrainedArtifactAuditTests.test_all_saved_test_predictions_recompute_from_the_release_artifact) ... C:\Users\HUIWEI\miniconda3\envs\phase2ff\Lib\site-packages\threadpoolctl.py:1226: RuntimeWarning: 
+Found Intel OpenMP ('libiomp') and LLVM OpenMP ('libomp') loaded at
+the same time. Both libraries are known to be incompatible and this
+can cause random crashes or deadlocks on Linux when loaded in the
+same Python program.
+Using threadpoolctl may cause crashes or deadlocks. For more
+information and possible workarounds, please see
+    https://github.com/joblib/threadpoolctl/blob/master/multiple_openmp.md
+
+  warnings.warn(msg, RuntimeWarning)
+C:\Users\HUIWEI\miniconda3\envs\phase2ff\Lib\site-packages\threadpoolctl.py:1226: RuntimeWarning: 
+Found Intel OpenMP ('libiomp') and LLVM OpenMP ('libomp') loaded at
+the same time. Both libraries are known to be incompatible and this
+can cause random crashes or deadlocks on Linux when loaded in the
+same Python program.
+Using threadpoolctl may cause crashes or deadlocks. For more
+information and possible workarounds, please see
+    https://github.com/joblib/threadpoolctl/blob/master/multiple_openmp.md
+
+  warnings.warn(msg, RuntimeWarning)
+C:\Users\HUIWEI\miniconda3\envs\phase2ff\Lib\site-packages\threadpoolctl.py:1226: RuntimeWarning: 
+Found Intel OpenMP ('libiomp') and LLVM OpenMP ('libomp') loaded at
+the same time. Both libraries are known to be incompatible and this
+can cause random crashes or deadlocks on Linux when loaded in the
+same Python program.
+Using threadpoolctl may cause crashes or deadlocks. For more
+information and possible workarounds, please see
+    https://github.com/joblib/threadpoolctl/blob/master/multiple_openmp.md
+
+  warnings.warn(msg, RuntimeWarning)
+ok
+test_artifact_similarity_records_contain_fit_molecules_only (test_trained_models.TrainedArtifactAuditTests.test_artifact_similarity_records_contain_fit_molecules_only) ... ok
+test_calibration_radius_uses_only_the_independent_calibration_rows (test_trained_models.TrainedArtifactAuditTests.test_calibration_radius_uses_only_the_independent_calibration_rows) ... C:\Users\HUIWEI\miniconda3\envs\phase2ff\Lib\site-packages\threadpoolctl.py:1226: RuntimeWarning: 
+Found Intel OpenMP ('libiomp') and LLVM OpenMP ('libomp') loaded at
+the same time. Both libraries are known to be incompatible and this
+can cause random crashes or deadlocks on Linux when loaded in the
+same Python program.
+Using threadpoolctl may cause crashes or deadlocks. For more
+information and possible workarounds, please see
+    https://github.com/joblib/threadpoolctl/blob/master/multiple_openmp.md
+
+  warnings.warn(msg, RuntimeWarning)
+C:\Users\HUIWEI\miniconda3\envs\phase2ff\Lib\site-packages\threadpoolctl.py:1226: RuntimeWarning: 
+Found Intel OpenMP ('libiomp') and LLVM OpenMP ('libomp') loaded at
+the same time. Both libraries are known to be incompatible and this
+can cause random crashes or deadlocks on Linux when loaded in the
+same Python program.
+Using threadpoolctl may cause crashes or deadlocks. For more
+information and possible workarounds, please see
+    https://github.com/joblib/threadpoolctl/blob/master/multiple_openmp.md
+
+  warnings.warn(msg, RuntimeWarning)
+C:\Users\HUIWEI\miniconda3\envs\phase2ff\Lib\site-packages\threadpoolctl.py:1226: RuntimeWarning: 
+Found Intel OpenMP ('libiomp') and LLVM OpenMP ('libomp') loaded at
+the same time. Both libraries are known to be incompatible and this
+can cause random crashes or deadlocks on Linux when loaded in the
+same Python program.
+Using threadpoolctl may cause crashes or deadlocks. For more
+information and possible workarounds, please see
+    https://github.com/joblib/threadpoolctl/blob/master/multiple_openmp.md
+
+  warnings.warn(msg, RuntimeWarning)
+ok
+test_domain_bounds_contain_every_raw_training_descriptor (test_trained_models.TrainedArtifactAuditTests.test_domain_bounds_contain_every_raw_training_descriptor) ... ok
+test_fit_calibration_and_test_are_disjoint_by_identity_and_scaffold (test_trained_models.TrainedArtifactAuditTests.test_fit_calibration_and_test_are_disjoint_by_identity_and_scaffold) ... ok
+test_frozen_logS_test_preserves_all_original_224_molecules_and_values (test_trained_models.TrainedArtifactAuditTests.test_frozen_logS_test_preserves_all_original_224_molecules_and_values) ... ok
+test_heldout_metrics_baseline_and_empirical_coverage_recompute (test_trained_models.TrainedArtifactAuditTests.test_heldout_metrics_baseline_and_empirical_coverage_recompute) ... ok
+test_report_hashes_and_candidate_selection_match_saved_evidence (test_trained_models.TrainedArtifactAuditTests.test_report_hashes_and_candidate_selection_match_saved_evidence) ... ok
+test_deep_timeout_terminates_real_child_and_preserves_model_result (test_v3_api.AnalysisManagerTests.test_deep_timeout_terminates_real_child_and_preserves_model_result) ... ok
+test_finite_queue_and_queued_cancellation_do_not_run_cancelled_row (test_v3_api.AnalysisManagerTests.test_finite_queue_and_queued_cancellation_do_not_run_cancelled_row) ... ok
+test_history_persists_across_restart_and_retention_is_bounded (test_v3_api.AnalysisManagerTests.test_history_persists_across_restart_and_retention_is_bounded) ... ok
+test_locked_old_artifact_does_not_kill_worker_and_cleanup_retries (test_v3_api.AnalysisManagerTests.test_locked_old_artifact_does_not_kill_worker_and_cleanup_retries) ... ok
+test_running_cancel_reaps_real_subprocess (test_v3_api.AnalysisManagerTests.test_running_cancel_reaps_real_subprocess) ... ok
+test_service_close_reaps_real_subprocess_and_marks_history (test_v3_api.AnalysisManagerTests.test_service_close_reaps_real_subprocess_and_marks_history) ... ok
+test_analysis_validation_history_and_missing_routes (test_v3_api.V3APITests.test_analysis_validation_history_and_missing_routes) ... ok
+test_assignment_endpoint_reproduces_original_aspirin_and_withholds_large_ood (test_v3_api.V3APITests.test_assignment_endpoint_reproduces_original_aspirin_and_withholds_large_ood) ... ok
+test_ensemble_values_and_spread_are_consistent_and_suppressed_for_ood (test_v3_api.V3APITests.test_ensemble_values_and_spread_are_consistent_and_suppressed_for_ood) ... ok
+test_health_remains_responsive_during_worker_prediction (test_v3_api.V3APITests.test_health_remains_responsive_during_worker_prediction) ... ok
+test_missing_extended_descriptor_is_null_and_not_fabricated_zero (test_v3_api.V3APITests.test_missing_extended_descriptor_is_null_and_not_fabricated_zero) ... ok
+test_real_deep_analysis_exposes_3d_and_downloadable_sdf (test_v3_api.V3APITests.test_real_deep_analysis_exposes_3d_and_downloadable_sdf) ... ok
+test_standard_analysis_is_asynchronous_and_skips_3d (test_v3_api.V3APITests.test_standard_analysis_is_asynchronous_and_skips_3d) ... ok
+test_ensemble_weighted_member_predictions_and_invalid_weights (test_v3_models.V3FeatureTests.test_ensemble_weighted_member_predictions_and_invalid_weights) ... ok
+test_equivalent_smiles_have_identical_vectors (test_v3_models.V3FeatureTests.test_equivalent_smiles_have_identical_vectors) ... ok
+test_fixed_order_unique_names_and_core_values (test_v3_models.V3FeatureTests.test_fixed_order_unique_names_and_core_values) ... ok
+test_imputation_uses_fitting_rows_and_retains_empty_columns (test_v3_models.V3FeatureTests.test_imputation_uses_fitting_rows_and_retains_empty_columns) ... ok
+test_nonfinite_or_failed_extra_descriptor_is_missing (test_v3_models.V3FeatureTests.test_nonfinite_or_failed_extra_descriptor_is_missing) ... ok
+test_selection_api_accepts_only_validation_inputs (test_v3_models.V3FeatureTests.test_selection_api_accepts_only_validation_inputs) ... ok
+test_frozen_v2_partitions_are_byte_identical (test_v3_models.V3ReleaseEvidenceTests.test_frozen_v2_partitions_are_byte_identical) ... ok
+test_protocol_and_validation_hashes_match_release (test_v3_models.V3ReleaseEvidenceTests.test_protocol_and_validation_hashes_match_release) ... ok
+test_release_members_are_nonnegative_normalized_and_match_metadata (test_v3_models.V3ReleaseEvidenceTests.test_release_members_are_nonnegative_normalized_and_match_metadata) ... ok
+test_validation_selection_recomputes_without_test_predictions (test_v3_models.V3ReleaseEvidenceTests.test_validation_selection_recomputes_without_test_predictions) ... ok
+
+----------------------------------------------------------------------
+Ran 86 tests in 167.221s
+
+OK

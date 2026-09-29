@@ -1,0 +1,894 @@
+{
+  "valid": true,
+  "canonical_smiles": "CC(=O)Oc1ccccc1C(=O)O",
+  "molecule": "Aspirin",
+  "formula": "C9H8O4",
+  "descriptor": {
+    "MW": 180.15899999999996,
+    "LogP": 1.3101,
+    "HBD": 1.0,
+    "HBA": 3.0,
+    "TPSA": 63.60000000000001,
+    "RotatableBonds": 2.0,
+    "RingCount": 1.0,
+    "AromaticFraction": 0.46153846153846156,
+    "HeavyAtoms": 13.0,
+    "FractionCSP3": 0.1111111111111111,
+    "MolMR": 44.71030000000002,
+    "Heteroatoms": 4.0,
+    "FormalCharge": 0.0,
+    "AromaticRings": 1.0,
+    "AliphaticRings": 0.0,
+    "LabuteASA": 74.75705264447721,
+    "ExactMW": 180.042258736,
+    "BertzCT": 343.2228677267164,
+    "BalabanJ": 3.0435273546341013,
+    "Kappa1": 9.249605734767023,
+    "Kappa2": 3.7092512583454584,
+    "Kappa3": 2.297415032519928,
+    "Chi0v": 6.9813595436500515,
+    "Chi1v": 3.6174536478673316,
+    "NCount": 0.0,
+    "OCount": 4.0,
+    "HalogenCount": 0.0,
+    "SaturatedRings": 0.0,
+    "MaxAbsEStateIndex": 10.611948223733938,
+    "MaxEStateIndex": 10.611948223733938,
+    "MinAbsEStateIndex": 0.01601851851851821,
+    "MinEStateIndex": -1.1140277777777776,
+    "SPS": 9.307692307692308,
+    "HeavyAtomMolWt": 172.09499999999997,
+    "NumValenceElectrons": 68.0,
+    "MaxPartialCharge": 0.33900378687731025,
+    "MinPartialCharge": -0.4775395271554559,
+    "MaxAbsPartialCharge": 0.4775395271554559,
+    "MinAbsPartialCharge": 0.33900378687731025,
+    "FpDensityMorgan1": 1.3076923076923077,
+    "FpDensityMorgan2": 1.9230769230769231,
+    "FpDensityMorgan3": 2.4615384615384617,
+    "BCUT2D_MWHI": 16.53611122125433,
+    "BCUT2D_MWLOW": 10.182282381035343,
+    "BCUT2D_CHGHI": 2.104306980957856,
+    "BCUT2D_CHGLO": -2.0311320919470135,
+    "BCUT2D_LOGPHI": 2.1698345568128055,
+    "BCUT2D_LOGPLOW": -2.063000061964297,
+    "BCUT2D_MRHI": 5.913065796110142,
+    "BCUT2D_MRLOW": -0.13141434244030561,
+    "AvgIpc": 2.0325369160995868,
+    "Chi0": 9.844934982691242,
+    "Chi0n": 6.9813595436500515,
+    "Chi1": 6.109060905280622,
+    "Chi1n": 3.6174536478673316,
+    "Chi2n": 2.3949556783206725,
+    "Chi2v": 2.3949556783206725,
+    "Chi3n": 1.3711546649445037,
+    "Chi3v": 1.3711546649445037,
+    "Chi4n": 0.8871712192374142,
+    "Chi4v": 0.8871712192374142,
+    "HallKierAlpha": -1.8399999999999999,
+    "PEOE_VSA1": 9.843390348640755,
+    "PEOE_VSA10": 11.3129633249809,
+    "PEOE_VSA11": 0.0,
+    "PEOE_VSA12": 0.0,
+    "PEOE_VSA13": 0.0,
+    "PEOE_VSA14": 11.938610575903699,
+    "PEOE_VSA2": 4.794537184071822,
+    "PEOE_VSA3": 4.794537184071822,
+    "PEOE_VSA4": 0.0,
+    "PEOE_VSA5": 0.0,
+    "PEOE_VSA6": 12.13273413692322,
+    "PEOE_VSA7": 12.13273413692322,
+    "PEOE_VSA8": 6.923737199690624,
+    "PEOE_VSA9": 0.0,
+    "SMR_VSA1": 19.432464716784395,
+    "SMR_VSA10": 11.938610575903699,
+    "SMR_VSA2": 0.0,
+    "SMR_VSA3": 0.0,
+    "SMR_VSA4": 0.0,
+    "SMR_VSA5": 6.923737199690624,
+    "SMR_VSA6": 0.0,
+    "SMR_VSA7": 29.828919765543436,
+    "SMR_VSA8": 0.0,
+    "SMR_VSA9": 5.749511833283905,
+    "SlogP_VSA1": 4.736862953800049,
+    "SlogP_VSA10": 0.0,
+    "SlogP_VSA11": 5.749511833283905,
+    "SlogP_VSA12": 0.0,
+    "SlogP_VSA2": 17.045137970744406,
+    "SlogP_VSA3": 4.794537184071822,
+    "SlogP_VSA4": 0.0,
+    "SlogP_VSA5": 17.28172587545944,
+    "SlogP_VSA6": 24.26546827384644,
+    "SlogP_VSA7": 0.0,
+    "SlogP_VSA8": 0.0,
+    "SlogP_VSA9": 0.0,
+    "EState_VSA1": 11.938610575903699,
+    "EState_VSA10": 9.589074368143644,
+    "EState_VSA11": 0.0,
+    "EState_VSA2": 11.3129633249809,
+    "EState_VSA3": 0.0,
+    "EState_VSA4": 0.0,
+    "EState_VSA5": 19.056471336613843,
+    "EState_VSA6": 12.13273413692322,
+    "EState_VSA7": 0.0,
+    "EState_VSA8": 4.736862953800049,
+    "EState_VSA9": 5.106527394840706,
+    "VSA_EState1": 4.686898148148147,
+    "VSA_EState10": 0.0,
+    "VSA_EState2": 21.184767573696142,
+    "VSA_EState3": 8.687243008314436,
+    "VSA_EState4": -0.01601851851851821,
+    "VSA_EState5": -1.575879629629629,
+    "VSA_EState6": 5.978792517006803,
+    "VSA_EState7": 0.0,
+    "VSA_EState8": 1.2208635676492818,
+    "VSA_EState9": 0.0,
+    "NHOHCount": 1.0,
+    "NOCount": 4.0,
+    "NumAliphaticCarbocycles": 0.0,
+    "NumAliphaticHeterocycles": 0.0,
+    "NumAmideBonds": 0.0,
+    "NumAromaticCarbocycles": 1.0,
+    "NumAromaticHeterocycles": 0.0,
+    "NumAtomStereoCenters": 0.0,
+    "NumBridgeheadAtoms": 0.0,
+    "NumHeterocycles": 0.0,
+    "NumSaturatedCarbocycles": 0.0,
+    "NumSaturatedHeterocycles": 0.0,
+    "NumSpiroAtoms": 0.0,
+    "NumUnspecifiedAtomStereoCenters": 0.0,
+    "Phi": 2.639162439298765,
+    "fr_Al_COO": 0.0,
+    "fr_Al_OH": 0.0,
+    "fr_Al_OH_noTert": 0.0,
+    "fr_ArN": 0.0,
+    "fr_Ar_COO": 1.0,
+    "fr_Ar_N": 0.0,
+    "fr_Ar_NH": 0.0,
+    "fr_Ar_OH": 0.0,
+    "fr_COO": 1.0,
+    "fr_COO2": 1.0,
+    "fr_C_O": 2.0,
+    "fr_C_O_noCOO": 1.0,
+    "fr_C_S": 0.0,
+    "fr_HOCCN": 0.0,
+    "fr_Imine": 0.0,
+    "fr_NH0": 0.0,
+    "fr_NH1": 0.0,
+    "fr_NH2": 0.0,
+    "fr_N_O": 0.0,
+    "fr_Ndealkylation1": 0.0,
+    "fr_Ndealkylation2": 0.0,
+    "fr_Nhpyrrole": 0.0,
+    "fr_SH": 0.0,
+    "fr_aldehyde": 0.0,
+    "fr_alkyl_carbamate": 0.0,
+    "fr_alkyl_halide": 0.0,
+    "fr_allylic_oxid": 0.0,
+    "fr_amide": 0.0,
+    "fr_amidine": 0.0,
+    "fr_aniline": 0.0,
+    "fr_aryl_methyl": 0.0,
+    "fr_azide": 0.0,
+    "fr_azo": 0.0,
+    "fr_barbitur": 0.0,
+    "fr_benzene": 1.0,
+    "fr_benzodiazepine": 0.0,
+    "fr_bicyclic": 0.0,
+    "fr_diazo": 0.0,
+    "fr_dihydropyridine": 0.0,
+    "fr_epoxide": 0.0,
+    "fr_ester": 1.0,
+    "fr_ether": 1.0,
+    "fr_furan": 0.0,
+    "fr_guanido": 0.0,
+    "fr_halogen": 0.0,
+    "fr_hdrzine": 0.0,
+    "fr_hdrzone": 0.0,
+    "fr_imidazole": 0.0,
+    "fr_imide": 0.0,
+    "fr_isocyan": 0.0,
+    "fr_isothiocyan": 0.0,
+    "fr_ketone": 0.0,
+    "fr_ketone_Topliss": 0.0,
+    "fr_lactam": 0.0,
+    "fr_lactone": 0.0,
+    "fr_methoxy": 0.0,
+    "fr_morpholine": 0.0,
+    "fr_nitrile": 0.0,
+    "fr_nitro": 0.0,
+    "fr_nitro_arom": 0.0,
+    "fr_nitro_arom_nonortho": 0.0,
+    "fr_nitroso": 0.0,
+    "fr_oxazole": 0.0,
+    "fr_oxime": 0.0,
+    "fr_para_hydroxylation": 1.0,
+    "fr_phenol": 0.0,
+    "fr_phenol_noOrthoHbond": 0.0,
+    "fr_phos_acid": 0.0,
+    "fr_phos_ester": 0.0,
+    "fr_piperdine": 0.0,
+    "fr_piperzine": 0.0,
+    "fr_priamide": 0.0,
+    "fr_prisulfonamd": 0.0,
+    "fr_pyridine": 0.0,
+    "fr_quatN": 0.0,
+    "fr_sulfide": 0.0,
+    "fr_sulfonamd": 0.0,
+    "fr_sulfone": 0.0,
+    "fr_term_acetylene": 0.0,
+    "fr_tetrazole": 0.0,
+    "fr_thiazole": 0.0,
+    "fr_thiocyan": 0.0,
+    "fr_thiophene": 0.0,
+    "fr_unbrch_alkane": 0.0,
+    "fr_urea": 0.0
+  },
+  "missing_descriptors": [],
+  "structure_svg": "<svg version='1.1' baseProfile='full'\n              xmlns='http://www.w3.org/2000/svg'\n                      xmlns:rdkit='http://www.rdkit.org/xml'\n                      xmlns:xlink='http://www.w3.org/1999/xlink'\n                  xml:space='preserve'\nwidth='520px' height='300px' viewBox='0 0 520 300'>\n<!-- END OF HEADER -->\n<path class='bond-0 atom-0 atom-1' d='M 117.7,198.9 L 162.9,158.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-1 atom-1 atom-2' d='M 167.9,159.8 L 162.4,134.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-1 atom-1 atom-2' d='M 162.4,134.3 L 157.0,108.7' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-1 atom-1 atom-2' d='M 159.0,161.7 L 153.5,136.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-1 atom-1 atom-2' d='M 153.5,136.2 L 148.0,110.7' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-2 atom-1 atom-3' d='M 162.9,158.2 L 186.8,165.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-2 atom-1 atom-3' d='M 186.8,165.9 L 210.8,173.7' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-3 atom-3 atom-4' d='M 230.6,167.9 L 248.2,152.0' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-3 atom-3 atom-4' d='M 248.2,152.0 L 265.8,136.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-4 atom-4 atom-5' d='M 265.8,136.2 L 253.1,76.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-4 atom-4 atom-5' d='M 273.6,129.1 L 263.1,80.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-5 atom-5 atom-6' d='M 253.1,76.7 L 298.2,36.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-6 atom-6 atom-7' d='M 298.2,36.0 L 356.0,54.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-6 atom-6 atom-7' d='M 300.4,46.3 L 348.2,61.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-7 atom-7 atom-8' d='M 356.0,54.7 L 368.8,114.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-8 atom-8 atom-9' d='M 368.8,114.2 L 323.6,154.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-8 atom-8 atom-9' d='M 358.7,110.9 L 321.4,144.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-9 atom-9 atom-10' d='M 323.6,154.9 L 336.3,214.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-10 atom-10 atom-11' d='M 332.4,217.8 L 357.6,226.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-10 atom-10 atom-11' d='M 357.6,226.0 L 382.9,234.2' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-10 atom-10 atom-11' d='M 335.2,209.2 L 360.4,217.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-10 atom-10 atom-11' d='M 360.4,217.3 L 385.7,225.5' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-11 atom-10 atom-12' d='M 336.3,214.3 L 318.7,230.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-11 atom-10 atom-12' d='M 318.7,230.2 L 301.1,246.1' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-12 atom-9 atom-4' d='M 323.6,154.9 L 265.8,136.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path d='M 160.6,160.2 L 162.9,158.2 L 164.1,158.5' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />\n<path d='M 253.7,79.7 L 253.1,76.7 L 255.4,74.7' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />\n<path d='M 296.0,38.0 L 298.2,36.0 L 301.1,36.9' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />\n<path d='M 353.2,53.8 L 356.0,54.7 L 356.7,57.7' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />\n<path d='M 368.1,111.2 L 368.8,114.2 L 366.5,116.2' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />\n<path d='M 335.7,211.3 L 336.3,214.3 L 335.5,215.1' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />\n<path class='atom-2' d='M 142.3 98.8\nQ 142.3 94.6, 144.3 92.3\nQ 146.3 90.0, 150.2 90.0\nQ 154.0 90.0, 156.0 92.3\nQ 158.1 94.6, 158.1 98.8\nQ 158.1 103.0, 156.0 105.3\nQ 153.9 107.7, 150.2 107.7\nQ 146.4 107.7, 144.3 105.3\nQ 142.3 103.0, 142.3 98.8\nM 150.2 105.7\nQ 152.8 105.7, 154.2 104.0\nQ 155.6 102.2, 155.6 98.8\nQ 155.6 95.4, 154.2 93.7\nQ 152.8 92.0, 150.2 92.0\nQ 147.5 92.0, 146.1 93.7\nQ 144.7 95.4, 144.7 98.8\nQ 144.7 102.2, 146.1 104.0\nQ 147.5 105.7, 150.2 105.7\n' fill='#FF0000'/>\n<path class='atom-3' d='M 212.8 176.9\nQ 212.8 172.8, 214.8 170.5\nQ 216.9 168.2, 220.7 168.2\nQ 224.5 168.2, 226.5 170.5\nQ 228.6 172.8, 228.6 176.9\nQ 228.6 181.1, 226.5 183.5\nQ 224.5 185.8, 220.7 185.8\nQ 216.9 185.8, 214.8 183.5\nQ 212.8 181.1, 212.8 176.9\nM 220.7 183.9\nQ 223.3 183.9, 224.7 182.2\nQ 226.2 180.4, 226.2 176.9\nQ 226.2 173.5, 224.7 171.8\nQ 223.3 170.1, 220.7 170.1\nQ 218.1 170.1, 216.6 171.8\nQ 215.2 173.5, 215.2 176.9\nQ 215.2 180.4, 216.6 182.2\nQ 218.1 183.9, 220.7 183.9\n' fill='#FF0000'/>\n<path class='atom-11' d='M 386.3 233.1\nQ 386.3 228.9, 388.3 226.6\nQ 390.3 224.3, 394.2 224.3\nQ 398.0 224.3, 400.0 226.6\nQ 402.1 228.9, 402.1 233.1\nQ 402.1 237.3, 400.0 239.6\nQ 397.9 242.0, 394.2 242.0\nQ 390.4 242.0, 388.3 239.6\nQ 386.3 237.3, 386.3 233.1\nM 394.2 240.1\nQ 396.8 240.1, 398.2 238.3\nQ 399.6 236.5, 399.6 233.1\nQ 399.6 229.7, 398.2 228.0\nQ 396.8 226.3, 394.2 226.3\nQ 391.5 226.3, 390.1 228.0\nQ 388.7 229.7, 388.7 233.1\nQ 388.7 236.6, 390.1 238.3\nQ 391.5 240.1, 394.2 240.1\n' fill='#FF0000'/>\n<path class='atom-12' d='M 266.3 246.5\nL 268.6 246.5\nL 268.6 253.8\nL 277.4 253.8\nL 277.4 246.5\nL 279.8 246.5\nL 279.8 263.7\nL 277.4 263.7\nL 277.4 255.8\nL 268.6 255.8\nL 268.6 263.7\nL 266.3 263.7\nL 266.3 246.5\n' fill='#FF0000'/>\n<path class='atom-12' d='M 283.3 255.1\nQ 283.3 250.9, 285.4 248.6\nQ 287.4 246.3, 291.2 246.3\nQ 295.0 246.3, 297.1 248.6\nQ 299.1 250.9, 299.1 255.1\nQ 299.1 259.3, 297.0 261.6\nQ 295.0 264.0, 291.2 264.0\nQ 287.4 264.0, 285.4 261.6\nQ 283.3 259.3, 283.3 255.1\nM 291.2 262.1\nQ 293.8 262.1, 295.2 260.3\nQ 296.7 258.5, 296.7 255.1\nQ 296.7 251.7, 295.2 250.0\nQ 293.8 248.3, 291.2 248.3\nQ 288.6 248.3, 287.2 250.0\nQ 285.7 251.7, 285.7 255.1\nQ 285.7 258.6, 287.2 260.3\nQ 288.6 262.1, 291.2 262.1\n' fill='#FF0000'/>\n</svg>\n",
+  "predictions": {
+    "logS": {
+      "label": "水溶解度 logS",
+      "unit": "log10(mol/L)",
+      "status": "ok",
+      "value": -1.9263715129537995,
+      "interval90": [
+        -3.7674272515951928,
+        -0.08531577431240622
+      ],
+      "model_name": "ValidationEnsemble[HistGradientBoosting_219D+ExtraTrees_219D_Morgan2048]",
+      "training_match": true,
+      "nearest_similarity": 1.0,
+      "nearest_neighbors": [
+        {
+          "similarity": 1.0,
+          "canonical_smiles": "CC(=O)Oc1ccccc1C(=O)O",
+          "name": "acetylsalicylic_acid"
+        },
+        {
+          "similarity": 0.6774193548387096,
+          "canonical_smiles": "CC(=O)Oc1ccccc1C(=O)Oc1ccccc1",
+          "name": "benzoic acid, 2-(acetyloxy)-, phenyl ester"
+        },
+        {
+          "similarity": 0.6666666666666666,
+          "canonical_smiles": "COC(=O)c1ccccc1OC(C)=O",
+          "name": "methyl acetylsalicylate;  2-acetoxybenzoic acid methyl ester"
+        }
+      ],
+      "domain_violations": [],
+      "warnings": [
+        "区间为独立校准集残差得到的名义 90% 经验区间；不保证新分子或分布外分子的覆盖率。",
+        "模型训练集合包含该分子的连接结构（可能包括立体异构体）；此结果不是独立外部验证。",
+        "集成成员差异仅表示模型间分歧，不是实验误差或校准置信区间。"
+      ],
+      "ensemble": {
+        "member_values": [
+          {
+            "name": "HistGradientBoosting_219D",
+            "value": -1.8951223084792503
+          },
+          {
+            "name": "ExtraTrees_219D_Morgan2048",
+            "value": -1.9612228252989543
+          }
+        ],
+        "spread": 0.03300114824790378,
+        "spread_kind": "weighted_population_std",
+        "weights": [
+          0.527247198992637,
+          0.47275280100736305
+        ]
+      }
+    },
+    "logD74": {
+      "label": "分配系数 logD（pH 7.4）",
+      "unit": "log10(D), pH 7.4",
+      "status": "ok",
+      "value": -0.2891576044864361,
+      "interval90": [
+        -1.3366769828738534,
+        0.7583617739009811
+      ],
+      "model_name": "ValidationEnsemble[SVR_219D+HistGradientBoosting_219D]",
+      "training_match": false,
+      "nearest_similarity": 0.4482758620689655,
+      "nearest_neighbors": [
+        {
+          "similarity": 0.4482758620689655,
+          "canonical_smiles": "O=C(O)c1ccccc1O",
+          "name": "CHEMBL424"
+        },
+        {
+          "similarity": 0.38095238095238093,
+          "canonical_smiles": "COc1cc(-c2ccc(Nc3ccccc3C(=O)O)c(OC)c2)ccc1Nc1ccccc1C(=O)O",
+          "name": "CHEMBL1340633"
+        },
+        {
+          "similarity": 0.375,
+          "canonical_smiles": "COc1ccc(Nc2ccccc2C(=O)O)cc1",
+          "name": "CHEMBL1596993"
+        }
+      ],
+      "domain_violations": [],
+      "warnings": [
+        "区间为独立校准集残差得到的名义 90% 经验区间；不保证新分子或分布外分子的覆盖率。",
+        "集成成员差异仅表示模型间分歧，不是实验误差或校准置信区间。"
+      ],
+      "ensemble": {
+        "member_values": [
+          {
+            "name": "SVR_219D",
+            "value": -0.4204501018817637
+          },
+          {
+            "name": "HistGradientBoosting_219D",
+            "value": -0.13497080883943058
+          }
+        ],
+        "spread": 0.14227989831974994,
+        "spread_kind": "weighted_population_std",
+        "weights": [
+          0.540098001518245,
+          0.45990199848175495
+        ]
+      }
+    },
+    "hydration_free_energy": {
+      "label": "水合自由能",
+      "unit": "kcal/mol",
+      "status": "ok",
+      "value": -9.89399176980227,
+      "interval90": [
+        -15.979744394189748,
+        -3.8082391454147917
+      ],
+      "model_name": "ValidationEnsemble[Ridge_219D_Morgan2048+ExtraTrees_219D]",
+      "training_match": true,
+      "nearest_similarity": 1.0,
+      "nearest_neighbors": [
+        {
+          "similarity": 1.0,
+          "canonical_smiles": "CC(=O)Oc1ccccc1C(=O)O",
+          "name": "acetylsalicylic acid"
+        },
+        {
+          "similarity": 0.3793103448275862,
+          "canonical_smiles": "CC(=O)c1ccccc1",
+          "name": "1-phenylethanone"
+        },
+        {
+          "similarity": 0.358974358974359,
+          "canonical_smiles": "Cc1cccc(Nc2ccccc2C(=O)O)c1C",
+          "name": "2-(2,3-dimethylphenyl)aminobenzoic acid"
+        }
+      ],
+      "domain_violations": [],
+      "warnings": [
+        "区间为独立校准集残差得到的名义 90% 经验区间；不保证新分子或分布外分子的覆盖率。",
+        "模型训练集合包含该分子的连接结构（可能包括立体异构体）；此结果不是独立外部验证。",
+        "集成成员差异仅表示模型间分歧，不是实验误差或校准置信区间。"
+      ],
+      "ensemble": {
+        "member_values": [
+          {
+            "name": "Ridge_219D_Morgan2048",
+            "value": -9.900110244750977
+          },
+          {
+            "name": "ExtraTrees_219D",
+            "value": -9.886481481481486
+          }
+        ],
+        "spread": 0.006778754380288628,
+        "spread_kind": "weighted_population_std",
+        "weights": [
+          0.5510616166909981,
+          0.44893838330900193
+        ]
+      }
+    }
+  },
+  "measurements": [
+    {
+      "dataset": "FreeSolv",
+      "source_id": "csv-row-229",
+      "target": "hydration_free_energy",
+      "value": -9.94,
+      "unit": "kcal/mol",
+      "quality": "experimental_reference;expt_column;per_row_uncertainty_not_in_CSV",
+      "source_url": "https://deepchemdata.s3-us-west-1.amazonaws.com/datasets/SAMPL.csv"
+    },
+    {
+      "dataset": "AqSolDB",
+      "source_id": "E-1274",
+      "target": "logS",
+      "value": -1.72,
+      "unit": "log10(mol/L)",
+      "quality": "author_curated_experimental;Group=G5;SD=0.06859968850195283;Occurrences=4",
+      "source_url": "https://raw.githubusercontent.com/mcsorkun/AqSolDB/master/results/data_curated.csv"
+    }
+  ],
+  "warnings": [
+    "模型估计与数据库原始观测分别展示；匹配的数据库记录不代表该结构存在唯一、无条件的实验真值。"
+  ],
+  "logS_prediction": -1.9263715129537995,
+  "solubility_mol_L": 0.011847548276607995,
+  "conformers": {
+    "status": "completed",
+    "reason": null,
+    "method": "ETKDGv3 + MMFF94",
+    "requested": 16,
+    "embedded": 2,
+    "converged": 2,
+    "unconverged_count": 0,
+    "unconverged": [],
+    "atoms": [
+      {
+        "index": 0,
+        "element": "C",
+        "atomic_number": 6
+      },
+      {
+        "index": 1,
+        "element": "C",
+        "atomic_number": 6
+      },
+      {
+        "index": 2,
+        "element": "O",
+        "atomic_number": 8
+      },
+      {
+        "index": 3,
+        "element": "O",
+        "atomic_number": 8
+      },
+      {
+        "index": 4,
+        "element": "C",
+        "atomic_number": 6
+      },
+      {
+        "index": 5,
+        "element": "C",
+        "atomic_number": 6
+      },
+      {
+        "index": 6,
+        "element": "C",
+        "atomic_number": 6
+      },
+      {
+        "index": 7,
+        "element": "C",
+        "atomic_number": 6
+      },
+      {
+        "index": 8,
+        "element": "C",
+        "atomic_number": 6
+      },
+      {
+        "index": 9,
+        "element": "C",
+        "atomic_number": 6
+      },
+      {
+        "index": 10,
+        "element": "C",
+        "atomic_number": 6
+      },
+      {
+        "index": 11,
+        "element": "O",
+        "atomic_number": 8
+      },
+      {
+        "index": 12,
+        "element": "O",
+        "atomic_number": 8
+      },
+      {
+        "index": 13,
+        "element": "H",
+        "atomic_number": 1
+      },
+      {
+        "index": 14,
+        "element": "H",
+        "atomic_number": 1
+      },
+      {
+        "index": 15,
+        "element": "H",
+        "atomic_number": 1
+      },
+      {
+        "index": 16,
+        "element": "H",
+        "atomic_number": 1
+      },
+      {
+        "index": 17,
+        "element": "H",
+        "atomic_number": 1
+      },
+      {
+        "index": 18,
+        "element": "H",
+        "atomic_number": 1
+      },
+      {
+        "index": 19,
+        "element": "H",
+        "atomic_number": 1
+      },
+      {
+        "index": 20,
+        "element": "H",
+        "atomic_number": 1
+      }
+    ],
+    "bonds": [
+      {
+        "begin": 0,
+        "end": 1,
+        "order": 1.0
+      },
+      {
+        "begin": 1,
+        "end": 2,
+        "order": 2.0
+      },
+      {
+        "begin": 1,
+        "end": 3,
+        "order": 1.0
+      },
+      {
+        "begin": 3,
+        "end": 4,
+        "order": 1.0
+      },
+      {
+        "begin": 4,
+        "end": 5,
+        "order": 1.5
+      },
+      {
+        "begin": 5,
+        "end": 6,
+        "order": 1.5
+      },
+      {
+        "begin": 6,
+        "end": 7,
+        "order": 1.5
+      },
+      {
+        "begin": 7,
+        "end": 8,
+        "order": 1.5
+      },
+      {
+        "begin": 8,
+        "end": 9,
+        "order": 1.5
+      },
+      {
+        "begin": 9,
+        "end": 10,
+        "order": 1.0
+      },
+      {
+        "begin": 10,
+        "end": 11,
+        "order": 2.0
+      },
+      {
+        "begin": 10,
+        "end": 12,
+        "order": 1.0
+      },
+      {
+        "begin": 9,
+        "end": 4,
+        "order": 1.5
+      },
+      {
+        "begin": 0,
+        "end": 13,
+        "order": 1.0
+      },
+      {
+        "begin": 0,
+        "end": 14,
+        "order": 1.0
+      },
+      {
+        "begin": 0,
+        "end": 15,
+        "order": 1.0
+      },
+      {
+        "begin": 5,
+        "end": 16,
+        "order": 1.0
+      },
+      {
+        "begin": 6,
+        "end": 17,
+        "order": 1.0
+      },
+      {
+        "begin": 7,
+        "end": 18,
+        "order": 1.0
+      },
+      {
+        "begin": 8,
+        "end": 19,
+        "order": 1.0
+      },
+      {
+        "begin": 12,
+        "end": 20,
+        "order": 1.0
+      }
+    ],
+    "items": [
+      {
+        "id": 0,
+        "energy_kcal_mol": 18.909768978227525,
+        "converged": true,
+        "coordinates": [
+          [
+            -2.654273142377101,
+            -2.20100959947899,
+            -0.07046232055320482
+          ],
+          [
+            -1.8249570150363341,
+            -0.9952829156296545,
+            0.2561231469996209
+          ],
+          [
+            -1.9080069599978178,
+            -0.35989508504039797,
+            1.2994290133322424
+          ],
+          [
+            -0.9871505141608682,
+            -0.7209196604995816,
+            -0.8191734874369776
+          ],
+          [
+            -0.1115526988676104,
+            0.33792285357041596,
+            -0.5612982317618002
+          ],
+          [
+            -0.46290497952115917,
+            1.5867531856752781,
+            -1.0841098377503682
+          ],
+          [
+            0.38036409975293173,
+            2.678581601791342,
+            -0.8877179918547871
+          ],
+          [
+            1.5733217442721081,
+            2.5193281911750893,
+            -0.18336400393004232
+          ],
+          [
+            1.9307490127174465,
+            1.264808039098151,
+            0.3217733764818818
+          ],
+          [
+            1.09351323702679,
+            0.15423312446223203,
+            0.13210412135810548
+          ],
+          [
+            1.4808119741952954,
+            -1.1878840831610662,
+            0.6409848937353863
+          ],
+          [
+            0.8865614083539455,
+            -2.236862588303191,
+            0.47342567775091354
+          ],
+          [
+            2.625401713980196,
+            -1.1602998182896889,
+            1.3509167369760233
+          ],
+          [
+            -3.3073330149147053,
+            -1.9820876750956062,
+            -0.9187361858934451
+          ],
+          [
+            -3.273603163560917,
+            -2.458658473084385,
+            0.7934336241110531
+          ],
+          [
+            -2.0036392565836536,
+            -3.050313912318369,
+            -0.29377779195113995
+          ],
+          [
+            -1.3920758529648465,
+            1.7095827229198495,
+            -1.6334727061485386
+          ],
+          [
+            0.10734501083903278,
+            3.654533509458477,
+            -1.2818055178477843
+          ],
+          [
+            2.230026484193981,
+            3.372356886106288,
+            -0.02786602055966376
+          ],
+          [
+            2.8702810677286514,
+            1.1662791742812086,
+            0.8609348165496321
+          ],
+          [
+            2.747120844924434,
+            -2.0911654776373325,
+            1.6326586883927738
+          ]
+        ],
+        "relative_energy_kcal_mol": 0.0
+      },
+      {
+        "id": 1,
+        "energy_kcal_mol": 18.909768979148033,
+        "converged": true,
+        "coordinates": [
+          [
+            3.1801533785266347,
+            1.3345996131730173,
+            0.007009474139764902
+          ],
+          [
+            1.9948002485891247,
+            0.5061291395860331,
+            -0.3889387724594025
+          ],
+          [
+            1.7579300549844241,
+            0.1387786552428746,
+            -1.532638381436696
+          ],
+          [
+            1.248562035098066,
+            0.21637948501049456,
+            0.7480013014957544
+          ],
+          [
+            0.07164843040514361,
+            -0.4789245315920718,
+            0.4551784991630067
+          ],
+          [
+            0.09272966300442452,
+            -1.863386060495846,
+            0.6531156010377279
+          ],
+          [
+            -1.0560965357826646,
+            -2.612726209403373,
+            0.4072504090925519
+          ],
+          [
+            -2.221973621336335,
+            -1.979477454089375,
+            -0.022110734363928533
+          ],
+          [
+            -2.244980272886858,
+            -0.5922934384023008,
+            -0.20079945093256907
+          ],
+          [
+            -1.0970544268488114,
+            0.17776307461379795,
+            0.043319938380378016
+          ],
+          [
+            -1.1225402117562449,
+            1.6556094858531203,
+            -0.1165514210824943
+          ],
+          [
+            -0.22570720313798076,
+            2.4379152434355076,
+            0.1388966121624406
+          ],
+          [
+            -2.2992861882492672,
+            2.1027873200140057,
+            -0.5962912247984664
+          ],
+          [
+            2.8455666862669897,
+            2.247704994418326,
+            0.5058102035219455
+          ],
+          [
+            3.739951624689581,
+            1.6164381650345192,
+            -0.8893508954293484
+          ],
+          [
+            3.8343974674089183,
+            0.7547401381266832,
+            0.6625332418409821
+          ],
+          [
+            1.0012609954147884,
+            -2.3556605130611277,
+            0.988498763446896
+          ],
+          [
+            -1.0428359896986443,
+            -3.690810343909362,
+            0.5482629176644315
+          ],
+          [
+            -3.117766611975338,
+            -2.564999999408148,
+            -0.2165768341841396
+          ],
+          [
+            -3.169376219787583,
+            -0.12239790320584168,
+            -0.5291498291307011
+          ],
+          [
+            -2.1693833029283702,
+            3.0718311390591997,
+            -0.6654694181281638
+          ]
+        ],
+        "relative_energy_kcal_mol": 9.205081141772098e-10
+      }
+    ],
+    "lowest_energy_id": 0,
+    "shape_descriptors": {
+      "radius_of_gyration": 2.4283455352310237,
+      "asphericity": 0.1972921758789205,
+      "eccentricity": 0.8865230879381947,
+      "inertial_shape_factor": 0.0014201291139971403,
+      "spherocity_index": 0.09743000925054186
+    },
+    "sdf_url": "/analyses/6639e2c2-d834-4ee3-b2f0-0745cac1cdc5/conformers.sdf",
+    "warnings": [
+      "此步骤是 ETKDGv3 构象生成与 MMFF94 分子力场优化，不是量子化学或 DFT 计算。",
+      "能量仅用于同一分子的构象比较；不能跨分子比较，也不能作为溶解度、水合自由能或溶液相热力学结果。",
+      "构象采样有限；最低采样能量不保证是全局最低能构象。坐标单位为 Å，能量单位为 kcal/mol。"
+    ]
+  },
+  "timing": {
+    "prediction_seconds": 0.3032709000399336,
+    "conformer_seconds": 1.234000000054948,
+    "total_seconds": 1.5310000000754371
+  },
+  "evidence": {
+    "predictions": "machine_learning",
+    "measurements": "source_observations",
+    "conformers": "molecular_mechanics",
+    "quantum_calculation_executed": false
+  }
+}

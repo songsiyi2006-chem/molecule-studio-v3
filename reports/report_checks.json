@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "pages": 9,
+  "visual_inspection": "All nine final pages inspected; pages 4 and 8 re-inspected after final wording edits, other final page PNG hashes unchanged. No blank overflow page, clipped table or overlapping content observed.",
+  "renderer": "Microsoft Word COM PDF export and Poppler page rendering; canonical render_docx.py attempted but LibreOffice soffice.exe was absent.",
+  "content_checks": "Core counts, actual metrics, API contract, limitations and report/page text confirmed.",
+  "docx_zip_crc": "passed",
+  "files": {
+    "V3_项目报告.docx": {
+      "bytes": 366909,
+      "sha256": "5e8ddae4f5f496a47ebca5361ba4610302c1c5122c79cd2112047b3d2b381787"
+    },
+    "V3_项目报告.pdf": {
+      "bytes": 713728,
+      "sha256": "fa7e91f0530c48d5eaeb039459d967db6184119169f5cd3c1766ad3156c5c645"
+    }
+  },
+  "status": "passed"
+}

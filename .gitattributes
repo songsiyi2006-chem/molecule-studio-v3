@@ -1,0 +1,2 @@
+# Preserve exact release bytes so published dataset/model/report hashes remain valid.
+* -text

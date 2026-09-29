@@ -1,0 +1,63 @@
+Training all three physicochemical models using the project environment...
+logS: frozen partitions {'train': 6149, 'validation': 769, 'calibration': 768, 'test': 224}; protocol written before fitting
+logS: feature cache 1000/7910
+logS: feature cache 2000/7910
+logS: feature cache 3000/7910
+logS: feature cache 4000/7910
+logS: feature cache 5000/7910
+logS: feature cache 6000/7910
+logS: feature cache 7000/7910
+logS: fitting RandomForest_28D (28 selected inputs)
+logS: RandomForest_28D validation RMSE=1.192960; 9.1s
+logS: fitting ExtraTrees_28D_Morgan2048 (2076 selected inputs)
+logS: ExtraTrees_28D_Morgan2048 validation RMSE=1.143947; 91.6s
+logS: fitting ExtraTrees_219D (219 selected inputs)
+logS: ExtraTrees_219D validation RMSE=1.105808; 43.5s
+logS: fitting HistGradientBoosting_219D (219 selected inputs)
+logS: HistGradientBoosting_219D validation RMSE=1.112833; 24.3s
+logS: fitting Ridge_219D_Morgan2048 (2267 selected inputs)
+logS: Ridge_219D_Morgan2048 validation RMSE=1.744788; 7.3s
+logS: fitting SVR_219D (219 selected inputs)
+logS: SVR_219D validation RMSE=1.291291; 24.3s
+logS: fitting ExtraTrees_219D_Morgan2048 (2267 selected inputs)
+logS: ExtraTrees_219D_Morgan2048 validation RMSE=1.120878; 141.7s
+logS: selected ['HistGradientBoosting_219D', 'ExtraTrees_219D_Morgan2048'] weights=[0.527247198992637, 0.47275280100736305]; refitting train+validation
+logS: COMPLETE test RMSE=0.825611, MAE=0.637439, coverage=95.982%, radius=1.841056
+logD74: frozen partitions {'train': 2664, 'validation': 410, 'calibration': 410, 'test': 615}; protocol written before fitting
+logD74: feature cache 1000/4099
+logD74: feature cache 2000/4099
+logD74: feature cache 3000/4099
+logD74: feature cache 4000/4099
+logD74: fitting RandomForest_28D (28 selected inputs)
+logD74: RandomForest_28D validation RMSE=0.926727; 4.5s
+logD74: fitting ExtraTrees_28D_Morgan2048 (2076 selected inputs)
+logD74: ExtraTrees_28D_Morgan2048 validation RMSE=0.884895; 65.6s
+logD74: fitting ExtraTrees_219D (219 selected inputs)
+logD74: ExtraTrees_219D validation RMSE=0.844921; 21.9s
+logD74: fitting HistGradientBoosting_219D (219 selected inputs)
+logD74: HistGradientBoosting_219D validation RMSE=0.810555; 15.2s
+logD74: fitting Ridge_219D_Morgan2048 (2267 selected inputs)
+logD74: Ridge_219D_Morgan2048 validation RMSE=1.482437; 2.4s
+logD74: fitting SVR_219D (219 selected inputs)
+logD74: SVR_219D validation RMSE=0.798855; 2.8s
+logD74: fitting ExtraTrees_219D_Morgan2048 (2267 selected inputs)
+logD74: ExtraTrees_219D_Morgan2048 validation RMSE=0.867462; 48.5s
+logD74: selected ['SVR_219D', 'HistGradientBoosting_219D'] weights=[0.540098001518245, 0.45990199848175495]; refitting train+validation
+logD74: COMPLETE test RMSE=0.726950, MAE=0.551399, coverage=85.854%, radius=1.047519
+hydration_free_energy: frozen partitions {'train': 469, 'validation': 46, 'calibration': 46, 'test': 78}; protocol written before fitting
+hydration_free_energy: fitting RandomForest_28D (28 selected inputs)
+hydration_free_energy: RandomForest_28D validation RMSE=2.918437; 0.7s
+hydration_free_energy: fitting ExtraTrees_28D_Morgan2048 (2076 selected inputs)
+hydration_free_energy: ExtraTrees_28D_Morgan2048 validation RMSE=3.590326; 4.0s
+hydration_free_energy: fitting ExtraTrees_219D (219 selected inputs)
+hydration_free_energy: ExtraTrees_219D validation RMSE=2.584685; 1.8s
+hydration_free_energy: fitting HistGradientBoosting_219D (219 selected inputs)
+hydration_free_energy: HistGradientBoosting_219D validation RMSE=2.515719; 12.0s
+hydration_free_energy: fitting Ridge_219D_Morgan2048 (2267 selected inputs)
+hydration_free_energy: Ridge_219D_Morgan2048 validation RMSE=2.513454; 0.2s
+hydration_free_energy: fitting SVR_219D (219 selected inputs)
+hydration_free_energy: SVR_219D validation RMSE=4.537071; 0.1s
+hydration_free_energy: fitting ExtraTrees_219D_Morgan2048 (2267 selected inputs)
+hydration_free_energy: ExtraTrees_219D_Morgan2048 validation RMSE=3.218395; 4.9s
+hydration_free_energy: selected ['Ridge_219D_Morgan2048', 'ExtraTrees_219D'] weights=[0.5510616166909981, 0.44893838330900193]; refitting train+validation
+hydration_free_energy: COMPLETE test RMSE=1.342369, MAE=1.096688, coverage=100.000%, radius=6.085753

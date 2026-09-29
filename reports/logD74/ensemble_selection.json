@@ -1,0 +1,76 @@
+{
+  "member_names": [
+    "SVR_219D",
+    "HistGradientBoosting_219D"
+  ],
+  "weights": [
+    0.540098001518245,
+    0.45990199848175495
+  ],
+  "metrics": {
+    "rmse": 0.7671410066353859,
+    "mae": 0.5834692163707288,
+    "r2": 0.5916591703799562
+  },
+  "rule": "Fit seven prespecified candidates on train only. Rank by validation RMSE (name tie-break). Among the top three evaluate all pairs with least-squares simplex weights clipped to [0.1,0.9]. Use the lowest-RMSE pair only if it improves best-single validation RMSE by at least 1%; otherwise retain the best single. Freeze weights; refit selected members on train+validation. Calibration/test labels never enter candidate selection or weight fitting.",
+  "best_single": "SVR_219D",
+  "ranked_candidates": [
+    "SVR_219D",
+    "HistGradientBoosting_219D",
+    "ExtraTrees_219D",
+    "ExtraTrees_219D_Morgan2048",
+    "ExtraTrees_28D_Morgan2048",
+    "RandomForest_28D",
+    "Ridge_219D_Morgan2048"
+  ],
+  "relative_improvement_required": 0.01,
+  "pairs_considered": [
+    {
+      "member_names": [
+        "SVR_219D",
+        "HistGradientBoosting_219D"
+      ],
+      "weights": [
+        0.540098001518245,
+        0.45990199848175495
+      ],
+      "metrics": {
+        "rmse": 0.7671410066353859,
+        "mae": 0.5834692163707288,
+        "r2": 0.5916591703799562
+      }
+    },
+    {
+      "member_names": [
+        "SVR_219D",
+        "ExtraTrees_219D"
+      ],
+      "weights": [
+        0.6449510462934057,
+        0.3550489537065943
+      ],
+      "metrics": {
+        "rmse": 0.777973245788755,
+        "mae": 0.600196374625287,
+        "r2": 0.5800459879338502
+      }
+    },
+    {
+      "member_names": [
+        "HistGradientBoosting_219D",
+        "ExtraTrees_219D"
+      ],
+      "weights": [
+        0.8283136577573017,
+        0.1716863422426983
+      ],
+      "metrics": {
+        "rmse": 0.8089783907908221,
+        "mae": 0.6171484732474273,
+        "r2": 0.5459054885851217
+      }
+    }
+  ],
+  "selection_label_partition": "validation",
+  "candidate_fit_partition": "train"
+}

@@ -1,0 +1,149 @@
+{
+  "raw_rows": 1128,
+  "excluded": [],
+  "duplicates": [
+    {
+      "canonical_smiles": "Brc1ccc2ccccc2c1",
+      "replicates": 2,
+      "values": [
+        -4.4,
+        -4.4
+      ],
+      "mean": -4.4,
+      "csv_lines": [
+        224,
+        556
+      ]
+    },
+    {
+      "canonical_smiles": "CC12CCC(CC1)C(C)(C)O2",
+      "replicates": 2,
+      "values": [
+        -1.64,
+        -1.74
+      ],
+      "mean": -1.69,
+      "csv_lines": [
+        215,
+        978
+      ]
+    },
+    {
+      "canonical_smiles": "CC12CCC3C(CCC4CC(O)CCC43C)C1CCC2=O",
+      "replicates": 2,
+      "values": [
+        -4.16,
+        -4.402
+      ],
+      "mean": -4.281000000000001,
+      "csv_lines": [
+        234,
+        657
+      ]
+    },
+    {
+      "canonical_smiles": "CCC1(C(C)C)C(=O)NC(=O)NC1=O",
+      "replicates": 2,
+      "values": [
+        -2.21,
+        -2.148
+      ],
+      "mean": -2.1790000000000003,
+      "csv_lines": [
+        703,
+        827
+      ]
+    },
+    {
+      "canonical_smiles": "CCC1(CCC(C)C)C(=O)NC(=O)NC1=O",
+      "replicates": 2,
+      "values": [
+        -2.468,
+        -2.658
+      ],
+      "mean": -2.5629999999999997,
+      "csv_lines": [
+        149,
+        781
+      ]
+    },
+    {
+      "canonical_smiles": "CCC1(c2ccccc2)C(=O)NC(=O)NC1=O",
+      "replicates": 2,
+      "values": [
+        -2.322,
+        -2.322
+      ],
+      "mean": -2.322,
+      "csv_lines": [
+        325,
+        467
+      ]
+    },
+    {
+      "canonical_smiles": "CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O",
+      "replicates": 2,
+      "values": [
+        -6.34,
+        -6.34
+      ],
+      "mean": -6.34,
+      "csv_lines": [
+        262,
+        502
+      ]
+    },
+    {
+      "canonical_smiles": "COc1ccccc1O",
+      "replicates": 2,
+      "values": [
+        -1.96,
+        -1.96
+      ],
+      "mean": -1.96,
+      "csv_lines": [
+        682,
+        1071
+      ]
+    },
+    {
+      "canonical_smiles": "Cc1ncc([N+](=O)[O-])n1CCO",
+      "replicates": 2,
+      "values": [
+        -1.22,
+        -1.26
+      ],
+      "mean": -1.24,
+      "csv_lines": [
+        705,
+        824
+      ]
+    },
+    {
+      "canonical_smiles": "Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)Cl)cc1",
+      "replicates": 2,
+      "values": [
+        -7.2,
+        -7.2
+      ],
+      "mean": -7.2,
+      "csv_lines": [
+        452,
+        1021
+      ]
+    },
+    {
+      "canonical_smiles": "OCC(O)C(O)C(O)C(O)CO",
+      "replicates": 2,
+      "values": [
+        0.06,
+        1.09
+      ],
+      "mean": 0.5750000000000001,
+      "csv_lines": [
+        235,
+        278
+      ]
+    }
+  ]
+}
